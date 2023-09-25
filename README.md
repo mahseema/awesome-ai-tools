@@ -83,6 +83,7 @@
 - [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code](https://github.com/mckaywrigley/chatbot-ui).
 - [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
+- [Multi GPT](extension://hdlddhcngcdpcgajecjoccekfofmllfn/app.html#/chat/pi) - All the main LLMs in one page in a four way selectable interface
 
 ### Productivity
 
