@@ -1,7 +1,7 @@
 # Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of Artificial Intelligence Top Tools
-> 
+>
 > Feel free to contribute
 
 Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top generative ai tools and LLMs. Eager to contribute or feature your product? Send a PR to this repo—it's free! Join my growing AI list of products and stay on the edge of innovation.
@@ -15,7 +15,6 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [🎶 Generative AI Audio](#audio)
 - [🎒 Other AI Tools](#other)
 - [👩‍🏫 Learning resources](#learning-resources)
-
 
 ## Text
 
@@ -38,6 +37,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
+- [Phind](https://www.phind.com/) - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
 
 ### Search engines
 
@@ -257,8 +257,4 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 
 - [NVIDIA Omniverse AI Animal Explorer Extension](https://docs.omniverse.nvidia.com/extensions/latest/ext_animal-explorer.html#installation) - AI Animal Explorer is an Omniverse extension that enables creators to quickly prototype unique 3D animal meshes.
 
-
-
 created by [Mahsima Dastan](https://github.com/mahseema)
-
-
