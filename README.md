@@ -89,6 +89,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 
 ### Productivity
 
+- [Sol-A.](sol-a.app) - Personalized AI-Powered Shortcuts, Speech and Research tools.
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
