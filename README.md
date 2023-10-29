@@ -247,6 +247,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
+- [Petals](https://github.com/bigscience-workshop/petals) - BitTorrent style platform for running AI models in a distributed way
 
 ## Learning resources
 
