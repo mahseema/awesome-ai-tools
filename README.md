@@ -252,6 +252,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
 - [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
   [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
+- [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
 
 ## NVIDIA Platform Extensions
 
