@@ -130,6 +130,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
 - [Prediction Guard](https://www.predictionguard.com/) - Seamlessly integrate private, controlled, and compliant Large Language Models (LLM) functionality.
 - [Portkey](https://portkey.ai/) - Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.
+- [OpenAI Downtime Monitor](https://status.portkey.ai/) - Free tool that tracks API uptime and latencies for various OpenAI models and other LLM providers.
 
 ## Code
 
