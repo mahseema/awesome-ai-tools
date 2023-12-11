@@ -116,6 +116,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 
 ### Customer Support
+- [SiteGPT](https://sitegpt.ai/?ref=mahseema-awesome-ai-tools) - Make AI your expert customer support agent.
 
 ### Other text generators
 
