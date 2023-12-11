@@ -263,6 +263,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Shotstack Workflows](https://shotstack.io/product/workflows/) - No-code, automation workflow tool for building Generative AI media applications.
 - [Aispect](https://aispect.io/?ref=mahseema-awesome-ai-tools) - New way to experience events.
 - [PressPulse AI](https://www.presspulse.ai/?ref=mahseema-awesome-ai-tools) - Get personalized media coverage leads every morning.
+- [GummySearch](https://gummysearch.com/?ref=mahseema-awesome-ai-tools) - AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
 
 ## Learning resources
 
