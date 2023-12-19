@@ -258,6 +258,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
 - [Petals](https://github.com/bigscience-workshop/petals) - BitTorrent style platform for running AI models in a distributed way.
 - [Shotstack Workflows](https://shotstack.io/product/workflows/) - No-code, automation workflow tool for building Generative AI media applications.
+- [PromptPal](https://promptpal.net) - Search for prompts and bots, then use them with your favourite AI. All in one place.
 
 ## Learning resources
 
