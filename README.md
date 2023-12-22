@@ -97,6 +97,9 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
 - [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
+- [Elephas](https://elephas.app/?ref=mahseema-awesome-ai-tools) - Personal AI writing assistant for the Mac.
+- [Lemmy](https://lemmy.co/?ref=mahseema-awesome-ai-tools) - Autonomous AI Assistant for Work.
+- [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=mahseema-awesome-ai-tools) - Forget about frustrating formulas in Google Sheets.
 
 ### Meeting assistants
 
@@ -113,10 +116,16 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API](https://github.com/paperswithcode/galai).
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 
+### Customer Support
+- [SiteGPT](https://sitegpt.ai/?ref=mahseema-awesome-ai-tools) - Make AI your expert customer support agent.
+- [GPTHelp.ai](https://gpthelp.ai/?ref=mahseema-awesome-ai-tools) - ChatGPT for your website / AI customer support chatbot.
+
 ### Other text generators
 
 - [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
 - [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
+- [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=mahseema-awesome-ai-tools) - Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
+
 
 ### Developer tools
 
@@ -184,6 +193,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
 - [Human Generator](https://generated.photos/human-generator) - AI generator or realistic looking photos of humans.
 - [VectorArt.ai](https://vectorart.ai) - Create vector images with AI.
+- [StockPhotoAI.net](https://www.stockphotoai.net/?ref=mahseema-awesome-ai-tools) - Great stock photos, made for you.
 
 ### Graphic design
 
@@ -258,6 +268,10 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
 - [Petals](https://github.com/bigscience-workshop/petals) - BitTorrent style platform for running AI models in a distributed way.
 - [Shotstack Workflows](https://shotstack.io/product/workflows/) - No-code, automation workflow tool for building Generative AI media applications.
+- [Aispect](https://aispect.io/?ref=mahseema-awesome-ai-tools) - New way to experience events.
+- [PressPulse AI](https://www.presspulse.ai/?ref=mahseema-awesome-ai-tools) - Get personalized media coverage leads every morning.
+- [GummySearch](https://gummysearch.com/?ref=mahseema-awesome-ai-tools) - AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
+- [Taplio](https://taplio.com/?ref=mahseema-awesome-ai-tools) - The all-in-one, AI-powered LinkedIn tool.
 
 ## Learning resources
 
