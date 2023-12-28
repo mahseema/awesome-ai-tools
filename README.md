@@ -277,6 +277,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [GummySearch](https://gummysearch.com/?ref=mahseema-awesome-ai-tools) - AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
 - [Taplio](https://taplio.com/?ref=mahseema-awesome-ai-tools) - The all-in-one, AI-powered LinkedIn tool.
 - [PromptPal](https://promptpal.net) - Search for prompts and bots, then use them with your favourite AI. All in one place.
+- [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator
 
 
 ## Learning resources
