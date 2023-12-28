@@ -41,6 +41,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
 - [Phind](https://www.phind.com/) - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
 - [Tiledesk](https://tiledesk.com/) - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
+- [AICamp](https://aicamp.so/) - ChatGPT for Teams
 
 ### Search engines
 
@@ -276,6 +277,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [GummySearch](https://gummysearch.com/?ref=mahseema-awesome-ai-tools) - AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
 - [Taplio](https://taplio.com/?ref=mahseema-awesome-ai-tools) - The all-in-one, AI-powered LinkedIn tool.
 - [PromptPal](https://promptpal.net) - Search for prompts and bots, then use them with your favourite AI. All in one place.
+- [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator
 
 
 ## Learning resources
