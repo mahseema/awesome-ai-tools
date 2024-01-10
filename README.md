@@ -104,6 +104,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Elephas](https://elephas.app/?ref=mahseema-awesome-ai-tools) - Personal AI writing assistant for the Mac.
 - [Lemmy](https://lemmy.co/?ref=mahseema-awesome-ai-tools) - Autonomous AI Assistant for Work.
 - [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=mahseema-awesome-ai-tools) - Forget about frustrating formulas in Google Sheets.
+- [CreateEasily](https://createeasily.com/?ref=mahseema-awesome-ai-tools) - Free speech-to-text tool for content creators that accurately transcribes audio & video files up to 2GB.
 
 ### Meeting assistants
 
