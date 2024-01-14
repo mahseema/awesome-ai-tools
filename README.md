@@ -13,6 +13,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [🖼️ Generative AI Images ](#image)
 - [📽️ Generative AI Video](#video)
 - [🎶 Generative AI Audio](#audio)
+- [📞 AI Phone Call Agents](#phone-calls)
 - [🎒 Other AI Tools](#other)
 - [👩‍🏫 Learning resources](#learning-resources)
 
@@ -242,6 +243,9 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 ### Animation
 
 ## Audio
+
+## Phone Calls
+- [Cald.ai](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
 
 ### Speech
 
