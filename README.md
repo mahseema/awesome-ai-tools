@@ -41,6 +41,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
 - [Phind](https://www.phind.com/) - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
 - [Tiledesk](https://tiledesk.com/) - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
+- [AICamp](https://aicamp.so/) - ChatGPT for Teams
 
 ### Search engines
 
@@ -74,7 +75,8 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
-- [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics
+- [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
+- [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
 
 ### ChatGPT extensions
 
@@ -117,6 +119,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
 - [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API](https://github.com/paperswithcode/galai).
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
+- [Sourcely](https://www.sourcely.net/) - Academic Citation Finding Tool with AI
 
 ### Customer Support
 - [SiteGPT](https://sitegpt.ai/?ref=mahseema-awesome-ai-tools) - Make AI your expert customer support agent.
@@ -197,6 +200,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Human Generator](https://generated.photos/human-generator) - AI generator or realistic looking photos of humans.
 - [VectorArt.ai](https://vectorart.ai) - Create vector images with AI.
 - [StockPhotoAI.net](https://www.stockphotoai.net/?ref=mahseema-awesome-ai-tools) - Great stock photos, made for you.
+- [Room Reinvented](https://roomreinvented.com) - Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
 
 ### Graphic design
 
@@ -276,6 +280,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [GummySearch](https://gummysearch.com/?ref=mahseema-awesome-ai-tools) - AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
 - [Taplio](https://taplio.com/?ref=mahseema-awesome-ai-tools) - The all-in-one, AI-powered LinkedIn tool.
 - [PromptPal](https://promptpal.net) - Search for prompts and bots, then use them with your favourite AI. All in one place.
+- [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator
 
 
 ## Learning resources
