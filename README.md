@@ -237,7 +237,8 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
 - [Hour One](https://hourone.ai/) - Turn text into video, featuring virtual presenters, automatically.
 - [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
-- [ShortVideoGen](https://shortgen.video/) - Create short videos with audio using text prompts. 
+- [ShortVideoGen](https://shortgen.video/) - Create short videos with audio using text prompts.
+- [Clipwing](https://clipwing.pro/) - A tool for cutting long videos into dozens of short clips.
 
 ### Animation
 
