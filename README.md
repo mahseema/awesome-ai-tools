@@ -77,6 +77,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
 - [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
 - [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
+- [Quick Creator](https://quickcreator.io) - SEO-Optimized Blog platform powered by AI.
 
 ### ChatGPT extensions
 
