@@ -164,6 +164,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [TurboPilot](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone which uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 - [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+- [Marblism](https://marblism.com) - Generate a SaaS boilerplate from a prompt.
 
 ## Image
 
