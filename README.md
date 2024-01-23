@@ -281,7 +281,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Taplio](https://taplio.com/?ref=mahseema-awesome-ai-tools) - The all-in-one, AI-powered LinkedIn tool.
 - [PromptPal](https://promptpal.net) - Search for prompts and bots, then use them with your favourite AI. All in one place.
 - [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator
-
+- [Myriad](https://www.namepepper.com/free-tools/ai-content-prompt-tool) - Scale your content creation and get the best writing from ChatGPT, Copilot, and other AIs. Build and fine-tune prompts for any kind of content, from long-form to ads and email.
 
 ## Learning resources
 
