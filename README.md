@@ -17,6 +17,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [🎒 Other AI Tools](#other)
 - [👩‍🏫 Learning resources](#learning-resources)
 
+
 ## Text
 
 ### Models
@@ -321,5 +322,13 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 ## NVIDIA Platform Extensions
 
 - [NVIDIA Omniverse AI Animal Explorer Extension](https://docs.omniverse.nvidia.com/extensions/latest/ext_animal-explorer.html#installation) - AI Animal Explorer is an Omniverse extension that enables creators to quickly prototype unique 3D animal meshes.
+
+
+## Related Awesome Lists
+
+- [Awesome AI Books](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
+
+
+
 
 created by [Mahsima Dastan](https://github.com/mahseema)
