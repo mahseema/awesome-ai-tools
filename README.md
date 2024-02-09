@@ -109,7 +109,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=mahseema-awesome-ai-tools) - Forget about frustrating formulas in Google Sheets.
 - [CreateEasily](https://createeasily.com/?ref=mahseema-awesome-ai-tools) - Free speech-to-text tool for content creators that accurately transcribes audio & video files up to 2GB.
 - [aiPDF](https://aipdf.ai) - The most advanced AI document assistant
-- [Emilio](https://getemil.io) - Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time
+- [Emilio](https://getemil.io?ref=mahseema-awesome-ai-tools) - Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time
 
 
 ### Meeting assistants
