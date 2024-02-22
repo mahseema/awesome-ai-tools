@@ -299,6 +299,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [PromptPal](https://promptpal.net) - Search for prompts and bots, then use them with your favorite AI. All in one place.
 - [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator
 - [Myriad](https://www.namepepper.com/free-tools/ai-content-prompt-tool) - Scale your content creation and get the best writing from ChatGPT, Copilot, and other AIs. Build and fine-tune prompts for any kind of content, from long-form to ads and email.
+- [GradGPT](https://www.gradgpt.com/) - AI tools to simplify college applications. Review applications, draft essays, find universities and requirements and more.
 
 ## Learning resources
 
