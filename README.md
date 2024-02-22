@@ -306,6 +306,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Myriad](https://www.namepepper.com/free-tools/ai-content-prompt-tool) - Scale your content creation and get the best writing from ChatGPT, Copilot, and other AIs. Build and fine-tune prompts for any kind of content, from long-form to ads and email.
 - [GradGPT](https://www.gradgpt.com/) - AI tools to simplify college applications. Review applications, draft essays, find universities and requirements and more.
 - [Code to Flow](https://codetoflow.com) - Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
+- [AI-Flow](https://ai-flow.net/) - Connect multiple AI models easily.
 
 
 ## Learning resources
