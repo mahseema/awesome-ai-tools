@@ -250,6 +250,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [ShortVideoGen](https://shortgen.video/) - Create short videos with audio using text prompts.
 - [Clipwing](https://clipwing.pro/) - A tool for cutting long videos into dozens of short clips.
 - [Recast Studio](https://recast.studio) - AI powered podcast marketing assistant.
+- [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 
 
 ### Animation
