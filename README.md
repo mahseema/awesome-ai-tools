@@ -257,6 +257,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 ## Audio
 
 ## Phone Calls
+- [AICaller.io](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
 - [Cald.ai](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
 
 ### Speech
@@ -298,7 +299,9 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [PromptPal](https://promptpal.net) - Search for prompts and bots, then use them with your favorite AI. All in one place.
 - [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator
 - [Myriad](https://www.namepepper.com/free-tools/ai-content-prompt-tool) - Scale your content creation and get the best writing from ChatGPT, Copilot, and other AIs. Build and fine-tune prompts for any kind of content, from long-form to ads and email.
+- [GradGPT](https://www.gradgpt.com/) - AI tools to simplify college applications. Review applications, draft essays, find universities and requirements and more.
 - [Code to Flow](https://codetoflow.com) - Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
+
 
 ## Learning resources
 
@@ -328,6 +331,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 ## Related Awesome Lists
 
 - [Awesome AI Books](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
+- [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
 
 
 
