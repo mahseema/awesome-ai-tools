@@ -52,6 +52,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Phind](https://phind.com/) - AI-based search engine.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
 - [Komo AI](https://komo.ai/) - An AI based Search engine which responses quick and short answers.
+- [Telborg](https://telborg.com/) - AI for Climate Research, with data exclusively from governments, international institutions and companies.
 
 ### Local search engines
 
@@ -80,6 +81,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
 - [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
 - [Quick Creator](https://quickcreator.io) - SEO-Optimized Blog platform powered by AI.
+- [Telborg](https://telborg.com/) - Write a high-quality first draft on any Climate topic in minutes
 
 ### ChatGPT extensions
 
@@ -109,6 +111,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=mahseema-awesome-ai-tools) - Forget about frustrating formulas in Google Sheets.
 - [CreateEasily](https://createeasily.com/?ref=mahseema-awesome-ai-tools) - Free speech-to-text tool for content creators that accurately transcribes audio & video files up to 2GB.
 - [aiPDF](https://aipdf.ai) - The most advanced AI document assistant
+- [Summary With AI](https://www.summarywithai.com/) - Summarize any long PDF with AI. Comprehensive summaries using information from all pages of a document.
 
 
 ### Meeting assistants
