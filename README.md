@@ -257,6 +257,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 ## Audio
 
 ## Phone Calls
+- [AICaller.io](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
 - [Cald.ai](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
 
 ### Speech
