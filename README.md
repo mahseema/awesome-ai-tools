@@ -310,6 +310,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Code to Flow](https://codetoflow.com) - Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
 - [AI-Flow](https://ai-flow.net/) - Connect multiple AI models easily.
 - [Architecture Helper](https://architecturehelper.com) - Analyze any building architecture, and generate your own custom styles, in seconds.
+- [Interviews Chat](https://www.interviews.chat/) - Your Personal Interview Prep & Copilot
 
 ## Learning resources
 
