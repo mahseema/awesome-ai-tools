@@ -138,6 +138,8 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [GPTHelp.ai](https://gpthelp.ai/?ref=mahseema-awesome-ai-tools) - ChatGPT for your website / AI customer support chatbot.
 - [SiteSpeakAI](https://sitespeak.ai) - Automate your customer support with AI.
 - [Dear AI](https://www.dearai.online) - Supercharge Customer Services and boost sales with AI Chatbot.
+- [Inline Help](https://inlinehelp.com) - Answer customer questions before they ask
+
 
 
 ### Other text generators
