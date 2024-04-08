@@ -161,7 +161,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Portkey](https://portkey.ai/) - Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.
 - [OpenAI Downtime Monitor](https://status.portkey.ai/) - Free tool that tracks API uptime and latencies for various OpenAI models and other LLM providers.
 - [ChatWithCloud](https://chatwithcloud.ai/) - CLI allowing you to interact with AWS Cloud using human language inside your Terminal.
-- [Ollama](https://ollama.com/) Load and run large LLMs locally using it in your terminal or building your apps.
+- [Ollama](https://ollama.com/) Load and run large LLMs locally to use in your terminal or build your apps.
 
 ## Code
 
