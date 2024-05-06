@@ -138,6 +138,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [GPTHelp.ai](https://gpthelp.ai/?ref=mahseema-awesome-ai-tools) - ChatGPT for your website / AI customer support chatbot.
 - [SiteSpeakAI](https://sitespeak.ai) - Automate your customer support with AI.
 - [Dear AI](https://www.dearai.online) - Supercharge Customer Services and boost sales with AI Chatbot.
+- [Employee X](https://employee-x.en.uptodown.com/windows/download) - Employee X is a free desktop software and WhatsApp Bot you can install on any Windows PCs and by simply scanning a QR you can start training your own: A.I. product salesman, A.I. customer attention specialist or A.I. appointment secretary.
 
 
 ### Other text generators
