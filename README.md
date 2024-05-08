@@ -151,6 +151,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
+- [Unblocked](https://getunblocked.com/) — Unblocked provides developers helpful and accurate answers to questions about the codebase by augmenting their source code with relevant discussions in GitHub, Slack, Jira, Confluence, and more. Available on web, macOS, Slack, VSCode, and JetBrains IDE’s.
 - [Keploy](https://keploy.io/) - Open source Tool for converting user traffic to Test Cases and Data Stubs.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue.
