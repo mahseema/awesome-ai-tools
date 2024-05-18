@@ -83,6 +83,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
 - [Quick Creator](https://quickcreator.io) - SEO-Optimized Blog platform powered by AI.
 - [Telborg](https://telborg.com/) - Write a high-quality first draft on any Climate topic in minutes
+- [AI Blog Articles](https://getaiblogarticles.com/) - Boost your website's traffic with SEO-optimized content tailored to your chosen keywords.
 
 ### ChatGPT extensions
 
