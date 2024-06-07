@@ -84,6 +84,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Quick Creator](https://quickcreator.io) - SEO-Optimized Blog platform powered by AI.
 - [Telborg](https://telborg.com/) - Write a high-quality first draft on any Climate topic in minutes
 - [Dittto.ai](https://dittto.ai) - Fix your hero copy with an AI trained on top SaaS websites.
+- [Headlinesai.pro](https://www.headlinesai.pro/) - This AI powered tool can help you in generating catchy and optimized headlines based on your content for multiple platforms like Youtube, Medium, Indie Hackers and Reddit.
 
 ### ChatGPT extensions
 
