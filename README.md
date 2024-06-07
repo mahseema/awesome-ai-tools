@@ -84,6 +84,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Quick Creator](https://quickcreator.io) - SEO-Optimized Blog platform powered by AI.
 - [Telborg](https://telborg.com/) - Write a high-quality first draft on any Climate topic in minutes
 - [Dittto.ai](https://dittto.ai) - Fix your hero copy with an AI trained on top SaaS websites.
+- [Tweetstorm.ai](https://tweetstorm.ai/) - TweetStorm is an AI Tweet Generator tool that can write AI generated tweets, trending hashtags, standout Twitter handles, and captivating twitter Bios.
 
 ### ChatGPT extensions
 
