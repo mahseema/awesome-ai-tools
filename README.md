@@ -83,6 +83,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
 - [Quick Creator](https://quickcreator.io) - SEO-Optimized Blog platform powered by AI.
 - [Telborg](https://telborg.com/) - Write a high-quality first draft on any Climate topic in minutes
+- [Dittto.ai](https://dittto.ai) - Fix your hero copy with an AI trained on top SaaS websites.
 
 ### ChatGPT extensions
 
@@ -115,7 +116,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Summary With AI](https://www.summarywithai.com/) - Summarize any long PDF with AI. Comprehensive summaries using information from all pages of a document.
 - [Emilio](https://getemil.io?ref=mahseema-awesome-ai-tools) - Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time
 - [Pieces](https://pieces.app/) - AI-enabled productivity tool designed to supercharge developer efficiency,with an on-device copilot that helps capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of dev workflow
-
+- [Huntr AI Resume Builder](https://huntr.co/product/ai-resume-builder/?ref=mahseema-awesome-ai-tools) - Craft the perfect resume, with a little help from AI. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.
 
 ### Meeting assistants
 
@@ -138,6 +139,8 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [GPTHelp.ai](https://gpthelp.ai/?ref=mahseema-awesome-ai-tools) - ChatGPT for your website / AI customer support chatbot.
 - [SiteSpeakAI](https://sitespeak.ai) - Automate your customer support with AI.
 - [Dear AI](https://www.dearai.online) - Supercharge Customer Services and boost sales with AI Chatbot.
+- [Inline Help](https://inlinehelp.com) - Answer customer questions before they ask
+
 
 
 ### Other text generators
@@ -162,6 +165,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Portkey](https://portkey.ai/) - Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.
 - [OpenAI Downtime Monitor](https://status.portkey.ai/) - Free tool that tracks API uptime and latencies for various OpenAI models and other LLM providers.
 - [ChatWithCloud](https://chatwithcloud.ai/) - CLI allowing you to interact with AWS Cloud using human language inside your Terminal.
+- [SinglebaseCloud](https://singlebase.cloud) - AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development. 
 
 ## Code
 
@@ -218,6 +222,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [VectorArt.ai](https://vectorart.ai) - Create vector images with AI.
 - [StockPhotoAI.net](https://www.stockphotoai.net/?ref=mahseema-awesome-ai-tools) - Great stock photos, made for you.
 - [Room Reinvented](https://roomreinvented.com) - Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
+- [Gensbot](https://gensbot.com) - Gensbot uses AI to craft personalised printed merchandise. One prompt creates one unique product to fit your needs.
 
 ### Graphic design
 
@@ -311,6 +316,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Code to Flow](https://codetoflow.com) - Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
 - [AI-Flow](https://ai-flow.net/) - Connect multiple AI models easily.
 - [Architecture Helper](https://architecturehelper.com) - Analyze any building architecture, and generate your own custom styles, in seconds.
+- [Interviews Chat](https://www.interviews.chat/) - Your Personal Interview Prep & Copilot
 
 ## Learning resources
 
