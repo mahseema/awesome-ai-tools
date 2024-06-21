@@ -28,7 +28,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. #opensource
 - [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. #opensource
-- [Claude 2](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic.
+- [Claude 3](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic.
 - [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT.
 - [Stable Beluga](https://huggingface.co/stabilityai/StableBeluga1-Delta) - A finetuned LLamma 65B model
 - [Stable Beluga 2](https://huggingface.co/stabilityai/StableBeluga2) - A finetuned LLamma2 70B model
@@ -61,6 +61,8 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [quivr](https://github.com/StanGirard/quivr) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
 
 ### Writing assistants
+
+*For a more complete list of AI writing assistants visit: [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)*
 
 - [Jasper](https://www.jasper.ai/) - Create content faster with artificial intelligence.
 - [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
@@ -344,10 +346,19 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 
 ## Related Awesome Lists
 
+- [There's An AI](https://theresanai.com) - Frontpage of AI
 - [Awesome AI Books](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
 - [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
 - [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
+- [Awesome AI SEO](https://github.com/xaramore/awesome-ai-seo)
+- [Awesome AI Marketing](https://github.com/xaramore/awesome-ai-marketing) 
+- [Awesome AI Music](https://github.com/xaramore/awesome-ai-music) 
+- [Awesome AI Image](https://github.com/xaramore/awesome-ai-image) 
+- [Awesome AI Video](https://github.com/xaramore/awesome-ai-video)
+- [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing) 
+
+
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
