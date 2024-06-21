@@ -293,7 +293,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research for generating high-fidelity music from text descriptions.
 
 ## Other
-
+- [🥳 funfun](www.funfun.tools/) - The Larget AI Tools Directory on 🌎.
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
