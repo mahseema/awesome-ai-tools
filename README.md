@@ -35,7 +35,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 
 ### Chatbots
 
-- [ChatGPT](https://chat.openai.com/chat) - *[reviews](https://altern.ai/product/chatgpt)* - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
+- [ChatGPT](https://chatgpt.com) - *[reviews](https://theresanai.com/chatgpt)* - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
 - [Bing Chat](https://www.bing.com/chat) - *[reviews](https://altern.ai/product/bing_chat)* - A conversational AI language model powered by Microsoft Bing.
 - [Gemini](https://gemini.google.com) - *[reviews](https://altern.ai/product/gemini)* - An experimental AI chatbot by Google, powered by the LaMDA model.
 - [Character.AI](https://character.ai/) - *[reviews](https://altern.ai/product/character-ai)* - Character.AI lets you create characters and chat to them.
