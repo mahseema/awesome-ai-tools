@@ -188,6 +188,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - An open-source implementation of OpenAI's ChatGPT Code interpreter.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [Marblism](https://marblism.com) - Generate a SaaS boilerplate from a prompt.
+- [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
 
 ## Image
 
