@@ -332,6 +332,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [ezJobs](https://www.getezjobs.com/) - Automated job search and applications
 - [Compass](https://www.getwhys.io/compass) - AI driven answers to SaaS research questions
 - [Adon AI](https://adon-web.awakast.com/en/recruiter/) - CV screening automation and blind CV generator, AI backed ATS
+- [Persuva](https://persuva.ai) - Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
 
 
 ## Learning resources
