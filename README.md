@@ -331,6 +331,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Context Data](https://contextdata.ai/) - Data Processing & ETL infrastructure for Generative AI applications
 - [ezJobs](https://www.getezjobs.com/) - Automated job search and applications
 - [Compass](https://www.getwhys.io/compass) - AI driven answers to SaaS research questions
+- [Adon AI](https://adon-web.awakast.com/en/recruiter/) - CV screening automation and blind CV generator, AI backed ATS
 
 
 ## Learning resources
