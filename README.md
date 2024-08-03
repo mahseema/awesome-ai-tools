@@ -235,6 +235,8 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [StockPhotoAI.net](https://www.stockphotoai.net/?ref=mahseema-awesome-ai-tools) - Great stock photos, made for you.
 - [Room Reinvented](https://roomreinvented.com) - Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
 - [Gensbot](https://gensbot.com) - Gensbot uses AI to craft personalised printed merchandise. One prompt creates one unique product to fit your needs.
+- [PlantPhotoAI](https://www.plantphotoai.com/) - free AI-generated plant images
+
 
 ### Graphic design
 
