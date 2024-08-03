@@ -146,7 +146,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [SiteSpeakAI](https://sitespeak.ai) - Automate your customer support with AI.
 - [Dear AI](https://www.dearai.online) - Supercharge Customer Services and boost sales with AI Chatbot.
 - [Inline Help](https://inlinehelp.com) - Answer customer questions before they ask
-
+- [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
 
 
 ### Other text generators
