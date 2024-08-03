@@ -330,6 +330,8 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Interviews Chat](https://www.interviews.chat/) - Your Personal Interview Prep & Copilot
 - [Context Data](https://contextdata.ai/) - Data Processing & ETL infrastructure for Generative AI applications
 - [ezJobs](https://www.getezjobs.com/) - Automated job search and applications
+- [Compass](https://www.getwhys.io/compass) - AI driven answers to SaaS research questions
+
 
 ## Learning resources
 
