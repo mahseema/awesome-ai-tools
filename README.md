@@ -370,6 +370,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 ## Related Awesome Lists
 
 - [Altern](https://altern.ai) - Find Best AI Tools
+- [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
 - [There's An AI](https://theresanai.com) - Frontpage of AI
 - [Awesome AI Books](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
 - [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
