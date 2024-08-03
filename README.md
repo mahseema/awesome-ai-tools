@@ -109,7 +109,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - One click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses.
 
 ### Productivity
-- [Recall](https://www.getrecall.ai/) - Summarize Anything, Forget Nothing
+
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
@@ -123,7 +123,9 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Emilio](https://getemil.io?ref=mahseema-awesome-ai-tools) - Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time
 - [Pieces](https://pieces.app/) - AI-enabled productivity tool designed to supercharge developer efficiency,with an on-device copilot that helps capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of dev workflow
 - [Huntr AI Resume Builder](https://huntr.co/product/ai-resume-builder/?ref=mahseema-awesome-ai-tools) - Craft the perfect resume, with a little help from AI. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.
--[Talently AI](https://interview.talently.ai/?utm_source=mahseema-awesome-ai-tool&utm_medium=c_and_p&utm_campaign=tool-listing) - An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process. 
+- [Chat With PDF by Copilot.us](https://copilot.us/apps/chat-with-pdf) - An AI app that enables dialogue with PDF documents, supporting interactions with multiple files simultaneously through language models.
+- [Recall](https://www.getrecall.ai/) - Summarize Anything, Forget Nothing
+- [Talently AI](https://interview.talently.ai/?utm_source=mahseema-awesome-ai-tool&utm_medium=c_and_p&utm_campaign=tool-listing) - An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process. 
 
 ### Meeting assistants
 
@@ -364,6 +366,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 
 ## Related Awesome Lists
 
+- [Altern](https://altern.ai) - Find Best AI Tools
 - [There's An AI](https://theresanai.com) - Frontpage of AI
 - [Awesome AI Books](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
 - [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
@@ -375,8 +378,6 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Awesome AI Image](https://github.com/xaramore/awesome-ai-image) 
 - [Awesome AI Video](https://github.com/xaramore/awesome-ai-video)
 - [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing) 
-
-
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
