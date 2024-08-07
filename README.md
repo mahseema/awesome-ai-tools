@@ -57,6 +57,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Komo AI](https://komo.ai/) - An AI based Search engine which responses quick and short answers.
 - [Telborg](https://telborg.com/) - AI for Climate Research, with data exclusively from governments, international institutions and companies.
 - [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
+- [YaCy](https://yacy.net/) - Self hosted Open Source Decentralized Search Engine, Self scrap or P2P request from other YaCy instances. Recent LLM support via [YaCy Expert](https://github.com/yacy/yacy_expert)
 
 ### Local search engines
 
