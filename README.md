@@ -244,6 +244,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [Microsoft Designer](https://designer.microsoft.com/) - Stunning designs in a flash.
 - [SVGStud.io](https://svgstud.io/) - AI-based SVG Generation and Semantic Seach
+- [Text2Infographic](https://text2infographic.com/) - AI infographic generator and editor.
 
 ### Image libraries
 
