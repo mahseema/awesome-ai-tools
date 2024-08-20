@@ -14,6 +14,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [📽️ Generative AI Video](#video)
 - [🎶 Generative AI Audio](#audio)
   - [Voice Cloning](#ai-voice-cloning)
+  - [Music Generation](#ai-music-generation)
 - [📞 AI Phone Call Agents](#phone-calls)
 - [🎒 Other AI Tools](#other)
 - [👩‍🏫 Learning resources](#learning-resources)
