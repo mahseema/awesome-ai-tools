@@ -413,6 +413,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
 - [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
+- [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing) 
 - [Awesome AI SEO](https://github.com/xaramore/awesome-ai-seo)
 - [Awesome AI Marketing](https://github.com/xaramore/awesome-ai-marketing) 
 - [Awesome AI Music](https://github.com/xaramore/awesome-ai-music) 
