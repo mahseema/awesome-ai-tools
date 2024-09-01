@@ -202,6 +202,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Marblism](https://marblism.com) - Generate a SaaS boilerplate from a prompt.
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
 - [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
+- [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 
 ## Image
 
