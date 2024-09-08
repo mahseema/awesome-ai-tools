@@ -20,6 +20,10 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [👩‍🏫 Learning resources](#learning-resources)
 
 
+## Editor's Choice
+
+- [Reclaim AI](https://go.reclaim.ai/qgrsgwia8q2t) - A smart calendar assistant that helps you automatically block time for your tasks, habits, and meetings, optimizing your schedule to boost productivity.
+
 ## Text
 
 ### Models
