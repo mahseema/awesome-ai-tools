@@ -8,7 +8,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 
 ## Contents
 
-- [Editor's Choice](#editors-choice)
+- [🌟 Editor's Choice](#editors-choice)
 - [📝 AI Text](#text)
 - [👩‍💻 Code with AI](#code)
 - [🖼️ Generative AI Images ](#image)
@@ -24,6 +24,8 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 ## Editor's Choice
 
 - [Reclaim AI](https://go.reclaim.ai/o9jpmgpd2bbi-1jeudq) - A smart calendar assistant that helps you automatically block time for your tasks, habits, and meetings, optimizing your schedule to boost productivity.
+- [Notion AI](https://affiliate.notion.so/9po6cx7rvdr6-4y5a7) - Just ask Q&A, and find the info you need in seconds. Get help writing and brainstorming in Notion, not in a separate browser tab.
+
 
 ## Text
 
