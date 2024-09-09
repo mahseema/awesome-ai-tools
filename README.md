@@ -16,6 +16,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [🎶 Generative AI Audio](#audio)
   - [Voice Cloning](#ai-voice-cloning)
   - [Music Generation](#ai-music-generation)
+- [AI Tools for Marketing](#marketing-ai-tools)
 - [📞 AI Phone Call Agents](#phone-calls)
 - [🎒 Other AI Tools](#other)
 - [👩‍🏫 Learning resources](#learning-resources)
@@ -331,6 +332,23 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Ecrett Music](https://www.ecrettmusic.com) - [Review](https://theresanai.com/ecrett-music) - Designed for video creators, offering royalty-free music.
 - [Loudly](https://www.loudly.com) - [Review](https://theresanai.com/loudly) - Combines AI music generation with a social platform for collaboration.
 - [Soundful](https://www.soundful.com) - [Review](https://theresanai.com/soundful) - High-quality, royalty-free music for content creators.
+
+
+
+### Marketing AI Tools
+
+*You can also find  more comprehensive list on *[Marketing List](https://github.com/mahseema/awesome-ai-tools/blob/main/marketing.md)*
+
+- **[Jasper AI](https://www.jasper.ai/)** - AI-powered tool for generating marketing content like blogs, emails, and ad copy.
+- **[Mutiny](https://www.mutinyhq.com/)** - Personalization platform to improve website conversions using AI.
+- **[Clearbit](https://clearbit.com/)** - Lead enrichment and data intelligence platform.
+- **[Seventh Sense](https://www.theseventhsense.com/)** - AI tool for email send time optimization.
+- **[Smartly.io](https://www.smartly.io/)** - Automates social media ad creation and optimization.
+- **[Adzooma](https://www.adzooma.com/)** - AI-powered PPC campaign management platform.
+- **[Phrasee](https://www.phrasee.co/)** - AI tool that generates optimized marketing copy.
+- **[Crimson Hexagon](https://www.crimsonhexagon.com/)** - AI-based social media sentiment analysis platform.
+- **[MarketMuse](https://www.marketmuse.com/)** - SEO content optimization platform using AI.
+- **[Chatfuel](https://www.chatfuel.com/)** - AI-driven chatbot for automating customer engagement on Messenger.
 
 
 ### Phone Calls
