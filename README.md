@@ -26,7 +26,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Editor's Choice
 
-- [Reclaim AI](https://go.reclaim.ai/o9jpmgpd2bbi-1jeudq) - A smart calendar assistant that helps you automatically block time for your tasks, habits, and meetings, optimizing your schedule to boost productivity.
+- [Altern](https://altern.ai) - find almost anything related to AI
 - [Notion AI](https://affiliate.notion.so/9po6cx7rvdr6-4y5a7) - Just ask Q&A, and find the info you need in seconds. Get help writing and brainstorming in Notion, not in a separate browser tab.
 - [Murf AI](https://get.murf.ai/v8i9to5ad4oq) - Create voiceover with the most lifelike AI voices.
 - [SaneBox](https://try.sanebox.com/yzkpe5s68xk2) - an email management software as a service that integrates with IMAP and Exchange Web Services email accounts.
