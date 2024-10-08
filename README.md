@@ -323,6 +323,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Microsoft Azure Neural TTS](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) - Review - Scalable and highly customizable, ideal for integration into enterprise applications.
 - [WellSaid Labs](https://www.wellsaidlabs.com/) - [Review](https://theresanai.com/wellsaid-labs) - Gaining traction for its natural-sounding voiceovers, particularly in corporate training and e-learning.
 - [Lovo.ai](https://www.lovo.ai/) - [Review](https://theresanai.com/lovo-ai) - A compelling choice for creative professionals, especially useful in ads and explainer videos.
+- [Zenmic.com](https://zenmic.com) -  An app to generate podcast eposode ( script + Audio ) using AI.
 
 
 ### AI Music Generators
