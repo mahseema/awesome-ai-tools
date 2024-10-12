@@ -261,6 +261,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Room Reinvented](https://roomreinvented.com) - Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
 - [Gensbot](https://gensbot.com) - Gensbot uses AI to craft personalised printed merchandise. One prompt creates one unique product to fit your needs.
 - [PlantPhotoAI](https://www.plantphotoai.com/) - free AI-generated plant images
+- [Pixvify AI](https://pixvify.com/) - Free realistic AI photo generator platform
 
 
 ### Graphic design
