@@ -356,6 +356,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[Crimson Hexagon](https://www.crimsonhexagon.com/)** - AI-based social media sentiment analysis platform.
 - **[MarketMuse](https://www.marketmuse.com/)** - SEO content optimization platform using AI.
 - **[Chatfuel](https://www.chatfuel.com/)** - AI-driven chatbot for automating customer engagement on Messenger.
+- **[Rupert AI](Rupert AI)** - AI tools for designers and marketers
+
+
 
 
 ### Phone Calls
