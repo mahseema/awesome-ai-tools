@@ -146,6 +146,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Recall](https://www.getrecall.ai/) - Summarize Anything, Forget Nothing
 - [Talently AI](https://interview.talently.ai/?utm_source=mahseema-awesome-ai-tool&utm_medium=c_and_p&utm_campaign=tool-listing) - An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process. 
 - [TailorTask](https://wwww.tailortask.ai) - Automate any boring and repetitive task, without having to learn a new tool
+- [GOSH](https://gosh.app) - Free AI Price Tracker - Track any price of any product at any store using AI
 
 ### Meeting assistants
 
@@ -261,6 +262,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Room Reinvented](https://roomreinvented.com) - Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
 - [Gensbot](https://gensbot.com) - Gensbot uses AI to craft personalised printed merchandise. One prompt creates one unique product to fit your needs.
 - [PlantPhotoAI](https://www.plantphotoai.com/) - free AI-generated plant images
+- [iColoring](https://icoloring.ai) - Free AI Coloring Pages Generator
 
 
 ### Graphic design
@@ -357,8 +359,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[MarketMuse](https://www.marketmuse.com/)** - SEO content optimization platform using AI.
 - **[Chatfuel](https://www.chatfuel.com/)** - AI-driven chatbot for automating customer engagement on Messenger.
 - **[Rupert AI](https://www.getrupert.com/)** - AI tools for designers and marketers
-
-
+- **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 
 
 ### Phone Calls
@@ -416,6 +417,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Adon AI](https://adon-web.awakast.com/en/recruiter/) - CV screening automation and blind CV generator, AI backed ATS
 - [Persuva](https://persuva.ai) - Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
 - [Interview Solver](https://interviewsolver.com) - Ace your live coding interviews with our AI Copilot
+- [Harbor](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
 
 
 ## Learning resources
