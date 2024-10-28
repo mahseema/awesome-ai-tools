@@ -130,7 +130,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ### Productivity
 
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
-- [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
+- [Taskade](https://www.taskade.com/) -  Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation—all within a unified workspace.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
 - [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
 - [Elephas](https://elephas.app/?ref=mahseema-awesome-ai-tools) - Personal AI writing assistant for the Mac.
@@ -147,6 +147,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Talently AI](https://interview.talently.ai/?utm_source=mahseema-awesome-ai-tool&utm_medium=c_and_p&utm_campaign=tool-listing) - An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process. 
 - [TailorTask](https://wwww.tailortask.ai) - Automate any boring and repetitive task, without having to learn a new tool
 - [AI for Google Slides](https://www.aiforgoogleslides.com/) - AI presentation maker for Google Slides
+- [FARSITE](https://far.site/) - AI-powered Compliance Software for U.S. Government Contractors
+- [GOSH](https://gosh.app) - Free AI Price Tracker - Track any price of any product at any store using AI
 
 ### Meeting assistants
 
@@ -262,6 +264,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Room Reinvented](https://roomreinvented.com) - Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
 - [Gensbot](https://gensbot.com) - Gensbot uses AI to craft personalised printed merchandise. One prompt creates one unique product to fit your needs.
 - [PlantPhotoAI](https://www.plantphotoai.com/) - free AI-generated plant images
+- [iColoring](https://icoloring.ai) - Free AI Coloring Pages Generator
 
 
 ### Graphic design
@@ -357,6 +360,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[Crimson Hexagon](https://www.crimsonhexagon.com/)** - AI-based social media sentiment analysis platform.
 - **[MarketMuse](https://www.marketmuse.com/)** - SEO content optimization platform using AI.
 - **[Chatfuel](https://www.chatfuel.com/)** - AI-driven chatbot for automating customer engagement on Messenger.
+- **[Rupert AI](https://www.getrupert.com/)** - AI tools for designers and marketers
+- **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 
 
 ### Phone Calls
@@ -414,6 +419,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Adon AI](https://adon-web.awakast.com/en/recruiter/) - CV screening automation and blind CV generator, AI backed ATS
 - [Persuva](https://persuva.ai) - Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
 - [Interview Solver](https://interviewsolver.com) - Ace your live coding interviews with our AI Copilot
+- [Harbor](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
 
 
 ## Learning resources
@@ -430,6 +436,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Andrew Ng’s Machine Learning at Stanford University](https://www.coursera.org/learn/machine-learning) -  Ng’s gentle introduction to machine learning course is perfect for engineers who want a foundational overview of key concepts in the field.
 - [Sebastian Thrun’s Introduction To Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - robust introduction to the subject and also the foundation for a Data Analyst “nanodegree” certification sponsored by Facebook and MongoDB.
 - [AI and Machine Learning Roadmaps](https://www.scaler.com/blog/category/artificial-intelligence-machine-learning/) - Roadmaps featuring essential concepts, learning methods, and the tools to put them into practice.
+- [How To Learn Artificial Intelligence (AI)?](https://www.appliedaicourse.com/blog/how-to-learn-artificial-intelligence-ai/) - provides a step-by-step guide for beginners to understand and develop AI skills. It covers foundational topics like programming (Python), mathematics, and machine learning, progressing to advanced concepts such as deep learning and neural networks.
 
 ### Deep Learning
 - [Geoffrey Hinton’s Neural Networks For Machine Learning ](https://medium.com/kaggle-blog)- it is now removed from cousrea but still check these list
