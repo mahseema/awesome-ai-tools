@@ -110,6 +110,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Telborg](https://telborg.com/) - Write a high-quality first draft on any Climate topic in minutes
 - [Dittto.ai](https://dittto.ai) - Fix your hero copy with an AI trained on top SaaS websites.
 - [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes to your own website
+- [Shy Editor](https://www.shyeditor.com) - A modern AI-assisted writing environment for all types of prose. 
 
 ### ChatGPT extensions
 
