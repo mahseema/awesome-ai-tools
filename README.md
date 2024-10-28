@@ -152,6 +152,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI for Google Slides](https://www.aiforgoogleslides.com/) - AI presentation maker for Google Slides
 - [FARSITE](https://far.site/) - AI-powered Compliance Software for U.S. Government Contractors
 - [GOSH](https://gosh.app) - Free AI Price Tracker - Track any price of any product at any store using AI
+- [Pomodoro Timer Tools] - Minimal AI-Driven Pomodoro Timer App
 
 ### Meeting assistants
 
