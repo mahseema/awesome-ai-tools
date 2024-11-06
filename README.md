@@ -440,6 +440,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Watermark Remover](https://aiwatermarkremover.io/) - Remove watermarks from images and videos.
 - [AISaver](https://aisaver.io) - Collection of AI Powered Video and Photo Tools
 - [Harbor](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
+- [Decopy AI](https://decopy.ai/) - Decopy AI is a tool that identifies if text is written by a human or AI
 
 
 ## Learning resources
