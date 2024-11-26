@@ -275,7 +275,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Pixvify AI](https://pixvify.com/) - Free realistic AI photo generator platform
 - [Pawtrait](https://www.pawtrait.art/) - AI Pet Portraits
 - [iColoring](https://icoloring.ai) - Free AI Coloring Pages Generator
-
+- [Zapimg.com](https://zapimg.com/) | Free Professional AI Image Editing Tools|
 
 ### Graphic design
 
