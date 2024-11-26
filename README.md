@@ -399,6 +399,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Harmonai](https://www.harmonai.org/) - We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
 - [Mubert](https://mubert.com/) - A royalty-free music ecosystem for content creators, brands and developers.
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research for generating high-fidelity music from text descriptions.
+- [Remusic](https://remusic.ai/en) - AI Music Generator and Music Learning Platform Online Free.
 
 ## Other
 
