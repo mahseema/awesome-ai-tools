@@ -169,6 +169,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Sourcely](https://www.sourcely.net/) - Academic Citation Finding Tool with AI
 
 ### Customer Support
+| Twig |  | [🔗]() |
+- [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
 - [SiteGPT](https://sitegpt.ai/?ref=mahseema-awesome-ai-tools) - Make AI your expert customer support agent.
 - [GPTHelp.ai](https://gpthelp.ai/?ref=mahseema-awesome-ai-tools) - ChatGPT for your website / AI customer support chatbot.
 - [SiteSpeakAI](https://sitespeak.ai) - Automate your customer support with AI.
