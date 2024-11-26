@@ -151,6 +151,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [FARSITE](https://far.site/) - AI-powered Compliance Software for U.S. Government Contractors
 - [GOSH](https://gosh.app) - Free AI Price Tracker - Track any price of any product at any store using AI
 - [Pomodoro Timer Tools] - Minimal AI-Driven Pomodoro Timer App
+- [Coin Newsify](https://www.coinewsify.ai) - AI-Powered Cryptocurrency news aggregator application
+
 
 ### Meeting assistants
 
