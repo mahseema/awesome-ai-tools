@@ -440,6 +440,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Watermark Remover](https://aiwatermarkremover.io/) - Remove watermarks from images and videos.
 - [AISaver](https://aisaver.io) - Collection of AI Powered Video and Photo Tools
 - [Harbor](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
+- [Drive AI](https://driveapp.ai/) - AI car assistant predicting routes, providing real-time alerts, and ensuring safer, smoother rides
 
 
 ## Learning resources
