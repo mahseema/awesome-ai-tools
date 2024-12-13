@@ -74,6 +74,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Komo AI](https://komo.ai/) - An AI based Search engine which responses quick and short answers.
 - [Telborg](https://telborg.com/) - AI for Climate Research, with data exclusively from governments, international institutions and companies.
 - [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
+- [hika AI](https://hika.fyi/) -  free AI and intelligent search engine offering advanced insights, interactive exploration, and personalized knowledge graphs.
+
 
 ### Local search engines
 
