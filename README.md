@@ -374,6 +374,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[LogicBalls](https://logicballs.com/)** - An AI-powered writing tool to create any type of content and supercharge your productivity.
 - **[Rupert AI](https://www.getrupert.com/)** - AI tools for designers and marketers
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
+- **[SEO Katana](https://seokatana.com/)** - SEO Content Generator That Knows What Works For Your Competitors
 
 
 ### Phone Calls
