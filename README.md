@@ -440,6 +440,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Watermark Remover](https://aiwatermarkremover.io/) - Remove watermarks from images and videos.
 - [AISaver](https://aisaver.io) - Collection of AI Powered Video and Photo Tools
 - [Harbor](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
+- [bugfree.ai](https://bugfree.ai/) - An advanced AI-powered platform designed to practice and prepare for system design and behavioral interviews, by combining a vast question library, detailed feedback, and interactive AI-powered mock interviews.
 
 
 ## Learning resources
