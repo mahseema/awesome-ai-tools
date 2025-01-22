@@ -151,6 +151,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [FARSITE](https://far.site/) - AI-powered Compliance Software for U.S. Government Contractors
 - [GOSH](https://gosh.app) - Free AI Price Tracker - Track any price of any product at any store using AI
 - [Pomodoro Timer Tools] - Minimal AI-Driven Pomodoro Timer App
+- [Qurate](https://qurate.appcradle.net/) - AI Quote Companion, which can help in finding relavant quotes according to the context.
 
 ### Meeting assistants
 
