@@ -276,6 +276,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Pawtrait](https://www.pawtrait.art/) - AI Pet Portraits
 - [iColoring](https://icoloring.ai) - Free AI Coloring Pages Generator
 
+### Product design
+- [Readdy](https://readdy.ai) - AI User Interface Designer for you. Text to UI design in minutes.
+
 
 ### Graphic design
 
