@@ -109,6 +109,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Dittto.ai](https://dittto.ai) - Fix your hero copy with an AI trained on top SaaS websites.
 - [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes to your own website
 - [Shy Editor](https://www.shyeditor.com) - A modern AI-assisted writing environment for all types of prose. 
+- [DeepL Write](https://www.deepl.com/write) - AI writing tool that improves written communication.
+
 
 ### ChatGPT extensions
 
@@ -167,7 +169,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API](https://github.com/paperswithcode/galai).
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 - [Sourcely](https://www.sourcely.net/) - Academic Citation Finding Tool with AI
-- [Scispace](https://typeset.io/) Reading co-pilot helps you understand papers and speed up literature review
+- [SciSpace](https://scispace.com/) - AI Chat for scientific PDFs.
+
 
 ### Customer Support
 - [SiteGPT](https://sitegpt.ai/?ref=mahseema-awesome-ai-tools) - Make AI your expert customer support agent.
@@ -243,7 +246,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Imagen](https://imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
 - [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
 - [DragGAN](https://github.com/XingangPan/DragGAN) - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
--[Canva](https://www.canva.com/) - Generate and Edit your Pictures with the help of AI
+- [Canva](https://www.canva.com/) - Generate and Edit your Pictures with the help of AI
 
 ### Services
 
@@ -487,7 +490,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Awesome AI Music](https://github.com/xaramore/awesome-ai-music) 
 - [Awesome AI Image](https://github.com/xaramore/awesome-ai-image) 
 - [Awesome AI Video](https://github.com/xaramore/awesome-ai-video)
-- [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing) 
+- [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)
+- [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
