@@ -209,6 +209,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [CodeRabbit](https://coderabbit.ai/) - An AI-powered code review tool that helps developers improve code quality and productivity.
 - [Pagerly](https://www.pagerly.io) - Your Operations Co-pilot on Slack/Teams. It assists and prompts oncall with relevant information to debug issues.  
 - [Hexabot](https://hexabot.ai) - A Open-source No-Code tool to build your AI Chatbot / Agent (multi-lingual, multi-channel, LLM, NLU, + ability to develop custom extensions)
+- [Plandex](https://github.com/plandex-ai/plandex) - Open source, terminal-based AI programming engine for complex tasks.
 
 
 ## Code
