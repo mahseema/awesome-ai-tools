@@ -446,7 +446,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AISaver](https://aisaver.io) - Collection of AI Powered Video and Photo Tools
 - [Harbor](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
 - [LangMagic](https://easytolearn.io) - Learn languages from native content.
-
+- [fynk](https://fynk.com/) - AI powered contract management software  
 
 
 ## Learning resources
