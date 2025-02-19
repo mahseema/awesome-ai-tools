@@ -110,6 +110,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes to your own website
 - [Shy Editor](https://www.shyeditor.com) - A modern AI-assisted writing environment for all types of prose. 
 - [DeepL Write](https://www.deepl.com/write) - AI writing tool that improves written communication.
+- [PerchanceStroy](https://perchancestory.com/) - AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input. 
 
 
 ### ChatGPT extensions
@@ -458,7 +459,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [LangMagic](https://easytolearn.io) - Learn languages from native content.
 - [fynk](https://fynk.com/) - AI powered contract management software
 - [LooksMax AI](https://looksmax.ai) - Find out how hot you are using AI
- 
+
 
 ## Learning resources
 
