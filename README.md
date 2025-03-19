@@ -242,6 +242,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 - [Fynix](https://www.fynix.ai/) - Fynix combines real-time AI coding assistance with agent-powered code reviews.
+
 ## Image
 
 *For a more complete list of AI Image tools visit: [Best Image AI Tools](https://github.com/mahseema/awesome-ai-tools/blob/main/IMAGE.md) or [Awesome AI Image](https://github.com/xaramore/awesome-ai-image)*
