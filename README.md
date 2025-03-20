@@ -155,7 +155,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [GOSH](https://gosh.app) - Free AI Price Tracker - Track any price of any product at any store using AI
 - [Pomodoro Timer Tools](https://pomodoro.tools) - Minimal AI-Driven Pomodoro Timer App
 - [BrainSoup](https://www.nurgo-software.com/products/brainsoup) Multi-agent & multi-LLM native client where AIs can remember, react to events, use tools, leverage local and external resources, and work together autonomously.
-- [MindPal](https://mindpal.space/) - Build your AI Second Brain with a team of AI agents and multi-agent workflow
+- [MindPal](https://mindpal.space/) - Build your AI Second Brain with a team of AI agents and multi-agent workflow\
+- [TabTabTab](https://tabtabtab.ai/) - The fastest way to work. Its what Apple intelligence should have been!
 
 
 
