@@ -67,7 +67,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Search engines
 
-- [Kazimir.ai](https://kazimir.ai/) - A search engine designed to search AI-generated images. 
+- [Kazimir.ai](https://kazimir.ai/) - A search engine designed to search AI-generated images.
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
 - [Metaphor](https://metaphor.systems/) - Language model powered search.
 - [Phind](https://phind.com/) - AI-based search engine.
@@ -109,7 +109,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Telborg](https://telborg.com/) - Write a high-quality first draft on any Climate topic in minutes
 - [Dittto.ai](https://dittto.ai) - Fix your hero copy with an AI trained on top SaaS websites.
 - [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes to your own website
-- [Shy Editor](https://www.shyeditor.com) - A modern AI-assisted writing environment for all types of prose. 
+- [Shy Editor](https://www.shyeditor.com) - A modern AI-assisted writing environment for all types of prose.
 - [DeepL Write](https://www.deepl.com/write) - AI writing tool that improves written communication.
 
 
@@ -147,7 +147,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Huntr AI Resume Builder](https://huntr.co/product/ai-resume-builder/?ref=mahseema-awesome-ai-tools) - Craft the perfect resume, with a little help from AI. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.
 - [Chat With PDF by Copilot.us](https://copilot.us/apps/chat-with-pdf) - An AI app that enables dialogue with PDF documents, supporting interactions with multiple files simultaneously through language models.
 - [Recall](https://www.getrecall.ai/) - Summarize Anything, Forget Nothing
-- [Talently AI](https://interview.talently.ai/?utm_source=mahseema-awesome-ai-tool&utm_medium=c_and_p&utm_campaign=tool-listing) - An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process. 
+- [Talently AI](https://interview.talently.ai/?utm_source=mahseema-awesome-ai-tool&utm_medium=c_and_p&utm_campaign=tool-listing) - An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process.
 - [TailorTask](https://wwww.tailortask.ai) - Automate any boring and repetitive task, without having to learn a new tool
 - [AnkiDecks AI](https://anki-decks.com) - Create Flashcards 10x faster. Generate Anki Flashcards from any File or Text with AI.
 - [AI for Google Slides](https://www.aiforgoogleslides.com/) - AI presentation maker for Google Slides
@@ -213,7 +213,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Maxim AI](https://www.getmaxim.ai/) - A generative AI evaluation and observability platform, empowering modern AI teams to ship products with quality, reliability, and speed.
 - [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
 - [CodeRabbit](https://coderabbit.ai/) - An AI-powered code review tool that helps developers improve code quality and productivity.
-- [Pagerly](https://www.pagerly.io) - Your Operations Co-pilot on Slack/Teams. It assists and prompts oncall with relevant information to debug issues.  
+- [Pagerly](https://www.pagerly.io) - Your Operations Co-pilot on Slack/Teams. It assists and prompts oncall with relevant information to debug issues.
 - [Hexabot](https://hexabot.ai) - A Open-source No-Code tool to build your AI Chatbot / Agent (multi-lingual, multi-channel, LLM, NLU, + ability to develop custom extensions)
 - [Plandex](https://github.com/plandex-ai/plandex) - Open source, terminal-based AI programming engine for complex tasks.
 - [AI/ML API](https://aimlapi.com/?utm_source=github+of+altern.ai) - AI/ML API gives developers access to 100+ AI models with one API.
@@ -417,7 +417,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Other
 
-- [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
+- [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want.
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
@@ -459,7 +459,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [LangMagic](https://easytolearn.io) - Learn languages from native content.
 - [fynk](https://fynk.com/) - AI powered contract management software
 - [LooksMax AI](https://looksmax.ai) - Find out how hot you are using AI
- 
+- [Maxx Report](https://www.looksmaxxreport.com) - The glow up and looksmax app
+
 
 ## Learning resources
 
@@ -497,11 +498,11 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
 - [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
-- [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing) 
+- [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)
 - [Awesome AI SEO](https://github.com/xaramore/awesome-ai-seo)
-- [Awesome AI Marketing](https://github.com/sarahdanesh/awesome-ai-marketing) 
-- [Awesome AI Music](https://github.com/xaramore/awesome-ai-music) 
-- [Awesome AI Image](https://github.com/xaramore/awesome-ai-image) 
+- [Awesome AI Marketing](https://github.com/sarahdanesh/awesome-ai-marketing)
+- [Awesome AI Music](https://github.com/xaramore/awesome-ai-music)
+- [Awesome AI Image](https://github.com/xaramore/awesome-ai-image)
 - [Awesome AI Video](https://github.com/xaramore/awesome-ai-video)
 - [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)
 - [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
