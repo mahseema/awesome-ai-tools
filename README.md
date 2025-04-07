@@ -216,6 +216,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Hexabot](https://hexabot.ai) - A Open-source No-Code tool to build your AI Chatbot / Agent (multi-lingual, multi-channel, LLM, NLU, + ability to develop custom extensions)
 - [Plandex](https://github.com/plandex-ai/plandex) - Open source, terminal-based AI programming engine for complex tasks.
 - [AI/ML API](https://aimlapi.com/?utm_source=github+of+altern.ai) - AI/ML API gives developers access to 100+ AI models with one API.
+- [Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code.
 
 
 
@@ -224,7 +225,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
 - [Ghostwriter](https://blog.replit.com/ai) - An AI-powered pair programmer by Replit.
-- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Build applications faster with the ML-powered coding companion.
+- [Amazon Q Developer]([https://aws.amazon.com/codewhisperer/](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el)) - AI coding assistant with extensions for IDEs such as VS Code and IntelliJ IDEA that provides both chat and agentic workflows.
 - [tabnine](https://www.tabnine.com/) - Code faster with whole-line & full-function code completions.
 - [Stenography](https://stenography.dev/) - Automatic code documentation.
 - [Mintlify](https://mintlify.com/) - AI powered documentation writer.
