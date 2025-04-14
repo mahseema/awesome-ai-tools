@@ -13,6 +13,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [🌟 Editor's Choice](#editors-choice)
 - [📝 AI Text](#text)
 - [👩‍💻 Code with AI](#code)
+  - [🛡️ AI Code Security](#ai-code-security)
 - [🖼️ Generative AI Images ](#image)
 - [📽️ Generative AI Video](#video)
 - [🎶 Generative AI Audio](#audio)
@@ -241,6 +242,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 
+## AI Code Security
+- [CodeGate](https://github.com/stacklok/codegate) - AI coding without compromise. CodeGate protects, encrypts, and keeps developers in control when using AI coding assistant tools.
+  
 ## Image
 
 *For a more complete list of AI Image tools visit: [Best Image AI Tools](https://github.com/mahseema/awesome-ai-tools/blob/main/IMAGE.md) or [Awesome AI Image](https://github.com/xaramore/awesome-ai-image)*
