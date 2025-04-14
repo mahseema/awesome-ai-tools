@@ -290,6 +290,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Suit me Up](https://suitmeup.pictures/) - Generate pictures of you wearing a suit with AI.
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 
+### Product design
+- [Readdy](https://readdy.ai) - AI User Interface Designer for you. Text to UI design in minutes.
+
 
 ### Graphic design
 
