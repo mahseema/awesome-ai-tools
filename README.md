@@ -174,6 +174,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 - [Sourcely](https://www.sourcely.net/) - Academic Citation Finding Tool with AI
 - [SciSpace](https://scispace.com/) - AI Chat for scientific PDFs.
+- [NotebookLM](https://notebooklm.google.com/) - AI Chat on your own document, link and text resources.
 
 
 ### Customer Support
