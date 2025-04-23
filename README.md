@@ -306,6 +306,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2.
 - [Phygital](https://app.phygital.plus/) - Built-in templates for generating or editing any pictures. Moreover, you can create your own design.
 - [Canva](https://www.canva.com/ai-image-generator/) - Generating AI Images.
+- [AI Scribbles](https://www.aiscribbles.com) - Browse hand-curated randomly generated AI-images.
 
 ### Model libraries
 
