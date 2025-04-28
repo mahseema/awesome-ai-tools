@@ -63,6 +63,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Phind](https://www.phind.com/) - *[reviews](https://altern.ai/product/phind)* - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
 - [Tiledesk](https://tiledesk.com/) - *[reviews](https://altern.ai/product/tiledesk)* - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
 - [AICamp](https://aicamp.so/) - *[reviews](#)* - ChatGPT for Teams
+- [nGPT](https://github.com/nazdridoy/ngpt) - Versatile Python LLM client and library with interactive chat(Chatbot), conversation memory, and support for multiple providers including OpenAI, Ollama, Groq, and Claude.
 
 ### Search engines
 
@@ -110,6 +111,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes to your own website
 - [Shy Editor](https://www.shyeditor.com) - A modern AI-assisted writing environment for all types of prose. 
 - [DeepL Write](https://www.deepl.com/write) - AI writing tool that improves written communication.
+- [nGPT](https://github.com/nazdridoy/ngpt) - Python tool with text rewriting functionality that preserves the original tone and meaning while improving quality.
 
 
 ### ChatGPT extensions
@@ -216,6 +218,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Hexabot](https://hexabot.ai) - A Open-source No-Code tool to build your AI Chatbot / Agent (multi-lingual, multi-channel, LLM, NLU, + ability to develop custom extensions)
 - [Plandex](https://github.com/plandex-ai/plandex) - Open source, terminal-based AI programming engine for complex tasks.
 - [AI/ML API](https://aimlapi.com/?utm_source=github+of+altern.ai) - AI/ML API gives developers access to 100+ AI models with one API.
+- [nGPT](https://github.com/nazdridoy/ngpt) - Versatile Python LLM client and library with CLI, interactive chat, code generation, shell command execution, and git commit message generation with support for multiple providers.
 
 
 
@@ -240,6 +243,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
 - [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
+- [nGPT](https://github.com/nazdridoy/ngpt) - Versatile Python LLM client and library with CLI, interactive chat, code generation, shell command execution, and git commit message generation with support for multiple providers.
 
 ## Image
 
@@ -458,7 +462,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [LangMagic](https://easytolearn.io) - Learn languages from native content.
 - [fynk](https://fynk.com/) - AI powered contract management software
 - [LooksMax AI](https://looksmax.ai) - Find out how hot you are using AI
- 
+- [nGPT](https://github.com/nazdridoy/ngpt) - Versatile Python LLM client and library with CLI, interactive chat, code generation, shell command execution, and git commit message generation with support for multiple providers.
+
 
 ## Learning resources
 
