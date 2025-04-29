@@ -331,7 +331,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Clipwing](https://clipwing.pro/) - A tool for cutting long videos into dozens of short clips.
 - [Recast Studio](https://recast.studio) - AI powered podcast marketing assistant.
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
-
+- [Aimi Sync](https://aimi.fm/sync/) - Generate 100% royalty-free soundtracks for your video with vocals, voice over, and music.
 
 ### Animation
 
@@ -368,8 +368,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Ecrett Music](https://www.ecrettmusic.com) - [Review](https://theresanai.com/ecrett-music) - Designed for video creators, offering royalty-free music.
 - [Loudly](https://www.loudly.com) - [Review](https://theresanai.com/loudly) - Combines AI music generation with a social platform for collaboration.
 - [Soundful](https://www.soundful.com) - [Review](https://theresanai.com/soundful) - High-quality, royalty-free music for content creators.
-
-
+- [Aimi Sync](https://aimi.fm/sync/) - Generate 100% royalty-free soundtracks for your video with vocals, voice over, and music.
+- [Aimi Player](https://aimi.fm/palyer/) - AI generated, interactive music player for lovers of electronic music. 100% free.
 
 ### Marketing AI Tools
 
