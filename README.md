@@ -77,6 +77,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Local search engines
 
+- [Agentset.ai](https://agentset.ai/) - Open-source local Semantic Search + RAG for your data
 - [privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.
 - [quivr](https://github.com/StanGirard/quivr) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
 
