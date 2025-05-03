@@ -359,7 +359,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 *You can also find  more comprehensive list on [There's an AI AI Music Generation Tools list](https://theresanai.com/category/music-generation)*
 
 
-- [Splash Pro](https://www.splashpro.com) - [Review](https://theresanai.com/splash-pro) - A versatile platform offering intuitive music creation tools for all skill levels.
+- [Splash Music](https://www.splashmusic.com/) - [Review](https://thereviewify.com/index.php/2024/05/05/ai-and-music-a-comprehensive-review-of-splash-music/) - A versatile platform offering intuitive music creation tools for all skill levels.
 - [AIVA](https://www.aiva.ai) - [Review](https://theresanai.com/aiva) - AI composer specializing in classical and cinematic music creation.
 - [Mubert](https://www.mubert.com) - [Review](https://theresanai.com/mubert) - Real-time generative music tailored for different use cases.
 - [Soundraw](https://soundraw.io) - [Review](https://theresanai.com/soundraw) - Allows users to customize music compositions based on mood and style.
