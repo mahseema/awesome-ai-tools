@@ -155,6 +155,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Pomodoro Timer Tools](https://pomodoro.tools) - Minimal AI-Driven Pomodoro Timer App
 - [BrainSoup](https://www.nurgo-software.com/products/brainsoup) Multi-agent & multi-LLM native client where AIs can remember, react to events, use tools, leverage local and external resources, and work together autonomously.
 - [MindPal](https://mindpal.space/) - Build your AI Second Brain with a team of AI agents and multi-agent workflow
+- [Marblism](https://marblism.com) - AI Employees for your business
 
 
 
@@ -236,7 +237,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [TurboPilot](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone that uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 - [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - An open-source implementation of OpenAI's ChatGPT Code interpreter.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
-- [Marblism](https://marblism.com) - Generate a SaaS boilerplate from a prompt.
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
 - [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
