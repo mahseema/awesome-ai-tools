@@ -79,6 +79,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - [privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.
 - [quivr](https://github.com/StanGirard/quivr) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
+- [ZhihuAgent](https://github.com/SamuelGong/ZhihuAgent) - AI-powered Q&A assistant that answers from your Zhihu bookmarks using a custom local knowledge base.
 
 ### Writing assistants
 
