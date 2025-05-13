@@ -289,6 +289,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [iColoring](https://icoloring.ai) - Free AI Coloring Pages Generator
 - [Suit me Up](https://suitmeup.pictures/) - Generate pictures of you wearing a suit with AI.
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
+- [PlantTattoosAI](https://www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
 
 
 ### Graphic design
