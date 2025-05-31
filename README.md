@@ -37,14 +37,14 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Models
 
-> *More complete list of AI Models: [Awesome AI Models](https://github.com/dariubs/awesome-ai-models)* ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+> *More complete list of AI Models: [Awesome AI Models](https://github.com/dariubs/awesome-ai-models)* 
 
 - [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
 - [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model.
 - [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) hosted by Alpa. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
-- [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+- [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
-- [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. #opensource ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+- [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
 - [Claude 3](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic.
 - [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
 - [Stable Beluga](https://huggingface.co/stabilityai/StableBeluga1-Delta) - A finetuned LLamma 65B model ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
@@ -82,8 +82,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Writing assistants
 
-*For a more complete list of AI writing assistants visit: [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)* ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
-
+*For a more complete list of AI writing assistants visit: [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)*
 - [Jasper](https://www.jasper.ai/) - Create content faster with artificial intelligence.
 - [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
 - [Rytr](https://rytr.me/) - Rytr is an AI writing assistant that helps you create high-quality content.
@@ -170,7 +169,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
 - [genei](https://www.genei.io/) - Summarise academic articles in seconds and save 80% on your research times.
 - [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
-- [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API](https://github.com/paperswithcode/galai). ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+- [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API](https://github.com/paperswithcode/galai). ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 - [Sourcely](https://www.sourcely.net/) - Academic Citation Finding Tool with AI
 - [SciSpace](https://scispace.com/) - AI Chat for scientific PDFs.
@@ -194,7 +193,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Developer tools
 
-- [Ollama](https://ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
+- [Ollama](https://ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps. ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [Keploy](https://keploy.io/) - Open source Tool for converting user traffic to Test Cases and Data Stubs. ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
@@ -202,7 +201,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue. ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
 - [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 - [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
-- [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource](https://github.com/langfuse/langfuse) ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+- [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. (https://github.com/langfuse/langfuse) ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine-tune LLM, CV, and tabular models.
 - [Prediction Guard](https://www.predictionguard.com/) - Seamlessly integrate private, controlled, and compliant Large Language Models (LLM) functionality.
 - [Portkey](https://portkey.ai/) - Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.
@@ -243,13 +242,13 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Image
 
-*For a more complete list of AI Image tools visit: [Best Image AI Tools](https://github.com/mahseema/awesome-ai-tools/blob/main/IMAGE.md) or [Awesome AI Image](https://github.com/xaramore/awesome-ai-image)* ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+*For a more complete list of AI Image tools visit: [Best Image AI Tools](https://github.com/mahseema/awesome-ai-tools/blob/main/IMAGE.md) or [Awesome AI Image](https://github.com/xaramore/awesome-ai-image)* 
 
 
 ### Models
 
 - [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.
-- [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stable Diffusion by Stability AI is a state-of-the-art text-to-image model that generates images from text. #opensource ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+- [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stable Diffusion by Stability AI is a state-of-the-art text-to-image model that generates images from text.  ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
 - [Midjourney](https://www.midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 - [Imagen](https://imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
 - [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
@@ -259,22 +258,22 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ### Services
 
 - [Craiyon](https://www.craiyon.com/) - Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
-- [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
+- [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model. ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder is a new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
 - [GauGAN2](http://gaugan.org/gaugan2/) - GauGAN2 is a robust tool for creating photorealistic art using a combination of words and drawings since it integrates segmentation mapping, inpainting, and text-to-image production in a single model.
 - [Magic Eraser](https://www.magiceraser.io/) - Remove unwanted things from images in seconds.
 - [Imagine by Magic Studio](https://magicstudio.com/imagine) - A tool by Magic Studio that let's you express yourself by just describing what's on your mind.
-- [Alpaca](https://www.getalpaca.io/) - Stable Diffusion Photoshop plugin. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
-- [Patience.ai](https://www.patience.ai/) - Patience.ai is an app for creating images with Stable Diffusion, a cutting-edge AI developed by Stability.AI. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
+- [Alpaca](https://www.getalpaca.io/) - Stable Diffusion Photoshop plugin.
+- [Patience.ai](https://www.patience.ai/) - Patience.ai is an app for creating images with Stable Diffusion, a cutting-edge AI developed by Stability.AI.
 - [GenShare](https://www.genshare.io/) - Generate art in seconds for free. Own and share what you create. A multimedia generative studio, democratizing design and creativity.
 - [Playground AI](https://playgroundai.com/) - Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.
-- [Pixelz AI Art Generator](https://pixelz.ai/) - Pixelz AI Art Generator enables you to create incredible art from text. Stable Diffusion, CLIP Guided Diffusion & PXL·E realistic algorithms available. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
+- [Pixelz AI Art Generator](https://pixelz.ai/) - Pixelz AI Art Generator enables you to create incredible art from text. Stable Diffusion, CLIP Guided Diffusion & PXL·E realistic algorithms available.
 - [modyfi](https://www.modyfi.io/) - The image editor you've always wanted. AI-powered creative tools in your browser. Real-time collaboration.
 - [Ponzu](https://www.ponzu.ai/) - Ponzu is your free AI logo generator. Build your brand with creatively designed logos in seconds, using only your imagination.
 - [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
 - [Avatar AI](https://avatarai.me/) - Create your own AI-generated avatars.
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
-- [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
+- [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
 - [Human Generator](https://generated.photos/human-generator) - AI generator or realistic looking photos of humans.
 - [VectorArt.ai](https://vectorart.ai) - Create vector images with AI.
@@ -300,10 +299,10 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Image libraries
 
-- [Lexica](https://lexica.art/) - Stable Diffusion search engine. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
+- [Lexica](https://lexica.art/) - Stable Diffusion search engine.
 - [Libraire](https://libraire.ai/) - The largest library of AI-generated images.
-- [KREA](https://www.krea.ai/) - Explore millions of AI-generated images and create collections of prompts. Featuring Stable Diffusion generations. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
-- [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
+- [KREA](https://www.krea.ai/) - Explore millions of AI-generated images and create collections of prompts. Featuring Stable Diffusion generations.
+- [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2.
 - [Phygital](https://app.phygital.plus/) - Built-in templates for generating or editing any pictures. Moreover, you can create your own design.
 - [Canva](https://www.canva.com/ai-image-generator/) - Generating AI Images.
 
@@ -314,11 +313,11 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Stable Diffusion resources
 
-- [Stable Horde](https://stablehorde.net/) - A crowdsourced distributed cluster of Stable Diffusion workers. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
-- [DiffusionDB](https://diffusiondb.com/) - A list of all public apps, developer tools, guides and plugins for Stable Diffusion. [Airtable version](https://airtable.com/shr0HlBwbw3nZ8Ht3/tblxOCylXV8ynh7ti). ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
-- [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
-- [Stableboost](https://stableboost.ai/) - Stableboost is a Stable Diffusion WebUI that lets you quickly generate a lot of images so you can find the perfect ones. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
-- [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface). ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+- [Stable Horde](https://stablehorde.net/) - A crowdsourced distributed cluster of Stable Diffusion workers. ![Static Badge](https://img.shields.io/badge/cluster-community_driven-brightgreen)
+- [DiffusionDB](https://diffusiondb.com/) - A list of all public apps, developer tools, guides and plugins for Stable Diffusion. [Airtable version](https://airtable.com/shr0HlBwbw3nZ8Ht3/tblxOCylXV8ynh7ti).
+- [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
+- [Stableboost](https://stableboost.ai/) - Stableboost is a Stable Diffusion WebUI that lets you quickly generate a lot of images so you can find the perfect ones.
+- [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface). ![Static Badge](https://img.shields.io/badge/course-open_source-brightgreen)
 
 ## Video
 
@@ -339,12 +338,12 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### AI Voice Cloning
 
-*You can also find more comprehensive list on [Awesome AI Music](https://github.com/xaramore/awesome-ai-music) and [There's an AI AI Voice Cloning list](https://theresanai.com/category/voice-cloning)* ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+*You can also find more comprehensive list on [Awesome AI Music](https://github.com/xaramore/awesome-ai-music) and [There's an AI AI Voice Cloning list](https://theresanai.com/category/voice-cloning)*
 
 - [Descript Overdub](https://www.descript.com/overdub) - [Review](https://theresanai.com/descript-overdub) - Seamlessly integrates with Descript’s transcription and editing tools, ideal for content creators needing quick voiceovers.
 - [Respeecher](https://www.respeecher.com/) - [Review](https://theresanai.com/respeecher) -  A professional tool widely used in the entertainment industry to create emotion-rich, realistic voice clones.
 - [ElevenLabs](https://elevenlabs.io/) - [Review](https://theresanai.com/elevenlabs) - Known for ultra-realistic voice cloning and emotion modeling, setting a new standard in AI-driven voice synthesis.
-- [Resemble AI](https://www.resemble.ai/) - [Review](https://theresanai.com/resemble-ai) - Offers real-time voice synthesis with customization options, making it versatile for both developers and creatives. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
+- [Resemble AI](https://www.resemble.ai/) - [Review](https://theresanai.com/resemble-ai) - Offers real-time voice synthesis with customization options, making it versatile for both developers and creatives.
 - [Murf AI](https://murf.ai/) - [Review](https://theresanai.com/murf) - User-friendly platform for quick, high-quality voiceovers, favored for commercial and marketing applications.
 - [iSpeech](https://www.ispeech.org/) - [Review](https://theresanai.com/ispeech) - A versatile solution for corporate applications with support for a wide array of languages and voices.
 - [Veritone Voice](https://www.veritone.com/solutions/voice/) - [Review](https://theresanai.com/veritone-voice) - Focuses on maintaining brand consistency with highly customizable voice cloning used in media and entertainment.
@@ -373,17 +372,17 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Marketing AI Tools
 
-*You can also find  more comprehensive list on *[Marketing List](https://github.com/mahseema/awesome-ai-tools/blob/main/marketing.md)* ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+*You can also find  more comprehensive list on *[Marketing List](https://github.com/mahseema/awesome-ai-tools/blob/main/marketing.md)*
 
 - **[Jasper AI](https://www.jasper.ai/)** - AI-powered tool for generating marketing content like blogs, emails, and ad copy.
 - **[Mutiny](https://www.mutinyhq.com/)** - Personalization platform to improve website conversions using AI.
 - **[Clearbit](https://clearbit.com/)** - Lead enrichment and data intelligence platform.
-- **[Seventh Sense](https://www.theseventhsense.com/)** - AI tool for email send time optimization. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
-- **[Smartly.io](https://www.smartly.io/)** - Automates social media ad creation and optimization. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
+- **[Seventh Sense](https://www.theseventhsense.com/)** - AI tool for email send time optimization.
+- **[Smartly.io](https://www.smartly.io/)** - Automates social media ad creation and optimization.
 - **[Adzooma](https://www.adzooma.com/)** - AI-powered PPC campaign management platform.
-- **[Phrasee](https://www.phrasee.co/)** - AI tool that generates optimized marketing copy. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
+- **[Phrasee](https://www.phrasee.co/)** - AI tool that generates optimized marketing copy.
 - **[Crimson Hexagon](https://www.crimsonhexagon.com/)** - AI-based social media sentiment analysis platform.
-- **[MarketMuse](https://www.marketmuse.com/)** - SEO content optimization platform using AI. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
+- **[MarketMuse](https://www.marketmuse.com/)** - SEO content optimization platform using AI.
 - **[Chatfuel](https://www.chatfuel.com/)** - AI-driven chatbot for automating customer engagement on Messenger.
 - **[LogicBalls](https://logicballs.com/)** - An AI-powered writing tool to create any type of content and supercharge your productivity.
 - **[Rupert AI](https://www.getrupert.com/)** - AI tools for designers and marketers
@@ -404,8 +403,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Coqui](https://coqui.ai/) - Generative AI for Voice.
 - [podcast.ai](https://podcast.ai/) - A podcast that is entirely generated by artificial intelligence, powered by Play.ht text-to-voice AI.
 - [VALL-E X](https://vallex-demo.github.io/) - A cross-lingual neural codec language model for cross-lingual speech synthesis.
-- [TorToiSe](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
-- [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+- [TorToiSe](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality.  ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+- [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model.  ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
 - [CustomPod.io](https://custompod.io) - Generate daily news podcasts only on the topics you care about.
 
 ### Music
@@ -418,7 +417,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
-- [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion. ![Static Badge](https://img.shields.io/badge/model-open_weights-brightgreen)
+- [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
 - [Have I Been Trained?](https://haveibeentrained.com/) - Check if your image has been used to train popular AI art models.
 - [AI Dungeon](https://aidungeon.io/) - A text-based adventure-story game you direct (and star in) while the AI brings it to life.
@@ -463,14 +462,14 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Learning resources
 
 - [Learn Prompting](https://learnprompting.org/) - A free, open-source course on communicating with artificial intelligence.
-- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering. ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering. ![Static Badge](https://img.shields.io/badge/course-open_source-brightgreen)
 - [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
-- [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API. ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API. ![Static Badge](https://img.shields.io/badge/course-open_source-brightgreen)
 - [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
 
 ## Learn AI free
 ### Machine Learning
-- [Roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them, and what tools to use to perform them. ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+- [Roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them, and what tools to use to perform them. ![Static Badge](https://img.shields.io/badge/course-open_source-brightgreen)
 - [Andrew Ng’s Machine Learning at Stanford University](https://www.coursera.org/learn/machine-learning) -  Ng’s gentle introduction to machine learning course is perfect for engineers who want a foundational overview of key concepts in the field.
 - [Sebastian Thrun’s Introduction To Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - robust introduction to the subject and also the foundation for a Data Analyst “nanodegree” certification sponsored by Facebook and MongoDB.
 - [AI and Machine Learning Roadmaps](https://www.scaler.com/blog/category/artificial-intelligence-machine-learning/) - Roadmaps featuring essential concepts, learning methods, and the tools to put them into practice.
@@ -479,8 +478,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ### Deep Learning
 - [Geoffrey Hinton’s Neural Networks For Machine Learning ](https://medium.com/kaggle-blog)- it is now removed from cousrea but still check these list
 - [Jeremy Howard’s Fast.ai & Data Institute Certificates](https://www.fast.ai/) - The in-person certificate courses are not free, but all of the content is available on Fast.ai as MOOCs.
-- [coursera-deep-learning-specialization](https://github.com/pratham5368/coursera-deep-learning-specialization) - Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
-- [tensorflow](https://github.com/pratham5368/Tecnologies-I-Learn/tree/main/31-pytorch) - all important notes to learn pytorch with all the examples in google colab ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+- [coursera-deep-learning-specialization](https://github.com/pratham5368/coursera-deep-learning-specialization) - Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai ![Static Badge](https://img.shields.io/badge/course-open_source-brightgreen)
+- [tensorflow](https://github.com/pratham5368/Tecnologies-I-Learn/tree/main/31-pytorch) - all important notes to learn pytorch with all the examples in google colab ![Static Badge](https://img.shields.io/badge/course-open_source-brightgreen)
 
 ## NVIDIA Platform Extensions
 
@@ -490,20 +489,20 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Related Awesome Lists
 
 - [Altern](https://altern.ai) - Find Best AI Tools
-- [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+- [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
 - [There's An AI](https://theresanai.com) - Frontpage of AI
-- [Awesome AI Books](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+- [Awesome AI Books](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
 - [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
 - [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - Curated List of Workflow Automation Apps And Tools
-- [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
-- [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)  ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
-- [Awesome AI SEO](https://github.com/xaramore/awesome-ai-seo) ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
-- [Awesome AI Marketing](https://github.com/sarahdanesh/awesome-ai-marketing)  ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
-- [Awesome AI Music](https://github.com/xaramore/awesome-ai-music)  ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
-- [Awesome AI Image](https://github.com/xaramore/awesome-ai-image)  ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
-- [Awesome AI Video](https://github.com/xaramore/awesome-ai-video) ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
-- [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing) ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
-- [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools. ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+- [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
+- [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing) 
+- [Awesome AI SEO](https://github.com/xaramore/awesome-ai-seo)
+- [Awesome AI Marketing](https://github.com/sarahdanesh/awesome-ai-marketing) 
+- [Awesome AI Music](https://github.com/xaramore/awesome-ai-music) 
+- [Awesome AI Image](https://github.com/xaramore/awesome-ai-image) 
+- [Awesome AI Video](https://github.com/xaramore/awesome-ai-video)
+- [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)
+- [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
 
 
-created by [Mahsima Dastan](https://github.com/mahseema) ![Static Badge](https://img.shields.io/badge/software-open_source-brightgreen)
+created by [Mahsima Dastan](https://github.com/mahseema)
