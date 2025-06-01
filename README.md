@@ -155,7 +155,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Pomodoro Timer Tools](https://pomodoro.tools) - Minimal AI-Driven Pomodoro Timer App
 - [BrainSoup](https://www.nurgo-software.com/products/brainsoup) Multi-agent & multi-LLM native client where AIs can remember, react to events, use tools, leverage local and external resources, and work together autonomously.
 - [MindPal](https://mindpal.space/) - Build your AI Second Brain with a team of AI agents and multi-agent workflow
-
+- [WellApp-ai/ai-receipt-generator](https://github.com/WellApp-ai/Well/tree/main/ai-receipt-generator) 
+Generate synthetic receipts and invoices using LLMs — no templates, no rendering, just structured JSON. 
+- [GitHub – WellApp-ai/ai-invoice-extractor](https://github.com/WellApp-ai/Well/tree/main/ai-invoice-extractor) LLM-Powered Invoice & Receipt Extractor.
 
 
 ### Meeting assistants
