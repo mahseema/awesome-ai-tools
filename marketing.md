@@ -43,6 +43,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 ## Social Media
 
 - **[Smartly.io](https://www.smartly.io/)** - AI-based social media ad automation tool for creating, optimizing, and managing ads at scale.
+- **[Storyshort.ai](https://www.storyshort.ai/)** - Create facless videos automatically with AI.
 - **[Chatfuel](https://www.chatfuel.com/)** - Automates customer engagement on Facebook Messenger with AI-driven chatbots.
 - **[Lately](https://www.lately.ai/)** - AI tool that repurposes long-form content into social media posts optimized for different platforms.
 
