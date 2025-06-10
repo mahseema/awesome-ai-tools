@@ -59,6 +59,9 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Brandwatch](https://www.brandwatch.com/)** - AI-driven consumer insights platform for social media listening and market research.
 - **[Talkwalker](https://www.talkwalker.com/)** - Provides AI-powered marketing analytics, social media monitoring, and brand sentiment analysis.
 
+## GEO (Generative Engine Optimization)
+ **[GetBool AI](https://www.getbool.ai/)** - AI tool that helps marketers improve their brand visibility wihtin LLMs, by using high-quality content, high quality mentions and links, reviews, etc...
+
 ## SEO & Search Optimization
 
 - **[MarketMuse](https://www.marketmuse.com/)** - AI content optimization tool that helps marketers improve SEO performance by analyzing content gaps and providing keyword suggestions.
