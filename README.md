@@ -331,6 +331,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Clipwing](https://clipwing.pro/) - A tool for cutting long videos into dozens of short clips.
 - [Recast Studio](https://recast.studio) - AI powered podcast marketing assistant.
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
+- [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
 
 
 ### Animation
