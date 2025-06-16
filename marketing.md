@@ -58,6 +58,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Domo](https://www.domo.com/)** - AI analytics platform that offers real-time insights and data visualization for marketing performance.
 - **[Brandwatch](https://www.brandwatch.com/)** - AI-driven consumer insights platform for social media listening and market research.
 - **[Talkwalker](https://www.talkwalker.com/)** - Provides AI-powered marketing analytics, social media monitoring, and brand sentiment analysis.
+- **[Capalyze](https://capalyze.ai/)** - Capalyze is the only AI that lets you capture web data across platforms, run sentiment analysis, and automate it all — through natural language.
 
 ## SEO & Search Optimization
 
