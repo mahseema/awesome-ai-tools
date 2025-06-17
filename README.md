@@ -494,6 +494,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [There's An AI](https://theresanai.com) - Frontpage of AI
 - [Awesome AI Books](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
 - [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
+- [AiMatch.pro](https://aimatch.pro) - Curated List of AI Apps with in depth descriptions of tools, SEO optimised
 - [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing) 
