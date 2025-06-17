@@ -458,6 +458,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [LangMagic](https://easytolearn.io) - Learn languages from native content.
 - [fynk](https://fynk.com/) - AI powered contract management software
 - [LooksMax AI](https://looksmax.ai) - Find out how hot you are using AI
+- [Zola Analytics](https://www.zolaanalytics.com/) - Zola is an AI-powered financial data platform that transforms natural language queries into professional charts and reports in seconds.
  
 
 ## Learning resources
