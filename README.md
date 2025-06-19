@@ -101,6 +101,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [LAIKA](https://www.writewithlaika.com/) - LAIKA trains an artificial intelligence on your own writing to create a personalised creative partner-in-crime.
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
+- [RapidTextAI](https://app.rapidtextai.com/) - Write Advance Articles using Multiple AI Models like GPT4, Gemini, Deepseek and grok.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
 - [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
 - [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
