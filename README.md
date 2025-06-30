@@ -507,3 +507,5 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
+**[Probe.dev](https://docs.probe.dev/guides/mcp-integration)** - Comprehensive media analysis and validation powered by Probe.dev. Hosted MCP server with FFprobe, MediaInfo, and Probe Report capabilities.
