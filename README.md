@@ -458,6 +458,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [LangMagic](https://easytolearn.io) - Learn languages from native content.
 - [fynk](https://fynk.com/) - AI powered contract management software
 - [LooksMax AI](https://looksmax.ai) - Find out how hot you are using AI
+- [3D House Planner](https://3dhouseplanner.com/) - AI-Powered 3D Floor Plan Generation from Images.
  
 
 ## Learning resources
