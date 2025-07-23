@@ -258,6 +258,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Services
 
+- [Namehouse](https://www.namehouse.ai) - Namehouse.ai is an AI model that finds brandable names for your business, complete with instant domain checks and logo concepts.
 - [Craiyon](https://www.craiyon.com/) - Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
 - [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder is a new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
