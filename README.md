@@ -289,6 +289,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [iColoring](https://icoloring.ai) - Free AI Coloring Pages Generator
 - [Suit me Up](https://suitmeup.pictures/) - Generate pictures of you wearing a suit with AI.
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
+- [photomia.app](https://www.photomia.app) - Train your own AI model using your selfies and generate high-quality portraits tailored to your style. Fast LoRA training, privacy-first
 
 
 ### Graphic design
