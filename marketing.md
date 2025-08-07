@@ -21,6 +21,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Phrasee](https://www.phrasee.co/)** - AI-powered platform for generating optimized marketing messages, including email and social media copy.
 - **[Copy.ai](https://www.copy.ai/)** - AI-powered copywriting tool for generating ad copy, product descriptions, and website content.
 - **[Writesonic](https://writesonic.com/)** - AI writing assistant for marketing content, blogs, and sales copy generation.
+- **[Media Workbench AI](https://mediaworkbench.ai/)** - All-in-one AI platform for generating content, images, code, and chat—built to supercharge creativity and productivity.
 
 ## Personalization
 
