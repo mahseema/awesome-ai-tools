@@ -390,10 +390,14 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 
 
+
 ### Phone Calls
 - [AICaller.io](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
 - [Cald.ai](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
-- [Rosie](https://heyrosie.com/) - AI Phone Answering Service
+- [Rosie](https://heyrosie.com/) - AI Phone Answering Service.
+- [Osno.ai](https://osno.ai) - Build, test, and deploy AI voice agents in minutes for use cases like lead qualification, appointment booking, post-purchase feedback, and collections. Features human-like multilingual conversations, ready-to-use templates, smart interruption handling, and seamless CRM integration.
+- [SquadStack.ai](https://squadstack.ai) - AI-powered voice agents and sales solutions for high-volume outbound and inbound calling. Specializes in lead engagement, qualification, and conversion with multilingual support, 24/7 availability, human-like dialogues, and advanced analytics for industries like real estate, BFSI, and e-commerce.
+
 
 ### Speech
 
