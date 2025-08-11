@@ -110,6 +110,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes to your own website
 - [Shy Editor](https://www.shyeditor.com) - A modern AI-assisted writing environment for all types of prose. 
 - [DeepL Write](https://www.deepl.com/write) - AI writing tool that improves written communication.
+- [AI Text Checker](https://www.aitextchecker.pro/) - Free AI detection tool to detect AI Text and Bbpass AI detection.
+- [Detectordeia](https://www.detectordeia.org/) - Free AI detection and humanizar tool for Spanish users.
 
 
 ### ChatGPT extensions
