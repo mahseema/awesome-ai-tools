@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 - [Sourcely](https://www.sourcely.net/) - Academic Citation Finding Tool with AI
 - [SciSpace](https://scispace.com/) - AI Chat for scientific PDFs.
+- [NotebookLM](https://notebooklm.google.com/) - AI Chat on your own document, link and text resources.
 
 
 ### Customer Support
@@ -364,6 +365,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Clipwing](https://clipwing.pro/) - A tool for cutting long videos into dozens of short clips.
 - [Recast Studio](https://recast.studio) - AI powered podcast marketing assistant.
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
+- [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 
 
 ### Animation
