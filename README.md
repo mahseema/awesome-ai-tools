@@ -340,6 +340,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [SVGStud.io](https://svgstud.io/) - AI-based SVG Generation and Semantic Seach
 - [Text2Infographic](https://text2infographic.com/) - AI infographic generator and editor.
 - [Seede.ai](https://seede.ai/) - Create a stunning poster in just 1 minute with Seede.
+- [Magic Patterns](https://www.magicpatterns.com/) - AI-based UI builder with Figma export and React code generation.
 
 
 ### Image libraries
