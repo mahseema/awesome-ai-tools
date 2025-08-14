@@ -292,7 +292,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Kilo Code](https://kilocode.ai) - Open Source AI coding assistant for planning, building, and fixing code inside VS Code.
 - [Capacity](https://capacity.so) - Capacity lets you turn your ideas into fully functional web apps in minutes using AI.
 - [Runcell](https://runcell.dev) - AI Agent Extension for Jupyter Lab, Agent that can code, execute, analysis cell result, etc in Jupyter.
-- 
+- [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
+
 
 ## Image
 
