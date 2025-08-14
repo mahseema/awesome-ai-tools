@@ -172,6 +172,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Whisper API](https://whisper-api.com) - Whisper API is a Transcription API Powered By OpenAI Whisper model. Get 5 free transcriptions daily (no duration limits) with robust control over the model's parameters like size, temperature, beam size and more.
 - [Smmry](https://smmry.com/) - Summarize Long Content Into Clear Insights
 - [Nudge AI](https://getnudgeai.com/) - Ambient AI Scribe for Healthcare
+- [Summara](https://summara.io/) - YouTube AI Summary and Transcript widget
 
 
 ### Meeting assistants
