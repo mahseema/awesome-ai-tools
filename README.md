@@ -319,6 +319,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Microsoft Designer](https://designer.microsoft.com/) - Stunning designs in a flash.
 - [SVGStud.io](https://svgstud.io/) - AI-based SVG Generation and Semantic Seach
 - [Text2Infographic](https://text2infographic.com/) - AI infographic generator and editor.
+- [Seede.ai](https://seede.ai/) - Create a stunning poster in just 1 minute with Seede.
+
 
 ### Image libraries
 
