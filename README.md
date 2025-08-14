@@ -246,6 +246,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code.
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
 - [VoltAgent](https://github.com/voltagent/voltagent) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
+- [Notte](https://github.com/nottelabs/notte) - Notte is the fastest, most reliable Browser Using Agents framework
 
 
 
@@ -257,7 +258,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Ghostwriter](https://blog.replit.com/ai) - An AI-powered pair programmer by Replit.
 - [GoCodeo](https://www.gocodeo.com/)- An AI Coding & Testing Agent.
 - [Amazon Q Developer]([https://aws.amazon.com/codewhisperer/](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el)) - AI coding assistant with extensions for IDEs such as VS Code and IntelliJ IDEA that provides both chat and agentic workflows.
-
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Build applications faster with the ML-powered coding companion.
 - [tabnine](https://www.tabnine.com/) - Code faster with whole-line & full-function code completions.
 - [Stenography](https://stenography.dev/) - Automatic code documentation.
