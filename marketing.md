@@ -21,6 +21,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Phrasee](https://www.phrasee.co/)** - AI-powered platform for generating optimized marketing messages, including email and social media copy.
 - **[Copy.ai](https://www.copy.ai/)** - AI-powered copywriting tool for generating ad copy, product descriptions, and website content.
 - **[Writesonic](https://writesonic.com/)** - AI writing assistant for marketing content, blogs, and sales copy generation.
+- **[AI Story Book](https://aistorybook.app)** – Illustrated AI storybooks with tools for sharing on socials. Great for marketing through storytelling.
 
 ## Personalization
 
@@ -43,6 +44,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 ## Social Media
 
 - **[Smartly.io](https://www.smartly.io/)** - AI-based social media ad automation tool for creating, optimizing, and managing ads at scale.
+- **[Storyshort.ai](https://www.storyshort.ai/)** - Create facless videos automatically with AI.
 - **[Chatfuel](https://www.chatfuel.com/)** - Automates customer engagement on Facebook Messenger with AI-driven chatbots.
 - **[Lately](https://www.lately.ai/)** - AI tool that repurposes long-form content into social media posts optimized for different platforms.
 
