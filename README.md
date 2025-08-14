@@ -179,6 +179,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Spell](https://spellapp.com) - Spell is the AI alternative to Google Docs
 - [Kosmik](https://www.kosmik.app) - AI moodboarding platform
 - [Magic Potion](https://www.magicpotion.app) - Visual AI Prompt Editor
+- [MinusX](https://minusx.ai/) - Have an AI Analyst answer all your data questions reliably on Metabase
 
 
 
