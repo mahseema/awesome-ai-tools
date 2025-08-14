@@ -537,7 +537,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Luthor](https://luthor.ai/) - Programmatic content marketing at scale
 - [Hyperbrowser](https://hyperbrowser.ai/) - Browser infrastructure and automation for AI Agents and Apps with advanced features like proxies, captcha solving, and session recording.
 - [Bricks](https://www.thebricks.com/) - The AI Spreadsheet We've All Been Waiting For
-- [MindStudio](https://mindstudio.ai/) — MindStudio lets you rapidly build, deploy, and operate AI Workers — automations, applications, agents. Anyone can build AI Workers rapidly (typically in under 30 minutes). Over 150k AI Workers are deployed across all types of use cases and organizations.
+- [MindStudio](https://mindstudio.ai/) — Build powerful AI Agents for yourself, your team, or your enterprise. Powerful, easy to use, visual builder—no coding required, but extensible with code if you need it. Over 100 templates for all kinds of business and personal use cases.
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
