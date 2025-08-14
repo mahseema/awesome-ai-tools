@@ -273,6 +273,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 - [FlexApp](https://flexapp.ai/) - Build mobile apps with AI, not code
+- [Kilo Code](https://kilocode.ai) - Open Source AI coding assistant for planning, building, and fixing code inside VS Code.
+
+
 
 ## Image
 
