@@ -239,6 +239,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Kiln](https://getkiln.ai) - Intuitive app to build your own AI models. Includes no-code synthetic data generation, fine-tuning, dataset collaboration, and more.
 - [Calmo](https://getcalmo.com/) - Debug Production x10 Faster with AI.
 - [Cleanlab](https://help.cleanlab.ai/tlm/) - Detect and remediate hallucinations in any LLM application.
+- [Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code.
 
 
 ## Code
@@ -248,6 +249,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
 - [Ghostwriter](https://blog.replit.com/ai) - An AI-powered pair programmer by Replit.
 - [GoCodeo](https://www.gocodeo.com/)- An AI Coding & Testing Agent.
+- [Amazon Q Developer]([https://aws.amazon.com/codewhisperer/](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el)) - AI coding assistant with extensions for IDEs such as VS Code and IntelliJ IDEA that provides both chat and agentic workflows.
+
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Build applications faster with the ML-powered coding companion.
 - [tabnine](https://www.tabnine.com/) - Code faster with whole-line & full-function code completions.
 - [Stenography](https://stenography.dev/) - Automatic code documentation.
