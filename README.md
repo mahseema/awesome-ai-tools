@@ -165,6 +165,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Transgate](https://transgate.ai/) - AI Speech to Text
 - [RabbitHoles AI](https://www.rabbitholes.ai/) - Chat with AI on an Infinite Canvas
 - [Rember](https://www.rember.com/) - A simple yet powerful spaced repetition system designed to help you remember more.
+- [Qurate](https://qurate.appcradle.net/) - AI Quote Companion, which can help in finding relavant quotes according to the context.
 
 
   
