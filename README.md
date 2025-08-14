@@ -17,7 +17,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [📽️ Generative AI Video](#video)
 - [🎶 Generative AI Audio](#audio)
   - [Voice Cloning](#ai-voice-cloning)
-  - [Music Generation](#ai-music-generation)
+  - [Music Generation](#ai-music-generators)
 - [🎯 AI Tools for Marketing](#marketing-ai-tools)
 - [📞 AI Phone Call Agents](#phone-calls)
 - [🎒 Other AI Tools](#other)
