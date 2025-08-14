@@ -181,6 +181,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Magic Potion](https://www.magicpotion.app) - Visual AI Prompt Editor
 - [MinusX](https://minusx.ai/) - Have an AI Analyst answer all your data questions reliably on Metabase
 - [Excelmatic](https://excelmatic.ai) - AI-Powered Excel Data Analysis and Visualization, Skip the functions—just upload, chat, and watch your data turn into insights and visuals.
+- [Langfa.st](https://langfa.st/) - A fast, no-signup playground to test and share AI prompt templates
 
 
 
