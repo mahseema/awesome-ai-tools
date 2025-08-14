@@ -175,6 +175,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Summara](https://summara.io/) - YouTube AI Summary and Transcript widget
 - [Mocha](https://getmocha.com) - AI app builder
 - [Marblism](https://marblism.com) - AI Employees for your business
+- [Spell](https://spellapp.com) - Spell is the AI alternative to Google Docs
+
 
 
 
