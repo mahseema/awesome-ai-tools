@@ -280,6 +280,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 - [FlexApp](https://flexapp.ai/) - Build mobile apps with AI, not code
 - [Kilo Code](https://kilocode.ai) - Open Source AI coding assistant for planning, building, and fixing code inside VS Code.
+- [Capacity](https://capacity.so) - Capacity lets you turn your ideas into fully functional web apps in minutes using AI.
 
 
 
