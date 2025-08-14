@@ -237,7 +237,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
 - [Kiln](https://getkiln.ai) - Intuitive app to build your own AI models. Includes no-code synthetic data generation, fine-tuning, dataset collaboration, and more.
 - [Calmo](https://getcalmo.com/) - Debug Production x10 Faster with AI.
-
+- [Cleanlab](https://help.cleanlab.ai/tlm/) - Detect and remediate hallucinations in any LLM application.
 
 
 ## Code
