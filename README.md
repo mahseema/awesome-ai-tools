@@ -176,6 +176,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Mocha](https://getmocha.com) - AI app builder
 - [Marblism](https://marblism.com) - AI Employees for your business
 - [Spell](https://spellapp.com) - Spell is the AI alternative to Google Docs
+- [Kosmik](https://www.kosmik.app) - AI moodboarding platform
 
 
 
