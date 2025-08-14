@@ -177,6 +177,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Marblism](https://marblism.com) - AI Employees for your business
 - [Spell](https://spellapp.com) - Spell is the AI alternative to Google Docs
 - [Kosmik](https://www.kosmik.app) - AI moodboarding platform
+- [Magic Potion](https://www.magicpotion.app) - Visual AI Prompt Editor
 
 
 
