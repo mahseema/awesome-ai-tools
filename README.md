@@ -518,6 +518,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Bricks](https://www.thebricks.com/) - The AI Spreadsheet We've All Been Waiting For
 - [MindStudio](https://mindstudio.ai/) — MindStudio lets you rapidly build, deploy, and operate AI Workers — automations, applications, agents. Anyone can build AI Workers rapidly (typically in under 30 minutes). Over 150k AI Workers are deployed across all types of use cases and organizations.
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
+- [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 
 
 ## Learning resources
