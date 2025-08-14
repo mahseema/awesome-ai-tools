@@ -26,7 +26,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Editor's Choice
 
-- [Altern](https://altern.ai) - find almost anything related to AI
+- [There's an AI](https://theresanai.com) - List of best AI Tools
 - [Notion AI](https://affiliate.notion.so/9po6cx7rvdr6-4y5a7) - Just ask Q&A, and find the info you need in seconds. Get help writing and brainstorming in Notion, not in a separate browser tab.
 - [Murf AI](https://get.murf.ai/v8i9to5ad4oq) - Create voiceover with the most lifelike AI voices.
 - [SaneBox](https://try.sanebox.com/yzkpe5s68xk2) - an email management software as a service that integrates with IMAP and Exchange Web Services email accounts.
@@ -63,6 +63,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Phind](https://www.phind.com/) - *[reviews](https://altern.ai/product/phind)* - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
 - [Tiledesk](https://tiledesk.com/) - *[reviews](https://altern.ai/product/tiledesk)* - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
 - [AICamp](https://aicamp.so/) - *[reviews](#)* - ChatGPT for Teams
+- [Gali Chat](https://www.galichat.com/) - *[reviews](#)* - Your 24/7 AI Support Assistant that helps you grow your business!
 
 ### Search engines
 
@@ -106,9 +107,13 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
 - [Quick Creator](https://quickcreator.io) - SEO-Optimized Blog platform powered by AI.
 - [Telborg](https://telborg.com/) - Write a high-quality first draft on any Climate topic in minutes
+- [Trolly.ai](https://trolly.ai/) - Trolly.ai can help you in creating professional SEO articles, 2x faster. This tool crafts content that search engines love, propelling you up the rankings.
 - [Dittto.ai](https://dittto.ai) - Fix your hero copy with an AI trained on top SaaS websites.
 - [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes to your own website
 - [Shy Editor](https://www.shyeditor.com) - A modern AI-assisted writing environment for all types of prose. 
+- [DeepL Write](https://www.deepl.com/write) - AI writing tool that improves written communication.
+- [Headlinesai.pro](https://www.headlinesai.pro/) - This AI powered tool can help you in generating catchy and optimized headlines based on your content for multiple platforms like Youtube, Medium, Indie Hackers and Reddit.
+
 
 ### ChatGPT extensions
 
@@ -150,7 +155,12 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI for Google Slides](https://www.aiforgoogleslides.com/) - AI presentation maker for Google Slides
 - [FARSITE](https://far.site/) - AI-powered Compliance Software for U.S. Government Contractors
 - [GOSH](https://gosh.app) - Free AI Price Tracker - Track any price of any product at any store using AI
-- [Pomodoro Timer Tools] - Minimal AI-Driven Pomodoro Timer App
+- [Pomodoro Timer Tools](https://pomodoro.tools) - Minimal AI-Driven Pomodoro Timer App
+- [BrainSoup](https://www.nurgo-software.com/products/brainsoup) Multi-agent & multi-LLM native client where AIs can remember, react to events, use tools, leverage local and external resources, and work together autonomously.
+- [MindPal](https://mindpal.space/) - Build your AI Second Brain with a team of AI agents and multi-agent workflow
+- [fabric](https://github.com/danielmiessler/fabric/) - Apply AI to everyday challenges in the comfort of your terminal. Help’s to get better results with tried and tested library of prompt pattern’s.
+- [Riffo](https://riffo.ai/) - An AI-powered file management tool for bulk renaming and automatic folder organization.
+
 
 ### Meeting assistants
 
@@ -167,6 +177,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API](https://github.com/paperswithcode/galai).
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 - [Sourcely](https://www.sourcely.net/) - Academic Citation Finding Tool with AI
+- [SciSpace](https://scispace.com/) - AI Chat for scientific PDFs.
+
 
 ### Customer Support
 - [SiteGPT](https://sitegpt.ai/?ref=mahseema-awesome-ai-tools) - Make AI your expert customer support agent.
@@ -186,6 +198,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Developer tools
 
+- [Ollama](https://ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps.
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [Keploy](https://keploy.io/) - Open source Tool for converting user traffic to Test Cases and Data Stubs.
@@ -205,7 +218,10 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [CodeRabbit](https://coderabbit.ai/) - An AI-powered code review tool that helps developers improve code quality and productivity.
 - [Pagerly](https://www.pagerly.io) - Your Operations Co-pilot on Slack/Teams. It assists and prompts oncall with relevant information to debug issues.  
 - [Hexabot](https://hexabot.ai) - A Open-source No-Code tool to build your AI Chatbot / Agent (multi-lingual, multi-channel, LLM, NLU, + ability to develop custom extensions)
+- [Plandex](https://github.com/plandex-ai/plandex) - Open source, terminal-based AI programming engine for complex tasks.
+- [AI/ML API](https://aimlapi.com/?utm_source=github+of+altern.ai) - AI/ML API gives developers access to 100+ AI models with one API.
 - [Callstack.ai PR Reviewer](https://callstack.ai/pr-reviewer) - Automated Code Reviews: Find Bugs, Fix Security Issues, and Speed Up Performance.
+
 
 ## Code
 
@@ -242,7 +258,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Imagen](https://imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
 - [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
 - [DragGAN](https://github.com/XingangPan/DragGAN) - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
--[Canva](https://www.canva.com/) - Generate and Edit your Pictures with the help of AI
+- [Canva](https://www.canva.com/) - Generate and Edit your Pictures with the help of AI
 
 ### Services
 
@@ -275,6 +291,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Pixvify AI](https://pixvify.com/) - Free realistic AI photo generator platform
 - [Pawtrait](https://www.pawtrait.art/) - AI Pet Portraits
 - [iColoring](https://icoloring.ai) - Free AI Coloring Pages Generator
+- [Suit me Up](https://suitmeup.pictures/) - Generate pictures of you wearing a suit with AI.
+- [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 
 
 ### Graphic design
@@ -283,6 +301,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [Microsoft Designer](https://designer.microsoft.com/) - Stunning designs in a flash.
 - [SVGStud.io](https://svgstud.io/) - AI-based SVG Generation and Semantic Seach
+- [Text2Infographic](https://text2infographic.com/) - AI infographic generator and editor.
 
 ### Image libraries
 
@@ -426,6 +445,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Code to Flow](https://codetoflow.com) - Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
 - [AI-Flow](https://ai-flow.net/) - Connect multiple AI models easily.
 - [Architecture Helper](https://architecturehelper.com) - Analyze any building architecture, and generate your own custom styles, in seconds.
+- [VocalReplica](https://vocalreplica.com/) - AI-Powered Vocal and Instrumental Isolation for Your Favorite Tracks
 - [AI Wedding Toast](https://aiweddingtoast.com) - Generate a personalized wedding speech with AI
 - [Interviews Chat](https://www.interviews.chat/) - Your Personal Interview Prep & Copilot
 - [Context Data](https://contextdata.ai/) - Data Processing & ETL infrastructure for Generative AI applications
@@ -440,6 +460,12 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Watermark Remover](https://aiwatermarkremover.io/) - Remove watermarks from images and videos.
 - [AISaver](https://aisaver.io) - Collection of AI Powered Video and Photo Tools
 - [Harbor](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
+- [LangMagic](https://easytolearn.io) - Learn languages from native content.
+- [fynk](https://fynk.com/) - AI powered contract management software
+- [LooksMax AI](https://looksmax.ai) - Find out how hot you are using AI
+- [Podify.io](https://podify.io) - Leverage AI and community to grow on LinkedIn
+- [ResumeDive](https://resumedive.com) - A resume boosting service using AI
+- [Luthor](https://luthor.ai/) - Programmatic content marketing at scale
 
 
 ## Learning resources
@@ -480,11 +506,12 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing) 
 - [Awesome AI SEO](https://github.com/xaramore/awesome-ai-seo)
-- [Awesome AI Marketing](https://github.com/xaramore/awesome-ai-marketing) 
+- [Awesome AI Marketing](https://github.com/sarahdanesh/awesome-ai-marketing) 
 - [Awesome AI Music](https://github.com/xaramore/awesome-ai-music) 
 - [Awesome AI Image](https://github.com/xaramore/awesome-ai-image) 
 - [Awesome AI Video](https://github.com/xaramore/awesome-ai-video)
-- [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing) 
+- [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)
+- [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
