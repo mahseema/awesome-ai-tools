@@ -481,6 +481,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Podify.io](https://podify.io) - Leverage AI and community to grow on LinkedIn
 - [ResumeDive](https://resumedive.com) - A resume boosting service using AI
 - [Luthor](https://luthor.ai/) - Programmatic content marketing at scale
+- [Hyperbrowser](https://hyperbrowser.ai/) - Browser infrastructure and automation for AI Agents and Apps with advanced features like proxies, captcha solving, and session recording.
+
 
 
 ## Learning resources
