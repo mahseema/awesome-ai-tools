@@ -164,7 +164,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [SlidesWizard](https://slideswizard.io) - Create Presentations 10x faster. Generate PowerPoint and Google Slides presentations about any topic with AI
 - [Transgate](https://transgate.ai/) - AI Speech to Text
 - [RabbitHoles AI](https://www.rabbitholes.ai/) - Chat with AI on an Infinite Canvas
-
+- [Rember](https://www.rember.com/) - A simple yet powerful spaced repetition system designed to help you remember more.
 
 
   
