@@ -173,6 +173,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Smmry](https://smmry.com/) - Summarize Long Content Into Clear Insights
 - [Nudge AI](https://getnudgeai.com/) - Ambient AI Scribe for Healthcare
 - [Summara](https://summara.io/) - YouTube AI Summary and Transcript widget
+- [Mocha](https://getmocha.com) - AI app builder
 
 
 ### Meeting assistants
