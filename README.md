@@ -573,20 +573,17 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Related Awesome Lists
 
 - [Altern](https://altern.ai) - Find Best AI Tools
+- [AI For Developers](https://aifordevelopers.org) - List of AI DevTools
 - [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
+- [Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - Curated list of AI-powered developer tools.
+- [Awesome Vibe Coding](http://github.com/dariubs/awesome-vibe-coding) - A hand-picked collection of tools and resources for Vibe Coding.
 - [There's An AI](https://theresanai.com) - Frontpage of AI
 - [Awesome AI Books](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
 - [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
 - [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
-- [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing) 
-- [Awesome AI SEO](https://github.com/xaramore/awesome-ai-seo)
-- [Awesome AI Marketing](https://github.com/sarahdanesh/awesome-ai-marketing) 
-- [Awesome AI Music](https://github.com/xaramore/awesome-ai-music) 
-- [Awesome AI Image](https://github.com/xaramore/awesome-ai-image) 
-- [Awesome AI Video](https://github.com/xaramore/awesome-ai-video)
-- [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)
-- [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
+- [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)
+- [Top AI Directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
