@@ -186,6 +186,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Langfa.st](https://langfa.st/) - A fast, no-signup playground to test and share AI prompt templates
 - [SalesAgent Chat](https://www.salesagent.chat) - AI Sales Coach & Copilot for real-time support
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
+- [GitHub – WellApp-ai/ai-invoice-extractor](https://github.com/WellApp-ai/Well/tree/main/ai-invoice-extractor) LLM-Powered Invoice & Receipt Extractor.
 
 
 
