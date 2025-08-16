@@ -186,9 +186,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Langfa.st](https://langfa.st/) - A fast, no-signup playground to test and share AI prompt templates
 - [SalesAgent Chat](https://www.salesagent.chat) - AI Sales Coach & Copilot for real-time support
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
-
-
-
+- [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 
 
 ### Meeting assistants
