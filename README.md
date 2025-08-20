@@ -79,6 +79,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Telborg](https://telborg.com/) - AI for Climate Research, with data exclusively from governments, international institutions and companies.
 - [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
 - [Refinder AI](https://refinder.ai/) - AI-powered universal search and assistant for work
+- [Agentset.ai](https://agentset.ai/) - Open-source local Semantic Search + RAG for your data
 
 ### Local search engines
 
