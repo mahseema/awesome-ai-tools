@@ -79,6 +79,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Telborg](https://telborg.com/) - AI for Climate Research, with data exclusively from governments, international institutions and companies.
 - [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
 - [Refinder AI](https://refinder.ai/) - AI-powered universal search and assistant for work
+- [Agentset.ai](https://agentset.ai/) - Open-source local Semantic Search + RAG for your data
 
 ### Local search engines
 
@@ -187,6 +188,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [SalesAgent Chat](https://www.salesagent.chat) - AI Sales Coach & Copilot for real-time support
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
+- [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
 
 
 ### Meeting assistants
@@ -264,8 +266,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ToolHive](https://github.com/stacklok/toolhive) – Find the right MCP server for your task and deploy with one click. 
 - [StarOps](https://ingenimax.ai) - AI Platform Engineer
 - [AgentDock](https://agentdock.ai) - Unified infrastructure for AI agents and automation. One API key for all services instead of managing dozens. Build production-ready agents without operational complexity.
+- [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
-
 
 
 ## Code
@@ -573,6 +575,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - [Altern](https://altern.ai) - Find Best AI Tools
 - [AI For Developers](https://aifordevelopers.org) - List of AI DevTools
+- [Best of AI](https://github.com/best-of-ai/best-of-ai) - Like Michelin Guide for AI
 - [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
 - [Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - Curated list of AI-powered developer tools.
 - [Awesome Vibe Coding](http://github.com/dariubs/awesome-vibe-coding) - A hand-picked collection of tools and resources for Vibe Coding.
