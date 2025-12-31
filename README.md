@@ -26,6 +26,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Editor's Choice
 
+- [AI For Developers](https://aifordevelopers.org) - Just a curated list of AI agents, SDKs, coding copilots, and dev-first tools that save you hours — not waste them.
 - [There's an AI](https://theresanai.com) - List of best AI Tools
 - [Notion AI](https://affiliate.notion.so/9po6cx7rvdr6-4y5a7) - Just ask Q&A, and find the info you need in seconds. Get help writing and brainstorming in Notion, not in a separate browser tab.
 - [Murf AI](https://get.murf.ai/v8i9to5ad4oq) - Create voiceover with the most lifelike AI voices.
