@@ -402,6 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [claudetube](https://github.com/thoughtpunch/claudetube) - MCP server that lets AI assistants watch and analyze videos via transcripts and frame extraction. Supports 1500+ sites. #opensource
 
 
 ### Animation
