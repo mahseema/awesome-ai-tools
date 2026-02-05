@@ -472,6 +472,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Cald.ai](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
 - [Rosie](https://heyrosie.com/) - AI Phone Answering Service
 
+- [Eboo.ai](https://eboo.ai) - Create and manage sophisticated voice AI agents with advanced configuration options for speech recognition, NLP, and TTS.
 ### Speech
 - [Eleven Labs](https://beta.elevenlabs.io/) - AI voice generator.
 - [Resemble AI](https://www.resemble.ai/) - AI voice generator and voice cloning for text to speech.
