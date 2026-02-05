@@ -270,6 +270,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [DevDocsAI](https://devdocsai-sigma.vercel.app/) - AI-powered API documentation generator. Paste your API code and get complete docs with endpoints, parameters, and error codes in 30 seconds. [#opensource](https://github.com/snowman95/devdocsai)
+- [AITranslateKit](https://aitranslatekit.vercel.app/) - AI-powered i18n JSON file translator for developers. Preserves variables and nested structures, supports 20+ languages. [#opensource](https://github.com/snowman95/aitranslatekit)
 
 
 ## Code
