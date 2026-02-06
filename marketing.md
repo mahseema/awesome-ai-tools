@@ -70,6 +70,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[MarketMuse](https://www.marketmuse.com/)** - AI content optimization tool that helps marketers improve SEO performance by analyzing content gaps and providing keyword suggestions.
 - **[Surfer SEO](https://surferseo.com/)** - AI-powered SEO tool for optimizing content and improving search engine rankings through on-page audits and suggestions.
 - **[Clearscope](https://www.clearscope.io/)** - AI-powered SEO platform that provides keyword insights and content optimization recommendations.
+- **[RankingRider](https://www.rankingrider.com/)** - AI-powered bulk SEO optimization for Shopify products via CSV.
 
 ## Customer Support
 
