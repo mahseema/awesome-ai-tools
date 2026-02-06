@@ -294,6 +294,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
 - [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
+- [agent-smith](https://github.com/jpoindexter/agentsmith) - Auto-generate AGENTS.md context files for AI coding assistants like Cursor, Copilot, and Claude Code.
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 - [FlexApp](https://flexapp.ai/) - Build mobile apps with AI, not code
 - [Kilo Code](https://kilocode.ai) - Open Source AI coding assistant for planning, building, and fixing code inside VS Code.
