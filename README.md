@@ -190,7 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
-
+- [Duos AI](https://duos-ai.com/?utm_source=awesome_ai_tools&utm_campaign=d6feb6) - This AI mock interview app turns boring preparation into a game to level up your interview skills.  Practice 20 minutes a day and start collecting job offers instead of rejections.
 
 ### Meeting assistants
 
