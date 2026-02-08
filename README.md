@@ -436,6 +436,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Splash Pro](https://www.splashpro.com) - [Review](https://theresanai.com/splash-pro) - A versatile platform offering intuitive music creation tools for all skill levels.
 - [AIVA](https://www.aiva.ai) - [Review](https://theresanai.com/aiva) - AI composer specializing in classical and cinematic music creation.
 - [Mubert](https://www.mubert.com) - [Review](https://theresanai.com/mubert) - Real-time generative music tailored for different use cases.
+- [webtoolz AI Music Studio](https://webtoolz.dev/music/studio) - Free AI music generator. Create songs from text, no signup needed.
 - [Soundraw](https://soundraw.io) - [Review](https://theresanai.com/soundraw) - Allows users to customize music compositions based on mood and style.
 - [Beatoven.ai](https://www.beatoven.ai) - [Review](https://theresanai.com/beatoven-ai) - AI-driven music generation focused on evoking specific emotions.
 - [Boomy](https://www.boomy.com) - [Review](https://theresanai.com/boomy) - Democratizes music creation with quick track generation and monetization.
