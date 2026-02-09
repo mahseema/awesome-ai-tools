@@ -1,5 +1,7 @@
 # Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+
+- [OpenClaw](https://github.com/openclaw/openclaw) — Self-hostable personal AI assistant runtime (cron/jobs, messaging integrations, browser + node automation). Hosted option: https://clawoncloud.com
 > A curated list of Artificial Intelligence Top Tools
 >
 > Feel free to contribute and also submit your AI tools on [altern.ai](https://altern.ai/?utm_source=awesomeaitools) for free
@@ -472,6 +474,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Cald.ai](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
 - [Rosie](https://heyrosie.com/) - AI Phone Answering Service
 
+- [Eboo.ai](https://eboo.ai) - Create and manage sophisticated voice AI agents with advanced configuration options for speech recognition, NLP, and TTS.
 ### Speech
 - [Eleven Labs](https://beta.elevenlabs.io/) - AI voice generator.
 - [Resemble AI](https://www.resemble.ai/) - AI voice generator and voice cloning for text to speech.
