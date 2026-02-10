@@ -8,6 +8,11 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 
 We publish regular updates of this repo in the [Altern Newsletter](http://newsletter.altern.ai). [Subscribe](http://newsletter.altern.ai) for the latest AI news and discover the best AI tools.
 
+
+### AI Video Generators
+
+- [HeyVid AI](https://heyvid.ai) - Free AI video and image generator. Text-to-video, image-to-video, AI art. No watermark, no signup.
+
 ## Contents
 
 - [🌟 Editor's Choice](#editors-choice)
