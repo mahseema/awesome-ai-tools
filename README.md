@@ -67,6 +67,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Gali Chat](https://www.galichat.com/) - *[reviews](#)* - Your 24/7 AI Support Assistant that helps you grow your business!
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://altern.ai/product/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
+- [OneFlex](https://oneflex.ai) - All In One AI assistant with minimalist design and efficient experience, enhancing every moment of chat, search, reading, creation, and knowledge management.
 
 
 ### Search engines
