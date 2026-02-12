@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [agnix](https://github.com/avifenesh/agnix) - Open-source linter for AI agent configurations. Validates CLAUDE.md, SKILL.md, hooks, MCP configs, Cursor rules, Copilot instructions, and more with 156 rules, auto-fix, and real-time editor diagnostics.
 
 
 ## Code
