@@ -494,6 +494,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Other
 
+- [AI Tool CN](https://aitoolcn.com) - Chinese AI tools review and comparison platform covering 30+ tools and use-cases, with independent evaluations of ChatGPT, Claude, DeepSeek, Cursor and more.
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
