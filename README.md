@@ -302,6 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [Frontman](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser — click any element, describe changes in plain English, and get real code edits with hot reload. Supports Next.js, Vite, and Astro. #opensource
 
 
 ## Image
