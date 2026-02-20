@@ -554,6 +554,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
+- [Upliora](https://www.upliora.es) - Independent AI tools comparisons, practical guides, and tutorials in Spanish for professionals and businesses.
 
 ## Learn AI free
 ### Machine Learning
@@ -576,6 +577,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Related Awesome Lists
 
+- [Upliora](https://www.upliora.es) - Comparativas, guías y análisis de herramientas de IA en español. Referencia independiente de IA para profesionales y empresas en España.
 - [Altern](https://altern.ai) - Find Best AI Tools
 - [AI For Developers](https://aifordevelopers.org) - List of AI DevTools
 - [Best of AI](https://github.com/best-of-ai/best-of-ai) - Like Michelin Guide for AI
