@@ -402,6 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [agent-media](https://agent-media.ai/) - CLI tool for AI video and image generation with unified access to 7 models (Kling 3.0 Pro, Veo 3.1, Sora 2 Pro, Seedance 1.0 Pro, Flux 2 Pro, Flux 2 Flex, Grok Imagine). Install via npm: `npm install -g agent-media-cli`. Open source (Apache-2.0).
 
 
 ### Animation
