@@ -177,6 +177,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Whisper API](https://whisper-api.com) - Whisper API is a Transcription API Powered By OpenAI Whisper model. Get 5 free transcriptions daily (no duration limits) with robust control over the model's parameters like size, temperature, beam size and more.
 - [Smmry](https://smmry.com/) - Summarize Long Content Into Clear Insights
 - [Nudge AI](https://getnudgeai.com/) - Ambient AI Scribe for Healthcare
+- [OpenClaw AI Tools Comparison](https://openclawapp.netlify.app/ai-tools-comparison/) - Interactive comparison matrix of 6 AI automation tools (OpenClaw, ChatGPT, Zapier, Make, n8n, Claude) with features, pricing, and use cases.
+- [OpenClaw AI Audit](https://openclawapp.netlify.app/ai-audit/) - Free 10-minute AI ROI calculator that shows entrepreneurs how much time and money AI automation could save their business.
 - [Summara](https://summara.io/) - YouTube AI Summary and Transcript widget
 - [Mocha](https://getmocha.com) - AI app builder
 - [Marblism](https://marblism.com) - AI Employees for your business
