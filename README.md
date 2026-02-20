@@ -244,6 +244,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine-tune LLM, CV, and tabular models.
 - [Prediction Guard](https://www.predictionguard.com/) - Seamlessly integrate private, controlled, and compliant Large Language Models (LLM) functionality.
 - [Portkey](https://portkey.ai/) - Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.
+- [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - A self-hostable AI gateway with 4-tier cascading fallback, multi-provider load balancing, and OpenAI-compatible API. Supports 200+ models. [#opensource](https://github.com/diegosouzapw/OmniRoute)
 - [OpenAI Downtime Monitor](https://status.portkey.ai/) - Free tool that tracks API uptime and latencies for various OpenAI models and other LLM providers.
 - [ChatWithCloud](https://chatwithcloud.ai/) - CLI allowing you to interact with AWS Cloud using human language inside your Terminal.
 - [SinglebaseCloud](https://singlebase.cloud) - AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.
