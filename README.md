@@ -303,6 +303,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
 
+- [Claude Code Open](https://github.com/kill136/claude-code-open) - Open-source AI coding platform with Web IDE, multi-agent system, 37+ tools, and MCP protocol. Based on Claude Code CLI with added browser-based IDE, Blueprint multi-agent orchestration, and scheduled task daemon.
 
 ## Image
 
