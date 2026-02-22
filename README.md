@@ -343,6 +343,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Human Generator](https://generated.photos/human-generator) - AI generator or realistic looking photos of humans.
 - [VectorArt.ai](https://vectorart.ai) - Create vector images with AI.
 - [StockPhotoAI.net](https://www.stockphotoai.net/?ref=mahseema-awesome-ai-tools) - Great stock photos, made for you.
+- [AdCreator.AI](https://adcreator.ai/) - AI-powered product photography for ecommerce and marketing. Create professional product images in seconds.
 - [Room Reinvented](https://roomreinvented.com) - Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
 - [Gensbot](https://gensbot.com) - Gensbot uses AI to craft personalised printed merchandise. One prompt creates one unique product to fit your needs.
 - [PlantPhotoAI](https://www.plantphotoai.com/) - free AI-generated plant images
@@ -464,6 +465,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[AdCreator.AI](https://adcreator.ai/)** - AI-powered product photography for ecommerce. Create professional product images with AI in seconds.
+- **[Textbooks.AI](https://textbooks.ai/)** - AI study guides generator. Transform any content into personalized study materials and practice questions.
 
 
 ### Phone Calls
