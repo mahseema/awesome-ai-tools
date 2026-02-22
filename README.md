@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [Signal AI Digest](https://humanintel.github.io/signal-digest-landing/) - AI-curated daily news digest delivered to Telegram every morning. Monitors 25+ sources (Reuters, Bloomberg, TechCrunch, CoinTelegraph, etc.), matches stories to your personal topics, and delivers 3-10 summarized stories with source citations. Free tier available.
 
 
 ### Meeting assistants
