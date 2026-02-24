@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [deAPI.ai](https://deapi.ai/) - Unified AI inference API on decentralized GPU cloud. Text-to-image (Flux), text-to-speech, transcription (Whisper), video generation, OCR, upscaling & more through a single API. $5 free credit on signup, no credit card required, no subscription. [#opensource](https://github.com/deapi-ai/claude-code-skills)
 
 
 ## Code
