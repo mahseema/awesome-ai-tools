@@ -271,6 +271,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
 
+- [Komilion](https://komilion.com) - AI model router that auto-routes each API request to the cheapest capable model. OpenAI SDK compatible (one base_url change), 400+ models, three tiers: Frugal (~$0.006/req), Balanced, Premium council. Drop-in replacement for any OpenAI-compatible tool.
 
 ## Code
 
