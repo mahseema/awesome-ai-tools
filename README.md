@@ -584,6 +584,10 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Awesome Vibe Coding](http://github.com/dariubs/awesome-vibe-coding) - A hand-picked collection of tools and resources for Vibe Coding.
 - [There's An AI](https://theresanai.com) - Frontpage of AI
 - [Awesome AI Books](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
+- [RealEstateAI.tools](https://realestateai.tools) - Compare 27+ AI tools for real estate agents — lead generation, CRM, virtual staging, and more.
+- [HRAI.tools](https://hrai.tools) - Directory of AI-powered HR tools for recruiting, onboarding, performance management, and payroll.
+- [LegalAI.tools](https://legalai.tools) - Compare 31+ AI tools for lawyers — legal research, contract review, compliance, and e-discovery.
+- [AccountingAI.tools](https://accountingai.tools) - Directory of AI accounting, bookkeeping, tax prep, and invoicing tools.
 - [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
 - [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
