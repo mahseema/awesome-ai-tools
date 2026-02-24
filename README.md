@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [BodAIGuard](https://github.com/AxonLabsDev/BodAIGuard) - Universal AI agent guardrail with 42 block rules, prompt injection detection, and 4 enforcement modes (hooks, proxy, prompt injection, REST API). [#opensource](https://github.com/AxonLabsDev/BodAIGuard)
 
 
 ## Code
