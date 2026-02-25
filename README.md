@@ -230,6 +230,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ### Developer tools
+- [Agent Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agents internet access in 30 seconds. Supports 9+ platforms including Twitter, YouTube, Reddit, GitHub, and more. Works with Claude Code, OpenClaw, Cursor, Windsurf. Free, open source, privacy-first.
 
 - [Ollama](https://ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps.
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
