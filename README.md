@@ -302,6 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [OpenCodex](https://github.com/mjmkk/opencodex) - Native iOS client with a local Node.js backend to run Claude/Codex AI on your iPhone, featuring real-time chat, remote terminal access, file browser, and interactive command approval.
 
 
 ## Image
