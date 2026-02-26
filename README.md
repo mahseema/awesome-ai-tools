@@ -543,6 +543,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Bricks](https://www.thebricks.com/) - The AI Spreadsheet We've All Been Waiting For
 - [MindStudio](https://mindstudio.ai/) — Build powerful AI Agents for yourself, your team, or your enterprise. Powerful, easy to use, visual builder—no coding required, but extensible with code if you need it. Over 100 templates for all kinds of business and personal use cases.
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
+- [VisaCanvas](https://visacanvas.com/) - AI-powered immigration eligibility assessment for EB-1A and NIW green card categories. Free 3-minute evaluation against USCIS criteria.
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
 
