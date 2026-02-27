@@ -274,6 +274,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Code
 
+- [FlyPloy](https://flyploy.com/en) - (Free/Paid) A modern application deployment platform that simplifies global delivery with one-click deploys, Docker, and Kubernetes support.
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 - [poorcoder](https://github.com/vgrichina/poorcoder) - Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok without disrupting your development process.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
