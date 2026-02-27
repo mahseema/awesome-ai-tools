@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [discourse-openclaw](https://github.com/pranciskus/discourse-openclaw) - OpenClaw plugin providing 12 Discourse forum tools for AI agents — read, search, filter, find unanswered questions, and create/update topics.
 
 
 ## Learning resources
