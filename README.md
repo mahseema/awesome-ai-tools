@@ -224,6 +224,20 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Other text generators
 
+- [FakeScan](https://fakescan.site) - AI fake review detector. Paste any Amazon product URL to get a trust score 0-100 with red flags — the free Fakespot replacement.
+- [Scamometer](https://scamometer.io) - AI scam detector. Paste any suspicious email, text, or DM to get a scam probability score 0-100 with identified manipulation tactics.
+- [INTELDUMP](https://inteldump.site) - Terminal UI for the complete CIA World Factbook archive 1990-2025. Browse 281 countries across 36 editions with 1M+ searchable data fields.
+- [SnapValue](https://snapvalue.io) - AI item value estimator. Upload a photo of anything to get an instant price estimate and the best places to sell it.
+- [AngryToPolite](https://angrytopolite.com) - AI email tone rewriter. Paste angry drafts, choose a professional tone, get an email you can actually send.
+- [PostForged](https://postforged.com) - AI LinkedIn post generator. Pick a topic and writing style, get a viral-optimized LinkedIn post in 30 seconds.
+- [ColorForge](https://colorforge.site) - AI coloring page generator from text prompts. Perfect for parents, teachers, and Etsy printable sellers.
+- [PatternForge](https://patternforge.art) - AI seamless pattern generator for fabric, wallpaper, and wrapping paper. Tileable output formats.
+- [LogoLit](https://logolit.site) - AI logo generator for startups. Generate professional logos from text descriptions in multiple brand styles.
+- [PixelForge](https://pixelforgeai.art) - AI pixel art generator. Create retro game sprites, avatars, and pixel art in 8-bit, 16-bit, and isometric styles.
+- [BookCoverForge](https://bookcoverforge.art) - AI book cover generator for Amazon KDP self-publishers. 6 genre styles, professional quality output.
+- [QuoteCraft](https://quotecraft.art) - AI quote art generator. Create printable quote art with 6 styles and 8 color schemes for Etsy and home decor.
+
+
 - [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
 - [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
 - [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=mahseema-awesome-ai-tools) - Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
