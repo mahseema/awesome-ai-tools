@@ -21,6 +21,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [🎯 AI Tools for Marketing](#marketing-ai-tools)
 - [📞 AI Phone Call Agents](#phone-calls)
 - [🎒 Other AI Tools](#other)
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
 - [👩‍🏫 Learning resources](#learning-resources)
 
 
