@@ -470,6 +470,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AICaller.io](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
 - [AI Voice Agents](https://diallink.com/) — AI Voice Agents for business calls and routine tasks, powered by DialLink cloud phone system.
 - [Cald.ai](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
+- [clawr.ing](https://clawr.ing) - Phone calling skill for AI agents. Lets agents make real outbound calls for alerts, briefings, reminders, and notifications. Managed service (no Twilio setup), 100+ countries, 70+ voices. Free trial included.
 - [Rosie](https://heyrosie.com/) - AI Phone Answering Service
 
 ### Speech
