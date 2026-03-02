@@ -41,6 +41,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 > *More complete list of AI Models: [Awesome AI Models](https://github.com/dariubs/awesome-ai-models)*
 
 - [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
+- [SkillBoss](https://skillboss.co/) - *[reviews](https://skillboss.co/docs)* - Unified AI API gateway backed by OpenAI Startup Fund & Amazon. Access 100+ AI services (GPT-5, Claude, Gemini, DALL-E 3, Veo 3.1, ElevenLabs) with one API key. Pay-as-you-go with $3.50 free credit.
 - [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model.
 - [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) hosted by Alpa.
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
@@ -545,6 +546,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [SkillBoss](https://skillboss.co) - One API key for 100+ AI services. Unified access to Claude, GPT, Gemini, DeepSeek, image/video generation, data scraping, payments, email, and more. OpenAI-compatible, works with Claude Code, Cursor, Windsurf.
 
 
 ## Learning resources
