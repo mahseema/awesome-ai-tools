@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Human Pages](https://humanpages.ai) - The open directory AI agents use to hire humans for real-world tasks. MCP server with 31 tools for search, job offers, messaging, and payments. [#opensource](https://github.com/human-pages-ai/humanpages)
 
 
 ## Code
