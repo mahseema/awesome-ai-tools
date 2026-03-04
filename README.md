@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [EVC Team Relay MCP](https://github.com/entire-vc/evc-team-relay-mcp) - MCP server that gives AI agents read/write access to your Obsidian vault. Self-hosted and local-first, with CRDT-based real-time sync.
 
 
 ## Code
