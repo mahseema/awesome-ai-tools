@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Frostbyte API](https://api-catalog-three.vercel.app) - Unified developer API gateway with 40+ tools — IP geolocation, web scraping, screenshots, DNS lookup, crypto prices, PDF generation, code execution, and more. Free tier with 200 credits. Includes a 13-tool MCP server for Claude, Cursor, and Windsurf.
 
 
 ## Code
@@ -302,6 +303,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [Frostbyte MCP Server](https://github.com/Robocular/frostbyte-mcp) - Open-source MCP server that gives AI agents access to 13 real-world tools: crypto prices, IP geolocation, DNS lookup, screenshots, code execution, and more. Works with Claude, ChatGPT, Cursor, and any MCP-compatible client.
 
 
 ## Image
