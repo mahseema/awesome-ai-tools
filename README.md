@@ -471,6 +471,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Voice Agents](https://diallink.com/) — AI Voice Agents for business calls and routine tasks, powered by DialLink cloud phone system.
 - [Cald.ai](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
 - [Rosie](https://heyrosie.com/) - AI Phone Answering Service
+- [Unpod](https://github.com/parvbhullar/unpod) - Open-source platform for building AI voice agents and automated phone call workflows.
 
 ### Speech
 - [Eleven Labs](https://beta.elevenlabs.io/) - AI voice generator.
