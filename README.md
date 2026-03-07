@@ -554,6 +554,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
+- [WFGY 16 Problem Map](https://github.com/onestardao/WFGY) - A framework for diagnosing common RAG pipeline failures such as hallucination and retrieval drift.
 
 ## Learn AI free
 ### Machine Learning
