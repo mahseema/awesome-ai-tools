@@ -297,6 +297,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 - [FlexApp](https://flexapp.ai/) - Build mobile apps with AI, not code
 - [Kilo Code](https://kilocode.ai) - Open Source AI coding assistant for planning, building, and fixing code inside VS Code.
+- [BurnRate](https://getburnrate.io) - AI coding cost analytics CLI that tracks usage and costs across Claude Code, Cursor, Copilot, Windsurf, Aider, Cline, and Codex. [#opensource](https://github.com/burnrate-dev/burnrate)
 - [Capacity](https://capacity.so) - Capacity lets you turn your ideas into fully functional web apps in minutes using AI.
 - [Runcell](https://runcell.dev) - AI Agent Extension for Jupyter Lab, Agent that can code, execute, analysis cell result, etc in Jupyter.
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
