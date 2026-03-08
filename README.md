@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [OpenClaw](https://openclawapp.netlify.app/) - Personal AI assistant operating locally with multi-channel support (Telegram, Slack, iMessage). Self-hosted alternative to Zapier/Make.com with autonomous operation via cron jobs and multi-agent orchestration.
 
 
 ## Learning resources
