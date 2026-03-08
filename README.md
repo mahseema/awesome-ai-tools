@@ -273,6 +273,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ## Code
+- [AI Dev Toolkit](https://ai-dev-toolkit-five.vercel.app) - A curated collection of 100+ battle-tested AI prompts for developers: code review, debugging, architecture decisions, documentation, and security audits.
 
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 - [poorcoder](https://github.com/vgrichina/poorcoder) - Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok without disrupting your development process.
