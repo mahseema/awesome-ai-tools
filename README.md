@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [AskePub](https://github.com/GeiserX/askepub) - Self-hosted Telegram bot that uses GPT-4o to generate AI study notes from ePub books. Open source, MIT, Python, Docker.
 
 
 ### Meeting assistants
