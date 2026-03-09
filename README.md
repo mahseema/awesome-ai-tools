@@ -113,7 +113,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
 - [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
 - [Quick Creator](https://quickcreator.io) - SEO-Optimized Blog platform powered by AI.
-- [Telborg](https://telborg.com/) - Write a high-quality first draft on any Climate topic in minutes
 - [Trolly.ai](https://trolly.ai/) - Trolly.ai can help you in creating professional SEO articles, 2x faster. This tool crafts content that search engines love, propelling you up the rankings.
 - [Dittto.ai](https://dittto.ai) - Fix your hero copy with an AI trained on top SaaS websites.
 - [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes to your own website
@@ -270,6 +269,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Xquik](https://xquik.com) - X data and approved automation through REST, MCP, exports, monitors, and webhooks. Not affiliated with X Corp.
 
 
 ## Code
@@ -474,7 +474,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Speech
 - [Eleven Labs](https://beta.elevenlabs.io/) - AI voice generator.
-- [Resemble AI](https://www.resemble.ai/) - AI voice generator and voice cloning for text to speech.
 - [WellSaid](https://wellsaidlabs.com/) - Convert text to voice in real time.
 - [Play.ht](https://play.ht/) - AI Voice Generator. Generate realistic Text to Speech voice over online with AI. Convert text to audio.
 - [Coqui](https://coqui.ai/) - Generative AI for Voice.
@@ -577,9 +576,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Related Awesome Lists
 
 - [Altern](https://altern.ai) - Find Best AI Tools
-- [AI For Developers](https://aifordevelopers.org) - List of AI DevTools
 - [Best of AI](https://github.com/best-of-ai/best-of-ai) - Like Michelin Guide for AI
-- [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
 - [Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - Curated list of AI-powered developer tools.
 - [Awesome Vibe Coding](http://github.com/dariubs/awesome-vibe-coding) - A hand-picked collection of tools and resources for Vibe Coding.
 - [There's An AI](https://theresanai.com) - Frontpage of AI
