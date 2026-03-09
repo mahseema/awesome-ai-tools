@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[WordPress GEO Optimizer](https://github.com/henu-wang/wordpress-geo-optimizer)** - WordPress plugin for Generative Engine Optimization (GEO) — manages AI crawler access via robots.txt, auto-generates llms.txt, and injects JSON-LD structured data for AI search engines like ChatGPT, Perplexity, and Gemini.
 
 
 ### Phone Calls
