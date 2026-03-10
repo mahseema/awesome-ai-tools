@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Think Better](https://thinkbetter.dev) - Open-source CLI that injects structured decision-making frameworks (MECE, Issue Trees, Pre-Mortems) into AI assistant prompts. Works with Claude, Copilot, and Antigravity. [#opensource](https://github.com/HoangTheQuyen/think-better)
 
 
 ## Code
