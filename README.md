@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[GEOScore AI](https://geoscoreai.com/)** - Free AI search visibility scanner that checks 11 GEO (Generative Engine Optimization) signals including robots.txt, llms.txt, structured data, and citation readiness for AI search engines like ChatGPT, Perplexity, and Gemini.
 
 
 ### Phone Calls
