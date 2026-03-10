@@ -265,6 +265,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Notte](https://github.com/nottelabs/notte) - Notte is the fastest, most reliable Browser Using Agents framework
 - [TensorZero](https://www.tensorzero.com/) - An open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
 - [ToolHive](https://github.com/stacklok/toolhive) – Find the right MCP server for your task and deploy with one click. 
+- [FirstData](https://github.com/MLT-OSS/FirstData) - Open-source knowledge base of 210+ authoritative data sources (governments, international organizations, research institutions) with MCP integration for AI agents. [#opensource](https://github.com/MLT-OSS/FirstData)
 - [StarOps](https://ingenimax.ai) - AI Platform Engineer
 - [AgentDock](https://agentdock.ai) - Unified infrastructure for AI agents and automation. One API key for all services instead of managing dozens. Build production-ready agents without operational complexity.
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
