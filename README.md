@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [Captchainbox](https://captchainbox.com) - The CAPTCHA for your inbox. Bot protection for your inbox. Known contacts get through instantly, unknown senders prove they're human with a simple CAPTCHA.
 
 
 ## Learning resources
