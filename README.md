@@ -271,6 +271,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
 
+- [EVC Spark MCP](https://github.com/entire-vc/evc-spark-mcp) - MCP server for discovering, searching, and installing curated AI agent workflows from the Spark catalog. Search 200+ MCP servers, get install configs, browse curated bundles.
 
 ## Code
 
