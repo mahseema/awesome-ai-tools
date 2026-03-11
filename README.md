@@ -491,6 +491,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Mubert](https://mubert.com/) - A royalty-free music ecosystem for content creators, brands and developers.
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research for generating high-fidelity music from text descriptions.
 - [Remusic](https://remusic.ai/en) - AI Music Generator and Music Learning Platform Online Free.
+- [gui.new](https://gui.new) - One API call turns HTML into a shareable link with real-time sync. Give any AI a visual output layer — dashboards, charts, forms become live URLs instead of code blocks. [npm](https://npmjs.com/package/gui-new) · [PyPI](https://pypi.org/project/gui-new/)
 
 ## Other
 
