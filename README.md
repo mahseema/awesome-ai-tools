@@ -528,6 +528,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Persuva](https://persuva.ai) - Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
 - [Interview Solver](https://interviewsolver.com) - Ace your live coding interviews with our AI Copilot
 - [Socialsonic](https://socialsonic.com) - AI LinkedIn Coach: Personalized content, trends & scheduling.
+- [Khaeldur ProjectOS](https://github.com/Khaeldur/khaeldur-project-os) - An AI operating system that adds truth tracking, control governance, security architecture, and workflow management to software projects. Includes 12 Python audit tools, JSON schemas, and ISO-aligned governance documents. #opensource
 - [Napkin](https://www.napkin.ai/) - Napkin turns your text into visuals so sharing your ideas is quick and effective.
 - [Exam Samurai](https://www.examsamur.ai/) - AI Exam Generator
 - [AI Watermark Remover](https://aiwatermarkremover.io/) - Remove watermarks from images and videos.
