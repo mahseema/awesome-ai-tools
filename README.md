@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [ClawBox](https://openclawhardware.dev) - Pre-built AI assistant hardware. NVIDIA Jetson Orin Nano (67 TOPS), 15W silent operation, 5-minute plug-and-play setup with OpenClaw pre-installed. Privacy-first local AI processing, no cloud subscriptions required.
 
 
 ## Learning resources
