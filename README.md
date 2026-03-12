@@ -301,6 +301,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Runcell](https://runcell.dev) - AI Agent Extension for Jupyter Lab, Agent that can code, execute, analysis cell result, etc in Jupyter.
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
+- [DBX Studio](https://github.com/Dbxstudio/dbx-studio) - Open-source AI-powered database IDE — connect to PostgreSQL, MySQL, Snowflake, and more, then query and visualize your data through natural language chat. #opensource
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
 
 
