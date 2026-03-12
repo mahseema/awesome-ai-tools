@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Agent Gateway](https://api-catalog-three.vercel.app) - Unified API gateway providing 40+ services for AI agents — web scraping, screenshots, code execution, crypto prices, agent memory, file storage, and more. Free tier with 200 credits, no signup.
 
 
 ## Code
