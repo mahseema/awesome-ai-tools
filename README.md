@@ -67,6 +67,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Gali Chat](https://www.galichat.com/) - *[reviews](#)* - Your 24/7 AI Support Assistant that helps you grow your business!
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://altern.ai/product/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
+- [OpenClaw Easy Desktop](https://openclaw-easy.com) - Open-source desktop app for setting up AI assistants on WhatsApp, Telegram, Discord, Slack and more. BYOK (OpenAI, Anthropic, Google) or local models via Ollama. Cross-platform. [Source code](https://github.com/openclaw-easy/openclaw-easy-desktop). #opensource
 
 
 ### Search engines
