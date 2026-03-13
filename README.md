@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [DriftWatch](https://genesisclawbot.github.io/llm-drift/) - Open-source LLM behavioural drift detection. Continuously monitors GPT-4o, Claude, and Gemini for silent model updates that break your prompts — before users report issues. [#opensource](https://github.com/GenesisClawbot/llm-drift)
 
 
 ## Code
