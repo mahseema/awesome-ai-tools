@@ -235,6 +235,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [Keploy](https://keploy.io/) - Open source Tool for converting user traffic to Test Cases and Data Stubs.
+- [LobsterMail](https://lobstermail.ai/) - Email infrastructure for AI agents — agents self-provision inboxes with no human signup or API keys. Includes prompt injection scanning and SPF/DKIM/DMARC.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
 - [Portia AI](https://www.portialabs.ai/) - Open source framework for building agents that pre-express their planned actions, share their progress and can be interrupted by a human. [#opensource](https://github.com/portiaAI/portia-sdk-python)
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue.
