@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [iGPT](https://igpt.ai/) - Email Intelligence API that converts unstructured email threads and attachments into structured, reasoning-ready JSON for AI agents and workflows. Returns contextual understanding, decisions, commitments, participants, action items, not just raw email data.
 
 
 ## Code
