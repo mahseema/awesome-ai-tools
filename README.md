@@ -170,6 +170,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Riffo](https://riffo.ai/) - An AI-powered file management tool for bulk renaming and automatic folder organization.
 - [SlidesWizard](https://slideswizard.io) - Create Presentations 10x faster. Generate PowerPoint and Google Slides presentations about any topic with AI
 - [Transgate](https://transgate.ai/) - AI Speech to Text
+- [WEDGE Method](https://thewedgemethodai.com) - AI consulting platform providing templates, tools, and frameworks for freelancers and consultants to build and grow AI-powered service businesses.
 - [RabbitHoles AI](https://www.rabbitholes.ai/) - Chat with AI on an Infinite Canvas
 - [Rember](https://www.rember.com/) - A simple yet powerful spaced repetition system designed to help you remember more.
 - [Qurate](https://qurate.appcradle.net/) - AI Quote Companion, which can help in finding relavant quotes according to the context.
