@@ -401,6 +401,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Recast Studio](https://recast.studio) - AI powered podcast marketing assistant.
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
+- [PopcornAI](https://popcornai.art/) - AI video and image generator for creators, ecommerce sellers, and growth teams. Turn prompts and product images into short branded videos and campaign visuals.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
 
 
