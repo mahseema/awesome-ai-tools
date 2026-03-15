@@ -245,6 +245,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Prediction Guard](https://www.predictionguard.com/) - Seamlessly integrate private, controlled, and compliant Large Language Models (LLM) functionality.
 - [Portkey](https://portkey.ai/) - Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.
 - [OpenAI Downtime Monitor](https://status.portkey.ai/) - Free tool that tracks API uptime and latencies for various OpenAI models and other LLM providers.
+- [onWatch](https://github.com/onllm-dev/onwatch) - Open-source CLI that monitors AI API quota usage across 6 providers. Background daemon with web dashboard, <50MB RAM, zero telemetry. [#opensource](https://github.com/onllm-dev/onwatch)
 - [ChatWithCloud](https://chatwithcloud.ai/) - CLI allowing you to interact with AWS Cloud using human language inside your Terminal.
 - [SinglebaseCloud](https://singlebase.cloud) - AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.
 - [Maxim AI](https://www.getmaxim.ai/) - A generative AI evaluation and observability platform, empowering modern AI teams to ship products with quality, reliability, and speed.
