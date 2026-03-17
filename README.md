@@ -492,6 +492,10 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research for generating high-fidelity music from text descriptions.
 - [Remusic](https://remusic.ai/en) - AI Music Generator and Music Learning Platform Online Free.
 
+## Travel
+
+- [Stamp'd](https://heythereadventureseeker.com) - Group travel decision-making app with AI concierge (Atlas, powered by Claude). Destination voting, date coordination, AI itinerary generation, expense splitting, and world map travel tracking. Free on iOS, Android, and web.
+
 ## Other
 
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
