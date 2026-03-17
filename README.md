@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[affiliate-skills](https://github.com/Affitor/affiliate-skills)** - 45 AI-powered skills that turn any AI into an affiliate marketing team. Research programs, write content, build landing pages, deploy, track, optimize. Open source, MIT licensed.
 
 
 ### Phone Calls
