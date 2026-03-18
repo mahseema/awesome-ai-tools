@@ -592,3 +592,5 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
+- [HolySheep CLI](https://github.com/holysheep123/holysheep-cli) - One-command setup for Claude Code, Cursor, Continue, Cline in China (no VPN needed, ¥1=$1)
