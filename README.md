@@ -142,6 +142,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Productivity
 
+- [Arch Tools](https://archtools.dev) - 58 production API tools for AI agents. Patent-pending agent auth + x402 USDC payments on 15+ chains. Web scraping, AI generation, crypto, OCR, MCP compatible. ([GitHub](https://github.com/Deesmo/Arch-AI-Tools))
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [Taskade](https://www.taskade.com/) -  Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation—all within a unified workspace.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
