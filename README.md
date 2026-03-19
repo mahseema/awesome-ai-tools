@@ -67,7 +67,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Gali Chat](https://www.galichat.com/) - *[reviews](#)* - Your 24/7 AI Support Assistant that helps you grow your business!
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://altern.ai/product/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
-
+- [Deep Soul Lab](https://www.deepsoullab.com) - A minimalist AI companion for burnout recovery, anxiety relief, and better sleep.
 
 ### Search engines
 
@@ -302,7 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
-
+- [AI Scraper Pro](https://www.aiscraperpro.com) - Extract structured web data using plain English, no CSS selectors needed.
 
 ## Image
 
