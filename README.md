@@ -302,6 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [Untether](https://github.com/littlebearapps/untether) - Telegram bridge for AI coding agents. Connects Claude Code, Codex, OpenCode, Pi, Gemini CLI, and Amp to Telegram for remote task control with progress streaming, interactive permissions, voice input, and cost tracking.
 
 
 ## Image
