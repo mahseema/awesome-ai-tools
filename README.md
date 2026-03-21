@@ -231,6 +231,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Developer tools
 
+- [ApifyForge](https://apifyforge.com) - 300+ data intelligence tools and 93 MCP servers for AI agents. Covers lead generation, compliance screening, OSINT, web scraping, and data enrichment. Connect to Claude, Cursor, or any MCP client. Pay-per-event pricing.
 - [Ollama](https://ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps.
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
