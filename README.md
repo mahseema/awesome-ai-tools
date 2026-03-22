@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [TokenFence](https://tokenfence.dev) - Runtime guardrails SDK for AI agents — per-workflow budget caps, automatic model downgrade, kill switches, and a least-privilege policy engine with audit trail. Python + Node.js. [#opensource](https://github.com/u4ma-kev/tokenfence-python)
 
 
 ## Code
