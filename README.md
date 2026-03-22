@@ -22,6 +22,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [📞 AI Phone Call Agents](#phone-calls)
 - [🎒 Other AI Tools](#other)
 - [👩‍🏫 Learning resources](#learning-resources)
+  - [AI Podcasts](#ai-podcasts)
 
 
 ## Editor's Choice
@@ -554,6 +555,14 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
+
+### AI Podcasts
+
+- [Chain of Thought](https://chainofthought.show/) - Interviews with AI leaders on inference infrastructure, developer tools, and strategy.
+- [How I AI](https://www.youtube.com/@howiaipodcast) - Claire Vo talks to builders about how they actually use AI day to day.
+- [Latent Space](https://www.latent.space/podcast) - Technical AI engineering podcast focused on LLMs and developer tooling.
+- [Practical AI](https://practicalai.fm/) - AI made practical and accessible, from the Changelog network.
+- [TWIML AI](https://twimlai.com/) - Interviews with researchers and practitioners across ML.
 
 ## Learn AI free
 ### Machine Learning
