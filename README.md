@@ -71,6 +71,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Search engines
 
+- [ClawSearch](https://clawsearch.cc/) - Security-first search engine for AI agent skills with Trust Score, 10-language semantic search, and npm supply chain safety tools.
 - [Kazimir.ai](https://kazimir.ai/) - A search engine designed to search AI-generated images. 
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
 - [Metaphor](https://metaphor.systems/) - Language model powered search.
