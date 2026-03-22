@@ -555,6 +555,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
 
+- [AI Tools Pricing Comparison 2026](https://aistackpicks.com/reviews/ai-tools-pricing-comparison-2026/) - Verified pricing data for 27+ AI tools across 5 categories, with hidden cost analysis and category breakdowns.
 ## Learn AI free
 ### Machine Learning
 - [Roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them, and what tools to use to perform them.
