@@ -227,6 +227,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
 - [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
 - [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=mahseema-awesome-ai-tools) - Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
+- [Misread](https://misread.io) - AI-powered communication scanner that detects gaslighting, manipulation, and 40+ toxic patterns in text messages and emails. Free analysis with detailed pattern breakdowns.
 
 
 ### Developer tools
@@ -494,6 +495,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Other
 
+- [misread.io](https://misread.io) - Paste any text message or email and see what's really being communicated. AI-powered structural analysis detects 40 communication patterns including gaslighting, passive aggression, and manipulation.
+- [misread.io](https://misread.io) - Paste any text message or email and see what's really being communicated. AI-powered structural analysis detects 40 communication patterns including gaslighting, passive aggression, and manipulation.
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
