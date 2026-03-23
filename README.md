@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [AgentStamp](https://github.com/vinaybhosle/agentstamp) - Trust intelligence platform for AI agents — identity certification, trust scoring (0-100), forensic audit trails, x402 micropayments, and an MCP server with 14 tools.
 
 
 ## Learning resources
