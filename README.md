@@ -587,6 +587,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
 - [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
+- [Awesome AI Index](https://github.com/alpha-one-index/awesome-ai-index) - A weekly-updated, curated catalog of AI tools, models, papers, frameworks, and resources for engineers and researchers.
 - [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)
 - [Top AI Directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
 
