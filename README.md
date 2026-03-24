@@ -401,6 +401,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Recast Studio](https://recast.studio) - AI powered podcast marketing assistant.
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
+- [Puffy](https://github.com/susu-pro/puffy) - Local-first media extraction + transcription engine for AI agents. Paste any URL from 8+ platforms → video + transcript + subtitles on your machine. Built in Rust, ~56MB, REST API. Open source (MIT).
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
 
 
