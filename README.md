@@ -401,6 +401,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Recast Studio](https://recast.studio) - AI powered podcast marketing assistant.
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
+- [PVID](http://pvid.app/) - Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1 with 100 free credits
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
 
 
