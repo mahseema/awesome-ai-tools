@@ -263,6 +263,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
 - [VoltAgent](https://github.com/voltagent/voltagent) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
 - [Notte](https://github.com/nottelabs/notte) - Notte is the fastest, most reliable Browser Using Agents framework
+- [Octomind](https://github.com/muvon/octomind) - Session-based AI development assistant with MCP support, 7 LLM providers, and extensible architecture.
 - [TensorZero](https://www.tensorzero.com/) - An open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
 - [ToolHive](https://github.com/stacklok/toolhive) – Find the right MCP server for your task and deploy with one click. 
 - [StarOps](https://ingenimax.ai) - AI Platform Engineer
@@ -463,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[Rupert AI](https://www.getrupert.com/)** - AI tools for designers and marketers
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
+- **[IndexFox](https://indexfox.ai/)** - AI-powered search widget for websites with instant answers, automatic crawling, and zero configuration.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
 
 
