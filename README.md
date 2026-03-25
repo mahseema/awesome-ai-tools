@@ -302,6 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [Yaw](https://yaw.sh) - A terminal with a built-in AI assistant supporting 9 providers (Claude, ChatGPT, Gemini, Mistral, Grok, Ollama, Bedrock, OpenRouter, HuggingFace) and auto-detection of AI CLI tools like Claude Code, Codex, Gemini CLI, and Vibe CLI.
 
 
 ## Image
