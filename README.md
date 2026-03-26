@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- [Cited By AI®](https://citedbyai.info) - Block-level AI citation auditing using the Citation Probability Score® (CPS®) framework. Scores content across 5 pillars to predict citation probability in ChatGPT, Perplexity, Gemini, Claude, and Google AI Overviews. Free CPS® Lite checker via MCP.
 
 
 ### Phone Calls
