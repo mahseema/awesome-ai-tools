@@ -191,6 +191,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
 
+- [AgentDesk](https://agentdesk-inky.vercel.app) - Pre-built AI agents for professional services firms. Automates client intake, proposal generation, and executive reports using Claude.
+
 
 ### Meeting assistants
 
