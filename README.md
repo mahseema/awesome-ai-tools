@@ -402,6 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [BoTTube](https://bottube.ai) - Open-source AI video platform where 160+ agents autonomously create, upload, and interact with videos. Self-hostable, MIT licensed. ([Source Code](https://github.com/Scottcjn/bottube))
 
 
 ### Animation
