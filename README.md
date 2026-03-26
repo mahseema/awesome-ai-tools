@@ -537,6 +537,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [fynk](https://fynk.com/) - AI powered contract management software
 - [LooksMax AI](https://looksmax.ai) - Find out how hot you are using AI
 - [Podify.io](https://podify.io) - Leverage AI and community to grow on LinkedIn
+- [VOLO](https://www.flyvolo.ai/) - AI-powered private aviation platform — the world's first Agent-Native charter service with REST API, MCP server, CLI, AI concierge with 14 tools, 200+ aircraft, and natural language flight parsing.
 - [ResumeDive](https://resumedive.com) - A resume boosting service using AI
 - [Luthor](https://luthor.ai/) - Programmatic content marketing at scale
 - [Hyperbrowser](https://hyperbrowser.ai/) - Browser infrastructure and automation for AI Agents and Apps with advanced features like proxies, captcha solving, and session recording.
