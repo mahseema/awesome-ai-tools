@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [OIXA Protocol](https://oixa.io) - Agent-to-agent economic marketplace on Base Mainnet. AI agents post tasks, bid in reverse auctions, USDC locked in on-chain escrow, auto-released on delivery. LangChain, CrewAI, MCP, A2A. `pip install oixa-protocol`. [#opensource](https://github.com/ivoshemi-sys/oixa-protocol)
 
 
 ## Code
