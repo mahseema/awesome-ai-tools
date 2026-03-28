@@ -160,6 +160,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Recall](https://www.getrecall.ai/) - Summarize Anything, Forget Nothing
 - [Talently AI](https://interview.talently.ai/?utm_source=mahseema-awesome-ai-tool&utm_medium=c_and_p&utm_campaign=tool-listing) - An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process. 
 - [TailorTask](https://wwww.tailortask.ai) - Automate any boring and repetitive task, without having to learn a new tool
+- [Midas Tools](https://www.midastools.co) - Free AI prompt tools for entrepreneurs — roast, enhance, score, and generate prompts instantly. Includes Prompt Roaster, Prompt Enhancer, Prompt Scorer, Image Prompt Builder, and more. No signup required.
 - [AnkiDecks AI](https://anki-decks.com) - Create Flashcards 10x faster. Generate Anki Flashcards from any File or Text with AI.
 - [AI for Google Slides](https://www.aiforgoogleslides.com/) - AI presentation maker for Google Slides
 - [FARSITE](https://far.site/) - AI-powered Compliance Software for U.S. Government Contractors
