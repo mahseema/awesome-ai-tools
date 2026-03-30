@@ -107,6 +107,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Jenni](https://jenni.ai/) - Jenni is the ultimate writing assistant that saves you hours of ideation and writing time.
 - [LAIKA](https://www.writewithlaika.com/) - LAIKA trains an artificial intelligence on your own writing to create a personalised creative partner-in-crime.
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
+- [ToneSwap](https://toneswap.app/) - AI rewriter that learns your personal writing style. Rewrite in 9 tones, write fiction with genre-specific craft rules, and build stories with chapters and voice matching.
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [RapidTextAI](https://app.rapidtextai.com/) - Write Advance Articles using Multiple AI Models like GPT4, Gemini, Deepseek and grok.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
