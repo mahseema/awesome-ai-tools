@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [Beetroot](https://github.com/mnardit/beetroot-releases) - AI-powered clipboard manager for Windows with built-in text transforms (OpenAI, Anthropic, Google, DeepSeek, local LLM), OCR, fuzzy search, and 26 languages.
 
 
 ## Learning resources
