@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [ToolRouter](https://toolrouter.com) - Give your AI agent superpowers with access to 150+ tools on demand with just one account. Competitor research, video production, web search, image generation, security scanning, and more. One API key replaces managing dozens of provider accounts.
 
 
 ## Code
