@@ -233,6 +233,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - [Ollama](https://ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps.
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
+- [DeepRead](https://www.deepread.tech) - AI-native document processing API. Extract structured data from PDFs and images with 97%+ accuracy, fill PDF forms with AI vision, and redact PII. Free 2,000 pages/month.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [Keploy](https://keploy.io/) - Open source Tool for converting user traffic to Test Cases and Data Stubs.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
