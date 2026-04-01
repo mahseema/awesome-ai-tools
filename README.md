@@ -574,6 +574,12 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [NVIDIA Omniverse AI Animal Explorer Extension](https://docs.omniverse.nvidia.com/extensions/latest/ext_animal-explorer.html#installation) - AI Animal Explorer is an Omniverse extension that enables creators to quickly prototype unique 3D animal meshes.
 
 
+## Coding Agents
+
+- [Darce CLI](https://github.com/AmerSarhan/darce-cli) — Ultralight (14 kB) AI coding agent for the terminal. 7 tools, any model (Qwen, Grok, Claude, Gemini, DeepSeek, Llama), smart routing. [Website](https://cli.darce.dev)
+
+---
+
 ## Related Awesome Lists
 
 - [Altern](https://altern.ai) - Find Best AI Tools
