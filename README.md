@@ -304,6 +304,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
 
 
+- [CORTEX](https://github.com/ThankNIXlater/cortex) - AI Agent OS with persistent memory, Ed25519 identity, dream mode, and multi-model support. Not a Claude Code fork - original architecture.
 ## Image
 
 *For a more complete list of AI Image tools visit: [Best Image AI Tools](https://github.com/mahseema/awesome-ai-tools/blob/main/IMAGE.md) or [Awesome AI Image](https://github.com/xaramore/awesome-ai-image)*
