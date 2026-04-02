@@ -503,6 +503,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Clickable](https://www.clickable.so/) - Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.
 - [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
+- [SEELE AI](https://seele.ai) - AI game generation platform; creates playable games from text and multimodal inputs using the SEELE 01 game foundation model.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
 - [Petals](https://github.com/bigscience-workshop/petals) - BitTorrent style platform for running AI models in a distributed way.
@@ -575,6 +576,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ## Related Awesome Lists
+
+- [Awesome Game Dev AI](https://github.com/SeeleAI/awesome-game-dev-ai) - A curated list of AI tools for game development, covering the full pipeline from concept to publishing.
 
 - [Altern](https://altern.ai) - Find Best AI Tools
 - [AI For Developers](https://aifordevelopers.org) - List of AI DevTools
