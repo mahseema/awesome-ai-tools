@@ -302,6 +302,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [codebase-graph](https://github.com/Phoenixrr2113/codebase-graph) - Code intelligence MCP server that builds knowledge graphs from source code using tree-sitter AST parsing across 42 languages.
+- [agntk](https://github.com/Phoenixrr2113/agntk) - Zero-config CLI AI agent with 20+ built-in tools, hardware-aware local model detection, and persistent named agents.
 
 
 ## Image
