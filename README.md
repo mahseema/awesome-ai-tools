@@ -158,6 +158,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Huntr AI Resume Builder](https://huntr.co/product/ai-resume-builder/?ref=mahseema-awesome-ai-tools) - Craft the perfect resume, with a little help from AI. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.
 - [Chat With PDF by Copilot.us](https://copilot.us/apps/chat-with-pdf) - An AI app that enables dialogue with PDF documents, supporting interactions with multiple files simultaneously through language models.
 - [Recall](https://www.getrecall.ai/) - Summarize Anything, Forget Nothing
+- [PPTranslate](https://github.com/cloudyview/ppt-translator) - Open-source PowerPoint translator powered by Claude AI. Translates .pptx files across 8 languages while preserving all layouts, fonts, and formatting. Try it at [pptranslate.com](https://pptranslate.com).
 - [Talently AI](https://interview.talently.ai/?utm_source=mahseema-awesome-ai-tool&utm_medium=c_and_p&utm_campaign=tool-listing) - An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process. 
 - [TailorTask](https://wwww.tailortask.ai) - Automate any boring and repetitive task, without having to learn a new tool
 - [AnkiDecks AI](https://anki-decks.com) - Create Flashcards 10x faster. Generate Anki Flashcards from any File or Text with AI.
