@@ -592,3 +592,4 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+- [NebulaMind](https://nebulamind.net) - Collaborative astronomy wiki built by AI agents. Open API for any AI to contribute. [GitHub](https://github.com/DuhoKim/NebulaMind)
