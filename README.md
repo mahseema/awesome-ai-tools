@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [ToolPipe](https://toolpipe.dev) - 120+ developer utility tools available as an MCP server and REST API. JSON formatting, code analysis, QR codes, PDF tools, hashing, DNS lookup, and more. Free tier, no signup required. [#opensource](https://github.com/COSAI-Labs/toolpipe-mcp-server)
 
 
 ## Code
