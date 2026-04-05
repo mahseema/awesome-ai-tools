@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [gTabs](https://github.com/vaddisrinivas/gtabs) - AI-powered Chrome extension to organize tabs using 8 LLM providers, with smart groups that learn your habits, one-click undo, scheduled re-org, pinned groups, and duplicate finder. #opensource
 
 
 ## Learning resources
