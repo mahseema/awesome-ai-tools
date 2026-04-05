@@ -336,6 +336,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Ponzu](https://www.ponzu.ai/) - Ponzu is your free AI logo generator. Build your brand with creatively designed logos in seconds, using only your imagination.
 - [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
 - [PhotoGuruAI](https://photoguruai.com/) - Create professional AI Headshots in various styles.
+- [HeadshotCraft](https://headshotcraft.com/) - Turn one selfie into 50+ studio-quality AI headshots for LinkedIn, resumes, and team profile photos in under 2 minutes.
 - [Avatar AI](https://avatarai.me/) - Create your own AI-generated avatars.
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
 - [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
