@@ -464,6 +464,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[Overloop CLI](https://github.com/sortlist/overloop-cli)** - AI-powered outbound engine for B2B. Source contacts (450M+), run multi-channel campaigns (email + LinkedIn), enroll prospects, and manage conversations from the terminal. JSON output. `npm install -g overloop-cli`
+- **[Signals CLI](https://github.com/sortlist/signals-cli)** - B2B intent signal monitoring CLI. Track LinkedIn engagement, keyword posters, job changers, and funding events. JSON output. `npm install -g signals-sortlist-cli`
 
 
 ### Phone Calls
