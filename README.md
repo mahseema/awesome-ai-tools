@@ -538,6 +538,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [LooksMax AI](https://looksmax.ai) - Find out how hot you are using AI
 - [Podify.io](https://podify.io) - Leverage AI and community to grow on LinkedIn
 - [ResumeDive](https://resumedive.com) - A resume boosting service using AI
+- [Ajusta](https://ajusta.ai) - AI resume optimizer that scores resumes against Applicant Tracking Systems, identifies keyword gaps, and provides AI rewrite suggestions. Chrome extension for LinkedIn and Indeed.
 - [Luthor](https://luthor.ai/) - Programmatic content marketing at scale
 - [Hyperbrowser](https://hyperbrowser.ai/) - Browser infrastructure and automation for AI Agents and Apps with advanced features like proxies, captcha solving, and session recording.
 - [Bricks](https://www.thebricks.com/) - The AI Spreadsheet We've All Been Waiting For
