@@ -546,6 +546,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
 
+- [Iteration Layer](https://iterationlayer.com) - Composable content processing APIs for document extraction, image transformation, and image, document & sheet generation.
 
 ## Learning resources
 
