@@ -554,6 +554,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 AI agent system prompts for Claude Code multi-agent orchestration. Open source, production-tested across 10,000+ tasks.
 
 ## Learn AI free
 ### Machine Learning
