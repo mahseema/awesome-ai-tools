@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Global Chat](https://global-chat.io) - Cross-protocol AI agent discovery platform. Searchable directory of 100K+ agents across MCP, A2A, agents.txt, and 10+ other registries. Includes a free agents.txt validator and an MCP server for programmatic access. [#opensource](https://github.com/pumanitro/global-chat)
 
 
 ## Code
