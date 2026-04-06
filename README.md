@@ -270,6 +270,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [JSONFix](https://jsonfix-lake.vercel.app) - AI-powered JSON fixer that instantly repairs broken JSON with missing quotes, trailing commas, or syntax errors. Free, no signup.
+- [CronAI](https://cronai-nu.vercel.app) - Convert plain English schedule descriptions to cron expressions using AI. Supports standard and extended cron formats.
+- [RegexAI](https://regexai-six.vercel.app) - Describe what pattern you want to match in plain English and get a working regex with explanation. Supports multiple flavors.
 
 
 ## Code
