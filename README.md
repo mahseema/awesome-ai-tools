@@ -287,6 +287,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Debuild](https://debuild.app/) - AI-powered low-code tool for web apps.
 - [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
 - [CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you stay confident when you push.
+- [ctxlint](https://github.com/YawLabs/ctxlint) - Open-source linter for AI context files (CLAUDE.md, .cursorrules, copilot-instructions.md) that validates against the actual codebase. Catches broken paths, wrong commands, stale context, and token waste.
 - [PR-Agent](https://github.com/Codium-ai/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions, and more.
 - [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
 - [TurboPilot](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone that uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
