@@ -458,6 +458,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[Phrasee](https://www.phrasee.co/)** - AI tool that generates optimized marketing copy.
 - **[Crimson Hexagon](https://www.crimsonhexagon.com/)** - AI-based social media sentiment analysis platform.
 - **[MarketMuse](https://www.marketmuse.com/)** - SEO content optimization platform using AI.
+- **[AuditZap](https://auditzap.io/)** - AI-powered website audit tool that runs 24 checks across SEO, performance, and site health, then generates code-level fix instructions ranked by revenue impact.
 - **[Chatfuel](https://www.chatfuel.com/)** - AI-driven chatbot for automating customer engagement on Messenger.
 - **[LogicBalls](https://logicballs.com/)** - An AI-powered writing tool to create any type of content and supercharge your productivity.
 - **[Rupert AI](https://www.getrupert.com/)** - AI tools for designers and marketers
