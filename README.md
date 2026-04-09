@@ -230,6 +230,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ### Developer tools
+- [sharable.link](https://sharable.link) - A free Claude skill that publishes HTML outputs to clean, shareable public URLs. One `/share` command turns dashboards, reports, and landing pages into links anyone can open.
 
 - [Ollama](https://ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps.
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
