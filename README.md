@@ -230,6 +230,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ### Developer tools
+n- [AgentWeb](https://agentweb.live) - Free business data API for AI agents. 11M+ businesses, 195 countries. Never returns empty — discovers unknown businesses in real-time. MCP server + 14 tools. [npm](https://www.npmjs.com/package/agentweb-mcp)
 
 - [Ollama](https://ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps.
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
