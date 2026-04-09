@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [Midas Skill](https://github.com/realteamprinz/midas-skill) - Self-learning wealth extraction engine. Feed it anyone — it extracts their wealth operating system across 6 dimensions. Open source, self-learning.
 
 
 ## Learning resources
