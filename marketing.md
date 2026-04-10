@@ -61,6 +61,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Brandwatch](https://www.brandwatch.com/)** - AI-driven consumer insights platform for social media listening and market research.
 - **[Talkwalker](https://www.talkwalker.com/)** - Provides AI-powered marketing analytics, social media monitoring, and brand sentiment analysis.
 - **[Capalyze](https://capalyze.ai/)** - Capalyze is the only AI that lets you capture web data across platforms, run sentiment analysis, and automate it all — through natural language.
+- **[PersonaResearch](https://personaresearch.dev)** - Turns App Store reviews into customer personas in 2 minutes using AI. Fetches hundreds of real reviews, extracts themes, and synthesizes 3-5 evidence-backed persona cards with user quotes — no surveys needed.
 
 ## GEO (Generative Engine Optimization)
  **[GetBool AI](https://www.getbool.ai/)** - AI tool that helps marketers improve their brand visibility wihtin LLMs, by using high-quality content, high quality mentions and links, reviews, etc...
@@ -82,4 +83,3 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 ## Contributing
 
 Contributions are welcome! Please follow the [guidelines](CONTRIBUTING.md) for adding new tools or improving descriptions.
-
