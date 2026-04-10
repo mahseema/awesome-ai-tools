@@ -22,6 +22,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [📞 AI Phone Call Agents](#phone-calls)
 - [🎒 Other AI Tools](#other)
 - [👩‍🏫 Learning resources](#learning-resources)
+* [Launched](https://launched.deskio.org) – Merit-based product discovery platform for indie makers. No algorithm, no paid placement, 30-second submission. Free forever.
 
 
 ## Editor's Choice
