@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [RemembrallMCP](https://github.com/cdnsteve/remembrallmcp) - Persistent memory and code graph server for AI agents. MCP protocol, Postgres/pgvector backend, hybrid semantic + full-text search, incremental code indexing for 7 languages with blast-radius impact analysis. Self-hosted, no external API needed.
 
 
 ## Code
