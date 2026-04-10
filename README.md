@@ -271,7 +271,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
 
-
+- [DevTools API Tester](https://github.com/theihtisham/devtools-api-tester) - Open-source API testing suite with AI test generation and Postman/OpenAPI import.
 ## Code
 
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
@@ -302,6 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [AI Agent Starter Kit](https://github.com/theihtisham/ai-agent-starter-kit) - Production-ready Next.js 14 starter with multi-agent orchestration, streaming UI, auth, Stripe payments.
 
 
 ## Image
