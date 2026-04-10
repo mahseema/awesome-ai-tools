@@ -302,6 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [LIIVO](https://www.liivo.ai) - Deploy apps your AI built. Connect Claude or ChatGPT, describe what you want, and LIIVO runs it on open-source infrastructure you can take anywhere. Flat EUR 15/month, zero vendor lock-in.
 
 
 ## Image
