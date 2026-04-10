@@ -296,6 +296,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 - [FlexApp](https://flexapp.ai/) - Build mobile apps with AI, not code
+- [Forge](https://forge-web.rebaselabs.online) - AI-powered full-stack app creator with BYOK (Bring Your Own Key). Generate Next.js apps from text prompts using your own LLM API key. [Source code](https://github.com/sudo-rebase/forge).
 - [Kilo Code](https://kilocode.ai) - Open Source AI coding assistant for planning, building, and fixing code inside VS Code.
 - [Capacity](https://capacity.so) - Capacity lets you turn your ideas into fully functional web apps in minutes using AI.
 - [Runcell](https://runcell.dev) - AI Agent Extension for Jupyter Lab, Agent that can code, execute, analysis cell result, etc in Jupyter.
