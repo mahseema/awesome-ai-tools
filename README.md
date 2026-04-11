@@ -592,3 +592,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
+### AI Trust & Safety Tools
+
+- [TrustModel.ai](https://trustmodel.ai) - AI Assurance platform — independent trust scoring for AI models, COTS applications (230+ enterprise systems), AI agents, browser extensions, and MCP servers. Evaluates across 10 dimensions: safety, fairness, accuracy, privacy, transparency, robustness, accountability, explainability, compliance, reliability. Public rankings: [Chrome extensions](https://trustmodel.ai/chrome-extensions), [MCP servers](https://trustmodel.ai/mcp-servers), [HR AI benchmark](https://trustmodel.ai/benchmark), [COTS integrations](https://trustmodel.ai/cots).
