@@ -304,6 +304,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
 
 
+
+- [codesight](https://github.com/Houseofmvps/codesight) - CLI token optimizer and AI context generator for codebases. Scans projects to extract routes, schema, components, and dependencies, reducing AI context tokens by 9x–13x. Built-in MCP server works with Claude Code, Cursor, Copilot, Codex, and Windsurf. Zero runtime dependencies. `npx codesight`
 ## Image
 
 *For a more complete list of AI Image tools visit: [Best Image AI Tools](https://github.com/mahseema/awesome-ai-tools/blob/main/IMAGE.md) or [Awesome AI Image](https://github.com/xaramore/awesome-ai-image)*
