@@ -267,6 +267,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ToolHive](https://github.com/stacklok/toolhive) – Find the right MCP server for your task and deploy with one click. 
 - [StarOps](https://ingenimax.ai) - AI Platform Engineer
 - [AgentDock](https://agentdock.ai) - Unified infrastructure for AI agents and automation. One API key for all services instead of managing dozens. Build production-ready agents without operational complexity.
+- [SoxAI](https://www.soxai.io) - AI API gateway for 200+ models from 40+ providers. One OpenAI-compatible API key for GPT, Claude, Gemini, DeepSeek and more. Team management, spending limits, automatic failover. Self-hostable.
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
