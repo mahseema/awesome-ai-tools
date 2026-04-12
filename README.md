@@ -302,6 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [SwarmVault](https://github.com/swarmclawai/swarmvault) - Local-first knowledge compiler that turns files, URLs, PDFs, and code into a markdown wiki with a graph and search index, usable from the CLI, MCP, or Obsidian.
 
 
 ## Image
