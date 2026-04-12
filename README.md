@@ -73,6 +73,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - [Kazimir.ai](https://kazimir.ai/) - A search engine designed to search AI-generated images. 
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
+- [SearchHive](https://searchhive.dev) - AI-powered web scraping, search, and research API platform.
 - [Metaphor](https://metaphor.systems/) - Language model powered search.
 - [Phind](https://phind.com/) - AI-based search engine.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
