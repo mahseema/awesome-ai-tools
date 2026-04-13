@@ -192,6 +192,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
 
 
+- [SureThing](https://surething.io) - Proactive AI work assistant and digital twin that monitors your inbox and calendar 24/7, drafts replies, schedules meetings, runs research, and automates workflows across 800+ connected apps. [Freemium]
+
 ### Meeting assistants
 
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
