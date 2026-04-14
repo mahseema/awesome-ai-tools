@@ -7,6 +7,7 @@ A curated list of AI tools for image processing, generation, editing, and enhanc
 - [Image Generation](#image-generation)
 - [Image Editing](#image-editing)
 - [Image Recognition](#image-recognition)
+- [Photo Restoration](#photo-restoration)
 - [Image Enhancement](#image-enhancement)
 - [Image Compression](#image-compression)
 
@@ -30,6 +31,12 @@ A curated list of AI tools for image processing, generation, editing, and enhanc
 - **[Clarifai](https://www.clarifai.com/)** - AI-powered platform for image and video recognition, offering custom models for visual recognition tasks.
 - **[Google Cloud Vision API](https://cloud.google.com/vision)** - Machine learning-based image analysis tool that recognizes objects, text, and landmarks in images.
 - **[AWS Rekognition](https://aws.amazon.com/rekognition/)** - Deep learning service that detects objects, text, and activities in images and videos.
+
+## Photo Restoration
+
+- **[ArtImageHub](https://artimagehub.com/old-photo-restoration)** - AI-powered old photo restoration tool. Fixes scratches, fading, blur, and water damage on family photos. One-time $4.99 to download the HD result; no subscription.
+- **[MyHeritage Photo Enhancer](https://www.myheritage.com/photo-enhancer)** - AI tool to enhance and animate old family photos, focused on genealogy use cases.
+- **[Remini](https://remini.ai/)** - Mobile-first AI photo enhancer that restores sharpness and detail in blurry or low-resolution images.
 
 ## Image Enhancement
 
