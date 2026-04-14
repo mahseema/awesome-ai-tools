@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) - Windows system tray app for real-time Claude Code token usage, costs, rate limits, and session tracking. [#opensource](https://github.com/jeongwookie/WhereMyTokens)
 
 
 ## Code
