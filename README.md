@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [Save](https://www.savemarkdown.co) - AI-powered Chrome extension + macOS app that converts any webpage to clean Markdown and stores it in a local vault. Built-in MCP server exposes your saved pages to Claude so it answers from your curated knowledge first.
 
 
 ### Meeting assistants
