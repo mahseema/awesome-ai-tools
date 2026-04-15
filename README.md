@@ -142,6 +142,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Productivity
 
+- [Burn 451](https://www.burn451.cloud) - AI-powered reading tool. Curated vaults of essays/podcasts from Karpathy, Simon Willison, PG, Naval + hub concept pages on agentic engineering and vibe coding. AI summaries included.
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [Taskade](https://www.taskade.com/) -  Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation—all within a unified workspace.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
