@@ -282,6 +282,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Amazon Q Developer]([https://aws.amazon.com/codewhisperer/](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el)) - AI coding assistant with extensions for IDEs such as VS Code and IntelliJ IDEA that provides both chat and agentic workflows.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Build applications faster with the ML-powered coding companion.
 - [tabnine](https://www.tabnine.com/) - Code faster with whole-line & full-function code completions.
+- [Sverklo](https://github.com/sverklo/sverklo) - Local-first code intelligence MCP server with hybrid semantic search, symbol graph, blast-radius analysis, diff-aware PR review, and git-pinned memory. Supports 10 languages. #opensource
 - [Stenography](https://stenography.dev/) - Automatic code documentation.
 - [Mintlify](https://mintlify.com/) - AI powered documentation writer.
 - [Debuild](https://debuild.app/) - AI-powered low-code tool for web apps.
