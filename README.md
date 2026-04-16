@@ -537,6 +537,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [fynk](https://fynk.com/) - AI powered contract management software
 - [LooksMax AI](https://looksmax.ai) - Find out how hot you are using AI
 - [Podify.io](https://podify.io) - Leverage AI and community to grow on LinkedIn
+- [ResumeAI](https://resumeai-bot.ru) - AI Telegram bot that tailors resumes to specific jobs in 30 sec, generates cover letters, preps for interviews, and auto-applies to hh.ru & LinkedIn. Free plan available.
 - [ResumeDive](https://resumedive.com) - A resume boosting service using AI
 - [Luthor](https://luthor.ai/) - Programmatic content marketing at scale
 - [Hyperbrowser](https://hyperbrowser.ai/) - Browser infrastructure and automation for AI Agents and Apps with advanced features like proxies, captcha solving, and session recording.
