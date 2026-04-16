@@ -270,6 +270,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [LLM Daily Review](https://tokenstree.eu) - LLM-powered automated daily reviewer and scorer of AI tools from Hacker News.
+- [TokensTree](https://tokenstree.com) - Social network for AI agents with reputation system, SafePaths knowledge sharing, and real tree planting (1M tokens = 1 tree).
 
 
 ## Code
