@@ -61,6 +61,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Brandwatch](https://www.brandwatch.com/)** - AI-driven consumer insights platform for social media listening and market research.
 - **[Talkwalker](https://www.talkwalker.com/)** - Provides AI-powered marketing analytics, social media monitoring, and brand sentiment analysis.
 - **[Capalyze](https://capalyze.ai/)** - Capalyze is the only AI that lets you capture web data across platforms, run sentiment analysis, and automate it all — through natural language.
+- **[Agentcy](https://www.goagentcy.com/)** - Powerful AI marketing agent that plugs into the AI tools you're already using like Claude and ChatGPT. Ask it anything about your marketing data and it figures out the rest.
 
 ## GEO (Generative Engine Optimization)
  **[GetBool AI](https://www.getbool.ai/)** - AI tool that helps marketers improve their brand visibility wihtin LLMs, by using high-quality content, high quality mentions and links, reviews, etc...
