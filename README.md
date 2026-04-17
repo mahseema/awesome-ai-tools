@@ -67,6 +67,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Gali Chat](https://www.galichat.com/) - *[reviews](#)* - Your 24/7 AI Support Assistant that helps you grow your business!
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://altern.ai/product/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
+- [VoxArena](https://voxarena.ai) - Multi-LLM debate arena where Claude, GPT-4, Gemini, Grok, Mistral, and Perplexity Sonar argue opposing sides of any topic in real time, with structured verdicts and 7-language audio.
 
 
 ### Search engines
