@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [VibeX](https://vibexforge.com) - AI-native launch platform with a 16-bit RPG UI. Every project evolves Seed → Active → Growing → Breakout → Legend → Myth based on real traction, and Claude reviews originality, craft, market fit, and growth.
 
 
 ## Learning resources
