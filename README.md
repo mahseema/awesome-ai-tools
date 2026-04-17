@@ -302,6 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [MeterCall](https://metercall.ai) - Universal API gateway over 10M+ APIs with an AI router across 25+ models. Type a sentence in plain English, get a working app. 727+ ready-made modules to fork and customize. Free tier with usage-based pricing.
 
 
 ## Image
