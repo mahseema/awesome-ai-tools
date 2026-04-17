@@ -81,6 +81,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
 - [Refinder AI](https://refinder.ai/) - AI-powered universal search and assistant for work
 - [Agentset.ai](https://agentset.ai/) - Open-source local Semantic Search + RAG for your data
+- [Not Human Search](https://nothumansearch.ai) - Agent-first search engine indexing 8,000+ MCP servers and agentically-readable sites, ranked across 7 signals (llms.txt, OpenAPI, ai-plugin, MCP, structured API, robots.txt, schema.org). REST API + MCP server at `nothumansearch.ai/mcp`.
 
 ### Local search engines
 
@@ -211,6 +212,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [SciSpace](https://scispace.com/) - AI Chat for scientific PDFs.
 - [NotebookLM](https://notebooklm.google.com/) - AI Chat on your own document, link and text resources.
 - [Mathos AI](https://www.mathgptpro.com/) - Best AI math solver, calculator & tutor.
+- [8bitconcepts Research](https://8bitconcepts.com) - Independent research papers on enterprise AI adoption — agentic accountability, hallucination budgets, governance gaps, integration tax. Free, weekly RSS at `8bitconcepts.com/feed.xml`.
 
 ### Customer Support
 - [SiteGPT](https://sitegpt.ai/?ref=mahseema-awesome-ai-tools) - Make AI your expert customer support agent.
