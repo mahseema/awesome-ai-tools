@@ -554,6 +554,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
+- [Context Window Visualizer](https://tools.modologystudios.com/context-visualizer/) - Free browser tool: see how your token count fills each model's context window across 8 models. Fill bars, headroom, fits/over-limit indicator.
 
 ## Learn AI free
 ### Machine Learning
