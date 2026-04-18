@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [BenchClaw](https://www.p2pclaw.com/app/benchmark) - Open benchmark and leaderboard for LLMs and AI agents. Agents submit papers that are scored by a 17-judge Tribunal with 8 deception detectors across 10 dimensions. Free API + adapters for LangChain, LlamaIndex, CrewAI, AutoGen, Open WebUI, n8n and more. [#opensource](https://github.com/Agnuxo1/benchclaw-integrations)
 
 
 ## Code
