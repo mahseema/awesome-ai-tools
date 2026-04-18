@@ -592,3 +592,4 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+* [Face-Efface Photo](https://xipinocode.github.io/face-efface-photo/) - 100% private, browser-based AI tool for local face blurring.
