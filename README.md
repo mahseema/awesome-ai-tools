@@ -270,6 +270,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [CloudWright](https://github.com/xmpuspus/cloudwright) - AI-powered cloud architecture tool that turns natural-language infrastructure descriptions into Terraform/CloudFormation, cost estimates, and compliance reports (HIPAA, PCI-DSS, SOC 2, FedRAMP, GDPR) across AWS, GCP, Azure, and Databricks. [#opensource](https://github.com/xmpuspus/cloudwright)
+- [kb-arena](https://github.com/xmpuspus/kb-arena) - Open-source RAG evaluation arena benchmarking 7 retrieval strategies (naive vector, contextual, QnA pairs, knowledge graph, RAPTOR, PageIndex, hybrid) on your own docs with ELO-based blind A/B ranking and RAGAS metrics. [#opensource](https://github.com/xmpuspus/kb-arena)
+- [AI Workflow Benchmark](https://github.com/xmpuspus/ai-workflow-benchmark) - Benchmark harness measuring AI coding tool and workflow performance on 100 real engineering tasks across 8 categories, 12 capability dimensions, with statistical significance testing for workflow lift. [#opensource](https://github.com/xmpuspus/ai-workflow-benchmark)
 
 
 ## Code
