@@ -28,6 +28,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - [AI For Developers](https://aifordevelopers.org) - Just a curated list of AI agents, SDKs, coding copilots, and dev-first tools that save you hours — not waste them.
 - [There's an AI](https://theresanai.com) - List of best AI Tools
+- [MeetAITools](https://meetaitools.com) - Curated directory of 40+ AI tool categories with hands-on tested reviews, comparisons, and expert picks for developers, creators, and businesses.
 - [Notion AI](https://affiliate.notion.so/9po6cx7rvdr6-4y5a7) - Just ask Q&A, and find the info you need in seconds. Get help writing and brainstorming in Notion, not in a separate browser tab.
 - [Murf AI](https://get.murf.ai/v8i9to5ad4oq) - Create voiceover with the most lifelike AI voices.
 - [SaneBox](https://try.sanebox.com/yzkpe5s68xk2) - an email management software as a service that integrates with IMAP and Exchange Web Services email accounts.
@@ -98,6 +99,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [HyperWrite](https://hyperwriteai.com/) - HyperWrite helps you write with confidence and get your work done faster from idea to final draft.
 - [Nexus AI](https://mynexusai.com/) - Nexus AI is a generative cutting-edge AI Platform for writing, coding, voiceovers, research, image creation and beyond.
 - [Moonbeam](https://www.gomoonbeam.com/) - Better blogs in a fraction of the time.
+- [MeetAITools](https://meetaitools.com) - AI tools directory with hands-on reviews across writing, coding, image generation, automation, and more — tested by a web developer.
 - [copy.ai](https://www.copy.ai/) - Write better marketing copy and content with AI.
 - [Anyword](https://anyword.com/) - Anyword's AI writing assistant generates effective copy for anyone.
 - [Contenda](https://contenda.co/) - Create the content your audience wants, from content you've already made.
@@ -589,6 +591,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)
 - [Top AI Directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
-
+- [MeetAITools](https://meetaitools.com) - Curated directory of 40+ AI tool categories with hands-on tested reviews and comparisons for developers, creators, and businesses.
 
 created by [Mahsima Dastan](https://github.com/mahseema)
