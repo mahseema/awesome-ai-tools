@@ -443,6 +443,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Loudly](https://www.loudly.com) - [Review](https://theresanai.com/loudly) - Combines AI music generation with a social platform for collaboration.
 - [Soundful](https://www.soundful.com) - [Review](https://theresanai.com/soundful) - High-quality, royalty-free music for content creators.
 - [AI Music Generator](https://www.aisongmaker.io) - [Review](https://www.producthunt.com/products/ai-song-maker) - Effortlessly Create Songs with AI
+- [AceTagGen](https://acetaggen.com) - Free prompt builder for Suno AI. Structured dropdowns for mood, genre, instruments, and SFX that respect Suno's 200-char Style limit. Includes example library and quality score.
 
 
 ### Marketing AI Tools
