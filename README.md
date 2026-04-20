@@ -123,6 +123,11 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [GPTLocalhost](https://gptlocalhost.com/demo/) - A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and completely local.
 
 
+### AI Humanizers
+
+- [ToHuman](https://tohuman.io) - Transform AI-generated text into natural, human-sounding content. Powered by a fine-tuned Mistral 7B model, bypasses GPTZero, Turnitin, and Originality.ai while preserving original meaning. API available for developers and content teams.
+
+
 ### ChatGPT extensions
 
 - [Gist AI](https://www.gistai.tech?utm_source=tool_directory&utm_medium=post&utm_campaign=launch) - ChatGPT-powered free Summarizer for Websites, YouTube and PDF.
