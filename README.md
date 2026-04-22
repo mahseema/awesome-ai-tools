@@ -510,6 +510,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Aispect](https://aispect.io/?ref=mahseema-awesome-ai-tools) - New way to experience events.
 - [PressPulse AI](https://www.presspulse.ai/?ref=mahseema-awesome-ai-tools) - Get personalized media coverage leads every morning.
 - [GummySearch](https://gummysearch.com/?ref=mahseema-awesome-ai-tools) - AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
+- [Murmure](https://murmure.cc) - Track what developers say about AI tools on Reddit & HN. Free weekly community intelligence reports for 13 AI devtools.
 - [Taplio](https://taplio.com/?ref=mahseema-awesome-ai-tools) - The all-in-one, AI-powered LinkedIn tool.
 - [PromptPal](https://promptpal.net) - Search for prompts and bots, then use them with your favorite AI. All in one place.
 - [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator
