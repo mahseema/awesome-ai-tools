@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [tteg](https://tteg.kushalsm.com) - Stock photos for AI coding agents — real Unsplash images via CLI, HTTP API, or MCP, no API key required. Drop-in replacement for placeholder image URLs in AI-generated landing pages. [#opensource](https://github.com/kiluazen/tteg)
 
 
 ## Code
