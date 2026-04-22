@@ -535,6 +535,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Harbor](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
 - [LangMagic](https://easytolearn.io) - Learn languages from native content.
 - [fynk](https://fynk.com/) - AI powered contract management software
+- [Prest0](https://prest0.ai) - Enterprise bilingual (English/Spanish) legal AI platform that deploys a dedicated AI agent per law firm with Twilio voice + SMS, deep legal research, and legal-grade document drafting — purpose-built for immigration, workers' comp, and employment law.
 - [LooksMax AI](https://looksmax.ai) - Find out how hot you are using AI
 - [Podify.io](https://podify.io) - Leverage AI and community to grow on LinkedIn
 - [ResumeDive](https://resumedive.com) - A resume boosting service using AI
