@@ -589,6 +589,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)
 - [Top AI Directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
+- [Free AI Tools JP](https://free-ai-tools.jp) - 63 free AI tools for Japanese users, no signup required.
+- [Free Tegami Tools JP](https://free-tegami-tools.jp) - 65 AI tools for Japanese ceremonial and business writing (wedding speeches, eulogies, business correspondence).
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
