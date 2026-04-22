@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[Scrupp](https://scrupp.com/)** - #1 Sales Navigator Scraper Chrome extension. Export 2,500 LinkedIn/Sales Navigator leads to CSV with verified emails and phones. Free plan.
 
 
 ### Phone Calls
