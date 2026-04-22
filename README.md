@@ -302,6 +302,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [ai-context-linter](https://github.com/MrDwarf7/ai-context-linter) - GitHub Action that lints AI coding context files (CLAUDE.md, .cursorrules, AGENTS.md) for security issues, structural problems, and AI anti-patterns.
+- [ai-context-templates](https://github.com/MrDwarf7/ai-context-templates) - Free CLAUDE.md, Cursor rules, and PRP templates that make AI coding assistants actually useful.
 
 
 ## Image
@@ -545,6 +547,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [url-to-md](https://github.com/MrDwarf7/url-to-md) - Convert any URL to clean markdown for LLMs. Free API, no signup.
 
 
 ## Learning resources
