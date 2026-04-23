@@ -82,6 +82,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Refinder AI](https://refinder.ai/) - AI-powered universal search and assistant for work
 - [Agentset.ai](https://agentset.ai/) - Open-source local Semantic Search + RAG for your data
 
+- [SEO for AI](https://getseoforai.com/) - Free AI-visibility checker for small businesses. Paste your URL to see whether ChatGPT, Gemini, Perplexity, and Google AI Overviews mention you or cite a competitor.
 ### Local search engines
 
 - [privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.
