@@ -267,6 +267,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ToolHive](https://github.com/stacklok/toolhive) – Find the right MCP server for your task and deploy with one click. 
 - [StarOps](https://ingenimax.ai) - AI Platform Engineer
 - [AgentDock](https://agentdock.ai) - Unified infrastructure for AI agents and automation. One API key for all services instead of managing dozens. Build production-ready agents without operational complexity.
+- [KubeStellar Console](https://github.com/kubestellar/console) - Open source AI-powered multi-cluster Kubernetes dashboard with AI chat for cluster operations, real-time observability, CNCF integrations (Argo, Kyverno, Prometheus, and 20+ others), and edge/cloud cluster management. [#opensource](https://github.com/kubestellar/console)
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
