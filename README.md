@@ -355,6 +355,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - [PlantTattoosAI](https://www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
+- [FontVibe](https://fontvibe.ai) - AI text effect generator with 100+ styles (neon, glitch, 3D bold, Viking, cyberpunk, and more). Outputs high-resolution PNG with optional transparent background. Free to start, commercial use included.
 
 
 
