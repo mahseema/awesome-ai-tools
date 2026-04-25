@@ -98,6 +98,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [HyperWrite](https://hyperwriteai.com/) - HyperWrite helps you write with confidence and get your work done faster from idea to final draft.
 - [Nexus AI](https://mynexusai.com/) - Nexus AI is a generative cutting-edge AI Platform for writing, coding, voiceovers, research, image creation and beyond.
 - [Moonbeam](https://www.gomoonbeam.com/) - Better blogs in a fraction of the time.
+- [unslop](https://github.com/MohamedAbdallah-14/unslop) - A Claude Code plugin that removes AI writing patterns (tricolons, em-dash pileups, hedging stacks, sycophancy, stock vocabulary). Five intensity levels. Detection and rewriting are split — use as a lint pass on existing writing or for full rewrites. MIT licensed. #opensource
 - [copy.ai](https://www.copy.ai/) - Write better marketing copy and content with AI.
 - [Anyword](https://anyword.com/) - Anyword's AI writing assistant generates effective copy for anyone.
 - [Contenda](https://contenda.co/) - Create the content your audience wants, from content you've already made.
@@ -354,6 +355,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Suit me Up](https://suitmeup.pictures/) - Generate pictures of you wearing a suit with AI.
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
+- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - An MCP server + CLI that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing each request across 30+ image models. Zero API key for first run via Pollinations/Stable Horde/HuggingFace. MIT licensed. #opensource
 - [PlantTattoosAI](https://www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
 
 
