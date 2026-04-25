@@ -163,6 +163,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AnkiDecks AI](https://anki-decks.com) - Create Flashcards 10x faster. Generate Anki Flashcards from any File or Text with AI.
 - [AI for Google Slides](https://www.aiforgoogleslides.com/) - AI presentation maker for Google Slides
 - [FARSITE](https://far.site/) - AI-powered Compliance Software for U.S. Government Contractors
+- [Van Permit Audit](https://www.vanpermitaudit.com) - AI compliance checker for Vancouver, Canada building permits — validates permit applications against City bylaws instantly.
 - [GOSH](https://gosh.app) - Free AI Price Tracker - Track any price of any product at any store using AI
 - [BrainSoup](https://www.nurgo-software.com/products/brainsoup) Multi-agent & multi-LLM native client where AIs can remember, react to events, use tools, leverage local and external resources, and work together autonomously.
 - [MindPal](https://mindpal.space/) - Build your AI Second Brain with a team of AI agents and multi-agent workflow
