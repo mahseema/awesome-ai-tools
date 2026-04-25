@@ -271,6 +271,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
 
+- [EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) - Local AES-256-GCM encrypted vault for AI agents. Store API keys and reference them as `{{PLACEHOLDER}}` tokens — secrets resolved at runtime, never exposed to the LLM. Zero cloud, MIT licensed. [#opensource](https://github.com/Agnuxo1/EnigmAgent)
 
 ## Code
 
