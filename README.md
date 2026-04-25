@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [RentAHuman](https://rentahuman.ai) - A marketplace where AI agents hire humans for physical-world tasks. Features an MCP server with 60+ tools, escrow payments, bounties, and 500K+ available humans.
 
 
 ## Learning resources
