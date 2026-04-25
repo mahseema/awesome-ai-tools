@@ -266,7 +266,10 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [TensorZero](https://www.tensorzero.com/) - An open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
 - [ToolHive](https://github.com/stacklok/toolhive) – Find the right MCP server for your task and deploy with one click. 
 - [StarOps](https://ingenimax.ai) - AI Platform Engineer
-- [AgentDock](https://agentdock.ai) - Unified infrastructure for AI agents and automation. One API key for all services instead of managing dozens. Build production-ready agents without operational complexity.
+- [AgentDock](https://agentdock.ai) - Unified infrastructure for AI agents and automation. One API key for all services instead of managing dozens. Build production-ready agents without operational complexity.[Ombre](https://github.com/pypl0/Ombre) — Open source AI 
+infrastructure layer. Eight agents run automatically: security, 
+caching, memory, hallucination detection, and tamper-proof 
+audit trail. Free for developers. #opensource
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
