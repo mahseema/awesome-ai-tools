@@ -530,6 +530,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Socialsonic](https://socialsonic.com) - AI LinkedIn Coach: Personalized content, trends & scheduling.
 - [Napkin](https://www.napkin.ai/) - Napkin turns your text into visuals so sharing your ideas is quick and effective.
 - [Exam Samurai](https://www.examsamur.ai/) - AI Exam Generator
+- - [Slate](https://slateup.ai) – AI-powered interactive learning platform. Generate a course on any topic and learn with AI classmates who ask questions, test your understanding, and adapt to your pace.
 - [AI Watermark Remover](https://aiwatermarkremover.io/) - Remove watermarks from images and videos.
 - [AISaver](https://aisaver.io) - Collection of AI Powered Video and Photo Tools
 - [Harbor](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
