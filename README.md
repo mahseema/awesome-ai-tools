@@ -246,6 +246,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Portkey](https://portkey.ai/) - Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.
 - [OpenAI Downtime Monitor](https://status.portkey.ai/) - Free tool that tracks API uptime and latencies for various OpenAI models and other LLM providers.
 - [ChatWithCloud](https://chatwithcloud.ai/) - CLI allowing you to interact with AWS Cloud using human language inside your Terminal.
+- [boss-agent-cli](https://github.com/can4hou6joeng4/boss-agent-cli) - AI-agent-first CLI and MCP server for BOSS Zhipin job search and recruiter workflows, with structured JSON output, chat/pipeline automation, and interview prep tools. [#opensource](https://github.com/can4hou6joeng4/boss-agent-cli)
 - [SinglebaseCloud](https://singlebase.cloud) - AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.
 - [Maxim AI](https://www.getmaxim.ai/) - A generative AI evaluation and observability platform, empowering modern AI teams to ship products with quality, reliability, and speed.
 - [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
