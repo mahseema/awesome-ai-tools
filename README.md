@@ -10,6 +10,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Contents
 
+- [Consensus Engine](https://github.com/MICONNM/consensus-engine-py) - Ask one question to 11 frontier LLMs in parallel, get a synthesized consensus answer with confidence score. Open-source Python SDK + free public API.
 - [🌟 Editor's Choice](#editors-choice)
 - [📝 AI Text](#text)
 - [👩‍💻 Code with AI](#code)
