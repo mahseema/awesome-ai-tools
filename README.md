@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [AgentKit](https://github.com/MukundaKatta/agentkit) - The agent reliability stack in one install: token-aware truncation (fit), egress firewall (guard), tool-call snapshot tests (snap), arg validation (vet), and structured-output enforcement (cast). [#opensource](https://github.com/MukundaKatta/agentkit)
 
 
 ## Code
