@@ -165,6 +165,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [FARSITE](https://far.site/) - AI-powered Compliance Software for U.S. Government Contractors
 - [GOSH](https://gosh.app) - Free AI Price Tracker - Track any price of any product at any store using AI
 - [BrainSoup](https://www.nurgo-software.com/products/brainsoup) Multi-agent & multi-LLM native client where AIs can remember, react to events, use tools, leverage local and external resources, and work together autonomously.
+- [KinthAI](https://agents.kinthai.ai) - Multi-tenant AI agent platform built on OpenClaw. Persistent per-user memory across sessions, multi-agent group chat (221 agents tested), agent marketplace with revenue sharing, character card import from Character.AI/SillyTavern ecosystem. Free tier available.
 - [MindPal](https://mindpal.space/) - Build your AI Second Brain with a team of AI agents and multi-agent workflow
 - [fabric](https://github.com/danielmiessler/fabric/) - Apply AI to everyday challenges in the comfort of your terminal. Help’s to get better results with tried and tested library of prompt pattern’s.
 - [Riffo](https://riffo.ai/) - An AI-powered file management tool for bulk renaming and automatic folder organization.
