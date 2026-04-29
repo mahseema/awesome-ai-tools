@@ -272,6 +272,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
 
 
+- [pdfmux](https://pdfmux.com) - Open-source PDF extraction orchestrator. Routes each page to the best of 5 backends (PyMuPDF, OpenDataLoader, RapidOCR, Docling) with optional BYOK LLM fallback. Per-page confidence scoring catches and re-extracts failures. Ranks #2 on opendataloader-bench. Built-in MCP server. [#opensource](https://github.com/NameetP/pdfmux)
+
 ## Code
 
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
