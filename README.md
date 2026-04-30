@@ -343,6 +343,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Human Generator](https://generated.photos/human-generator) - AI generator or realistic looking photos of humans.
 - [VectorArt.ai](https://vectorart.ai) - Create vector images with AI.
 - [StockPhotoAI.net](https://www.stockphotoai.net/?ref=mahseema-awesome-ai-tools) - Great stock photos, made for you.
+- [ThreeDee AI 3D Generator](https://www.threedee.design/products/ai-3d-generator/) - Generate 3D models from text prompts or a single image for creative and production workflows.
+- [ThreeDee AI 3D Bust Maker](https://www.threedee.design/products/3d-bust-maker/) - Generate printable 3D bust models from one portrait photo.
 - [Room Reinvented](https://roomreinvented.com) - Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
 - [Gensbot](https://gensbot.com) - Gensbot uses AI to craft personalised printed merchandise. One prompt creates one unique product to fit your needs.
 - [PlantPhotoAI](https://www.plantphotoai.com/) - free AI-generated plant images
