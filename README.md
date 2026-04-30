@@ -547,6 +547,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Melies](https://melies.co) - AI Filmmaking software
 
 
+- [Suprsonic](https://suprsonic.ai) - Unified agent API: search, scrape, enrich, image gen, TTS, STT, messaging through one API key. 20+ capabilities, MCP server, TypeScript and Python SDKs.
 ## Learning resources
 
 - [Learn Prompting](https://learnprompting.org/) - A free, open-source course on communicating with artificial intelligence.
