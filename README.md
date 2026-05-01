@@ -220,6 +220,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Inline Help](https://inlinehelp.com) - Answer customer questions before they ask
 - [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
 - [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
+- [Frigade](https://frigade.com/?ref=mahseema-awesome-ai-tools) - In-product AI assistant that learns your SaaS app autonomously, answers user questions in-app, and takes actions on the user's behalf to deflect support tickets.
 
 
 ### Other text generators
