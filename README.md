@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [Skilly](https://tryskilly.app) - Voice-first AI tutor for Mac that watches your screen and walks you through any app (Blender, Figma, Xcode, Photoshop) in real time. Built on OpenAI Realtime API + ScreenCaptureKit. Open source under Apache-2.0. 20+ languages with auto-detect.
 
 
 ### Meeting assistants
