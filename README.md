@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [TravelMaxing](https://travelmaxing.app) - AI-powered multi-destination trip planner. Generates itineraries, optimizes routes, and breaks down per-country travel budgets using real cost-of-living and live flight data.
 
 
 ## Learning resources
