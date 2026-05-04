@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [agent-orchestrator](https://github.com/sarmakska/agent-orchestrator) - Open-source TypeScript framework for durable multi-agent workflows. Postgres event journal for deterministic replay, BullMQ step queue, hard tool/token/wall-clock budgets, and a web Inspector UI to walk any run step by step.
 
 
 ## Code
