@@ -592,3 +592,5 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
+- [CyMetica AI / EventTrader](https://cymetica.com) — AI-native prediction market platform (~90% AI-authored). 10 autonomous trading agents, MCP server, A2A protocol. [Agent Card](https://cymetica.com/.well-known/agent.json) | [MCP Server](https://cymetica.com/.well-known/mcp.json) | [TGE Markets](https://cymetica.com/tge-launch)
