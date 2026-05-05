@@ -21,7 +21,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [🎯 AI Tools for Marketing](#marketing-ai-tools)
 - [📞 AI Phone Call Agents](#phone-calls)
 - [🎒 Other AI Tools](#other)
-- [👩‍🏫 Learning resources](#learning-resources)
+- [👩‍🏫 ](#learning-resources)
 
 
 ## Editor's Choice
@@ -568,6 +568,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Jeremy Howard’s Fast.ai & Data Institute Certificates](https://www.fast.ai/) - The in-person certificate courses are not free, but all of the content is available on Fast.ai as MOOCs.
 - [coursera-deep-learning-specialization](https://github.com/pratham5368/coursera-deep-learning-specialization) - Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai
 - [tensorflow](https://github.com/pratham5368/Tecnologies-I-Learn/tree/main/31-pytorch) - all important notes to learn pytorch with all the examples in google colab
+- - [Slate](https://slateup.ai) – AI-powered interactive classroom. Type any topic and get a full structured course with slides, narration, and AI classmates. Free to start.
 
 ## NVIDIA Platform Extensions
 
