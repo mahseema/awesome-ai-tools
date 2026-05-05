@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Nylas CLI](https://cli.nylas.com) - Email, calendar, and contacts MCP server for AI agents. 16 tools across Gmail, Outlook, Exchange, Yahoo, iCloud, and IMAP via one auth flow. Install with `nylas mcp install`. [#opensource](https://github.com/nylas/cli)
 
 
 ## Code
