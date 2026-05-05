@@ -302,6 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [Pyanchor](https://github.com/pyanchor/pyanchor) - Self-hosted live-edit sidecar for Next.js / Vite / Astro apps. Click an element in your running app, describe a UI change in plain text, and a pluggable AI agent (Codex / Claude / Aider / Gemini / Pollinations) edits the source, runs the build, and either reloads the dev server or opens a PR for review. MIT.
 
 
 ## Image
