@@ -265,6 +265,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Notte](https://github.com/nottelabs/notte) - Notte is the fastest, most reliable Browser Using Agents framework
 - [TensorZero](https://www.tensorzero.com/) - An open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
 - [ToolHive](https://github.com/stacklok/toolhive) – Find the right MCP server for your task and deploy with one click. 
+- [Sifter](https://github.com/sifter-ai/sifter) - Open-source document extraction engine. Turns collections of documents (invoices, contracts, receipts, photos, scans) into typed records queryable in natural language. Includes REST API, Python and TypeScript SDKs, CLI, and an MCP server for Claude, ChatGPT, Gemini, or any MCP client.
 - [StarOps](https://ingenimax.ai) - AI Platform Engineer
 - [AgentDock](https://agentdock.ai) - Unified infrastructure for AI agents and automation. One API key for all services instead of managing dozens. Build production-ready agents without operational complexity.
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
