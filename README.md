@@ -70,6 +70,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ### Search engines
+- [Lexicon](https://dbssearch.today): **Comparison Intelligence Engine.** Retrieves live evidence from 20 independent sources, applies PESTLE, VS comparison, and Deep Research frameworks for autonomous enterprise research. Free test endpoint. MCP-compatible.
 
 - [Kazimir.ai](https://kazimir.ai/) - A search engine designed to search AI-generated images. 
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
