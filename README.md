@@ -125,7 +125,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### ChatGPT extensions
 
-- [Gist AI](https://www.gistai.tech?utm_source=tool_directory&utm_medium=post&utm_campaign=launch) - ChatGPT-powered free Summarizer for Websites, YouTube and PDF.
+- [Gist AI](https://www.gistai.tech?utm_source=tool_<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6468e49f-4f93-4318-bd92-552243024d8f" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11eddafa-2de2-4bad-aeb3-36c3eea23493" />
+&utm_medium=post&utm_campaign=launch) - ChatGPT-powered free Summarizer for Websites, YouTube and PDF.
 - [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - Augment your ChatGPT prompts with relevant results from the web.
 - [GPT for Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) - ChatGPT extension for Google Sheets and Google Docs.
 - [YouTube Summary with ChatGPT](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) - Use ChatGPT to summarize YouTube videos.
@@ -589,6 +590,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)
 - [Top AI Directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
+- [GateOnAI](https://www.gateonai.com) - Curated directory of 470+ AI tools with side-by-side comparison, Stack Builder, and AI-powered tool finder.
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
