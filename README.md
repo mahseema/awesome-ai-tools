@@ -121,6 +121,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [DeepL Write](https://www.deepl.com/write) - AI writing tool that improves written communication.
 - [Headlinesai.pro](https://www.headlinesai.pro/) - This AI powered tool can help you in generating catchy and optimized headlines based on your content for multiple platforms like Youtube, Medium, Indie Hackers and Reddit.
 - [GPTLocalhost](https://gptlocalhost.com/demo/) - A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and completely local.
+- [Letterfork](https://letterfork.com) - AI rewrites a newsletter into 7 platform-native social posts (LinkedIn, X, Bluesky, Substack Notes, Threads, Instagram, Reddit) in your own writing voice. Voice cloning learns from your past writing; no auto-publishing.
 
 
 ### ChatGPT extensions
