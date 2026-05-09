@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[LLMs.txt Generator](https://llms-txt-generator.net/)** - Free tool to generate a spec-compliant llms.txt file for any website, making your content visible to AI crawlers like ChatGPT and Perplexity. No signup required.
 
 
 ### Phone Calls
