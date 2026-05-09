@@ -67,6 +67,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Gali Chat](https://www.galichat.com/) - *[reviews](#)* - Your 24/7 AI Support Assistant that helps you grow your business!
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://altern.ai/product/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
+- [Enclave](https://github.com/yuanzui0728/enclave) - Open-source, self-hosted Character.AI / Replika alternative. AI residents chat with you, post to a feed, run group chats, and interact with each other (NestJS + React + Tauri, Docker Compose, OpenAI/DeepSeek compatible).
 
 
 ### Search engines
