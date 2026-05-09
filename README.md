@@ -244,6 +244,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine-tune LLM, CV, and tabular models.
 - [Prediction Guard](https://www.predictionguard.com/) - Seamlessly integrate private, controlled, and compliant Large Language Models (LLM) functionality.
 - [Portkey](https://portkey.ai/) - Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.
+- [llm-prices](https://github.com/benbencodes/llm-prices) - Zero-dependency CLI and Python library to look up, compare, and calculate LLM API costs across 14 providers (OpenAI, Anthropic, Google, Bedrock, SambaNova, Groq, and more). No API key required — pricing data is baked in.
 - [OpenAI Downtime Monitor](https://status.portkey.ai/) - Free tool that tracks API uptime and latencies for various OpenAI models and other LLM providers.
 - [ChatWithCloud](https://chatwithcloud.ai/) - CLI allowing you to interact with AWS Cloud using human language inside your Terminal.
 - [SinglebaseCloud](https://singlebase.cloud) - AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.
