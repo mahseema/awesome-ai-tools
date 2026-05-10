@@ -592,3 +592,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
+## Detection Tools
+
+- [EyeSift](https://www.eyesift.com/) - Free AI content detector for text, images, video, audio. Per-LLM accuracy data (GPT-5, Claude Opus, Gemini). Cites NIST AI 100-4.
+
