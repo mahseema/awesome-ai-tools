@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[Beton](https://www.getbeton.ai/)** - Open-source AI revenue intelligence. Auto-detects buying, expansion, and churn signals from PostHog product usage and routes them to your CRM (Attio, HubSpot, Pipedrive). Self-host AGPLv3 or managed cloud.
 
 
 ### Phone Calls
