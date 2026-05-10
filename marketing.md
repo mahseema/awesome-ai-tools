@@ -22,6 +22,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Copy.ai](https://www.copy.ai/)** - AI-powered copywriting tool for generating ad copy, product descriptions, and website content.
 - **[Writesonic](https://writesonic.com/)** - AI writing assistant for marketing content, blogs, and sales copy generation.
 - **[AI Story Book](https://aistorybook.app)** – Illustrated AI storybooks with tools for sharing on socials. Great for marketing through storytelling.
+- **[Side Hustle Content Engine 副业内容引擎](https://odd-carrots-fly.loca.lt)** - Free AI copy generator for Chinese e-commerce platforms. Generate optimized copy for 闲鱼, 小红书, 微信朋友圈, and 公众号. DeepSeek-powered, no registration required.
 
 ## Personalization
 
