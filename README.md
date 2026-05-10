@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[NotFair](https://notfair.co)** - Google Ads MCP server for AI agents. Connect Claude or Cursor to your Google Ads account: diagnose performance, recommend optimizations, and execute approved campaign changes via the Google Ads API. Free tier available.
 
 
 ### Phone Calls
