@@ -359,6 +359,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ### Graphic design
+- [LandscapioAI](https://www.landscapioai.com/) - AI landscape design generator and outdoor project planner that turns yard, garden, patio, and outdoor photos into design concepts, planting ideas, and cost-aware project plans.
 
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
