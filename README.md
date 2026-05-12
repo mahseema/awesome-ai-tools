@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Dakera](https://github.com/dakera-ai/dakera-mcp) - Self-hosted MCP-native agent memory server. Gives AI agents persistent, decay-weighted memory via 83 MCP tools — no cloud, full data control. RocksDB + HNSW backend, 87.8% LoCoMo benchmark. Works with Claude Code, Cursor, and any MCP-compatible agent. [#opensource](https://github.com/dakera-ai/dakera-mcp)
 
 
 ## Code
