@@ -255,6 +255,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Plandex](https://github.com/plandex-ai/plandex) - Open source, terminal-based AI programming engine for complex tasks.
 - [AI/ML API](https://aimlapi.com/?utm_source=github+of+altern.ai) - AI/ML API gives developers access to 100+ AI models with one API.
 - [Callstack.ai PR Reviewer](https://callstack.ai/pr-reviewer) - Automated Code Reviews: Find Bugs, Fix Security Issues, and Speed Up Performance.
+- [skill-audit-mcp](https://github.com/eltociear/skill-audit-mcp) - Static security scanner for MCP servers, AI agent skills, and plugins. Detects 68 attack patterns across CRITICAL/HIGH/MEDIUM/LOW — credential exfiltration, prompt injection, code execution, seed-phrase harvest, auth bypass, path traversal. Ships as a GitHub Action, multi-arch Docker image, MCP server, and hosted x402 API. SARIF output for GitHub Code Scanning. [#opensource](https://github.com/eltociear/skill-audit-mcp)
 - [Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
 - [Kiln](https://getkiln.ai) - Intuitive app to build your own AI models. Includes no-code synthetic data generation, fine-tuning, dataset collaboration, and more.
 - [Calmo](https://getcalmo.com/) - Debug Production x10 Faster with AI.
