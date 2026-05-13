@@ -355,7 +355,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - [PlantTattoosAI](https://www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
-
+- [RoomFlip](https://roomflip.pro) - AI room design and virtual staging from a single room photo. 12+ design styles, image-to-image preservation of real walls/windows. Includes Listing Kit for MLS / Zillow / Instagram copy generation. Built for real estate agents, Airbnb hosts, and homeowners.
 
 
 ### Graphic design
