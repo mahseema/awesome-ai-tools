@@ -529,6 +529,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Interview Solver](https://interviewsolver.com) - Ace your live coding interviews with our AI Copilot
 - [Socialsonic](https://socialsonic.com) - AI LinkedIn Coach: Personalized content, trends & scheduling.
 - [Napkin](https://www.napkin.ai/) - Napkin turns your text into visuals so sharing your ideas is quick and effective.
+- [Sabero](https://sabero.co/) - AI-powered ICFES Saber 11 exam prep platform for Colombian students, with 10,000+ practice questions, an AI tutor per question, a personal AI coach, and IRT-based score estimation. Free to start.
 - [Exam Samurai](https://www.examsamur.ai/) - AI Exam Generator
 - [AI Watermark Remover](https://aiwatermarkremover.io/) - Remove watermarks from images and videos.
 - [AISaver](https://aisaver.io) - Collection of AI Powered Video and Photo Tools
