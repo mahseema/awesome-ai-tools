@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [EuroForge AI Cost Calculator](https://euroforge-autopilot.vercel.app/chatgpt-team-cost-calculator/) - Estimate wasted ChatGPT Team seats, duplicate AI subscriptions, and LLM API spend from one AI cost worksheet.
 
 
 ### Meeting assistants
