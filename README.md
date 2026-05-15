@@ -20,6 +20,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
   - [Music Generation](#ai-music-generators)
 - [🎯 AI Tools for Marketing](#marketing-ai-tools)
 - [📞 AI Phone Call Agents](#phone-calls)
+- [⛏️ RustChain](https://rustchain.xyz) - DePIN mining network using AI agents on vintage hardware
 - [🎒 Other AI Tools](#other)
 - [👩‍🏫 Learning resources](#learning-resources)
 
