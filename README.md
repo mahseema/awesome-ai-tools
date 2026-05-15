@@ -227,6 +227,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
 - [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
 - [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=mahseema-awesome-ai-tools) - Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
+- [AI Soul Meter](https://aisoulmeter.com) - AI-powered personality analysis that compares your conversation style to famous AI models like GPT-4, Claude, and Gemini. Like MBTI, but for the AI age. Free, no signup.
 
 
 ### Developer tools
