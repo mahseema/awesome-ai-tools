@@ -447,6 +447,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Marketing AI Tools
 
+- [WebCoreLab](https://webcorelab.com) — AI-powered SEO audit (272 checks) + GEO/AEO optimization. Tracks AI citation rate in ChatGPT, Claude, Perplexity, Google AI Overviews. Toronto agency.
 *You can also find  more comprehensive list on *[Marketing List](https://github.com/mahseema/awesome-ai-tools/blob/main/marketing.md)*
 
 - **[Jasper AI](https://www.jasper.ai/)** - AI-powered tool for generating marketing content like blogs, emails, and ad copy.
