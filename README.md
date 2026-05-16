@@ -492,6 +492,10 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research for generating high-fidelity music from text descriptions.
 - [Remusic](https://remusic.ai/en) - AI Music Generator and Music Learning Platform Online Free.
 
+### AI Thumbnail Maker
+
+- [ThumblifyAI](https://thumblifyai.com) - AI thumbnail maker that helps creators make high-converting YouTube thumbnails in their own style, with their own face, recreate winning thumbnail styles, and generate click-worthy thumbs in seconds.
+
 ## Other
 
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
