@@ -470,6 +470,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AICaller.io](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
 - [AI Voice Agents](https://diallink.com/) — AI Voice Agents for business calls and routine tasks, powered by DialLink cloud phone system.
 - [Cald.ai](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
+- [OnCrew](https://oncrew.ai) - AI answering service for home-service contractors (HVAC, plumbing, electrical, roofing). 24/7 inbound call answering with trade-specific intake, safety-branch triage, and Priority-1 SMS handoff to the on-call human technician within 90 seconds. Flat $49-$349/mo, no per-minute meter. Free [60-question intake checklist](https://oncrew.ai/tools/contractor-call-intake-questions) and CC-BY-4.0 [JSON API](https://oncrew.ai/api/triage-questions).
 - [Rosie](https://heyrosie.com/) - AI Phone Answering Service
 
 ### Speech
