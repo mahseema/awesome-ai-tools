@@ -268,6 +268,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [StarOps](https://ingenimax.ai) - AI Platform Engineer
 - [AgentDock](https://agentdock.ai) - Unified infrastructure for AI agents and automation. One API key for all services instead of managing dozens. Build production-ready agents without operational complexity.
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
+- [click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) - Auto-wrap any Click/typer CLI as an MCP server. Let AI coding agents (Claude Code, Codex) use your existing CLIs as MCP tools with zero code changes.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
 
