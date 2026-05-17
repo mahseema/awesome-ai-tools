@@ -469,6 +469,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ### Phone Calls
 - [AICaller.io](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
 - [AI Voice Agents](https://diallink.com/) — AI Voice Agents for business calls and routine tasks, powered by DialLink cloud phone system.
+- [Bella (Joanna)](https://bella.salon/ai-receptionist-for-salons/) - Vertical AI voice receptionist for salons. Answers missed calls 24/7, books directly into the salon's POS, runs SMS follow-up, and captures post-visit ratings. 14-day free trial.
 - [Cald.ai](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
 - [Rosie](https://heyrosie.com/) - AI Phone Answering Service
 
