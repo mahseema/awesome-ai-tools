@@ -199,6 +199,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Sybill](https://www.sybill.ai/) - Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
 - [Loopin AI](https://www.loopinhq.com/) - Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar.
 - [Scribbl](https://www.scribbl.co) - AI Meeting Notes
+- [Soda](https://www.getsoda.app) - The knowledge layer for customer-facing teams. Captures what your team learns from every call, page, and conversation.
 
 ### Academia
 
