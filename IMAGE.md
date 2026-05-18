@@ -40,6 +40,7 @@ A curated list of AI tools for image processing, generation, editing, and enhanc
 
 - **[TinyPNG](https://tinypng.com/)** - AI-based image compression tool that reduces image file sizes while maintaining high quality.
 - **[Squoosh](https://squoosh.app/)** - Open-source image compression tool powered by AI that reduces image size without losing visible quality.
+- **[BulkPicTools](https://bulkpictools.com/)** - Free browser-based bulk image processing suite with local AI. Compress, convert (HEIC/WebP/AVIF), crop, and remove backgrounds for 200+ images at once — with tool chaining so results flow directly into the next step without re-uploading. AI features (background removal, face blur) run via WebGPU/WASM on-device, no API key needed.
 
 ---
 
