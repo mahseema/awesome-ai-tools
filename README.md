@@ -32,6 +32,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Murf AI](https://get.murf.ai/v8i9to5ad4oq) - Create voiceover with the most lifelike AI voices.
 - [SaneBox](https://try.sanebox.com/yzkpe5s68xk2) - an email management software as a service that integrates with IMAP and Exchange Web Services email accounts.
 - [MeetGeek](https://get.meetgeek.ai/zmrnb5xlyfs9) - an AI meeting assistant that automatically video records, transcribes, summarizes, and provides the key points from every meeting.
+- - [CLAWVR](https://clawvr.com) - $297 one-time AI Operating System custom-built for small businesses. Generates 18 industry-specific deliverables including a master Claude system prompt, 18 superprompts, workflow audit, ROI calculator, and 30-day deployment roadmap from a 3-minute intake form.
 
 
 ## Text
