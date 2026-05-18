@@ -143,6 +143,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ### Productivity
 
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
+- [remio](https://www.remio.ai/) - Personal AI agent that passively builds a private knowledge base from everything you work on, then helps you draft docs, reports, emails, and slides — powered by your own context.
 - [Taskade](https://www.taskade.com/) -  Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation—all within a unified workspace.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
 - [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
