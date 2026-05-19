@@ -592,3 +592,5 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
+- [PostMTA](https://postmta.com) - Enterprise email delivery platform built on KumoMTA. Multi-tenant MTA with bounce handling, DKIM/SPF/DMARC support.
