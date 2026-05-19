@@ -121,6 +121,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [DeepL Write](https://www.deepl.com/write) - AI writing tool that improves written communication.
 - [Headlinesai.pro](https://www.headlinesai.pro/) - This AI powered tool can help you in generating catchy and optimized headlines based on your content for multiple platforms like Youtube, Medium, Indie Hackers and Reddit.
 - [GPTLocalhost](https://gptlocalhost.com/demo/) - A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and completely local.
+- [KDP Readiness Score](https://publishing.co.uk/audit/kdp-readiness/) - Free 60-second pre-flight audit for self-publishing authors. Runs 30+ technical checks against an uploaded manuscript PDF (margins, bleed, font embedding, image DPI, ToC integrity, ISBN match, EPUB validity) and returns a score plus remediation report.
 
 
 ### ChatGPT extensions
