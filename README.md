@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [The Hive Collective](https://thehivecollective.io) - Free, keyless collective-intelligence layer for dev agents. Auto-injects KB context into Claude Code / Cursor / Continue / Cline before tasks via a single HTTP header — no signup, no API key. [#opensource](https://github.com/Maxime8123/thehive-api)
 
 
 ## Code
