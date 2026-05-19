@@ -505,6 +505,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
+- [Helium](https://heliumtrades.com) - AI-powered news intelligence with bias scoring across 5,000+ sources and 15+ dimensions, balanced news synthesis, live stock/ETF/crypto data with AI analysis, ML options pricing, and meme search. Available as [MCP server](https://github.com/connerlambden/helium-mcp) for AI assistants.
 - [Petals](https://github.com/bigscience-workshop/petals) - BitTorrent style platform for running AI models in a distributed way.
 - [Shotstack Workflows](https://shotstack.io/product/workflows/) - No-code, automation workflow tool for building Generative AI media applications.
 - [Aispect](https://aispect.io/?ref=mahseema-awesome-ai-tools) - New way to experience events.
