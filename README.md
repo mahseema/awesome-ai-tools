@@ -592,3 +592,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
+## Security & Safety
+
+- [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) - Official OWASP reference implementation for AI agent memory poisoning defense. Protects against ASI06 (Memory Poisoning) attacks in production AI agent deployments. `pip install agent-memory-guard`
