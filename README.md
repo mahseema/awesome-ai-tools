@@ -1,5 +1,8 @@
 # Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+* [Ano](https://ano.chat) - A collaborative shell with built-in AI integration (Claude Code) and custom CLI/MCP automations designed for elite devs.
+
+
 > A curated list of Artificial Intelligence Top Tools
 >
 > Feel free to contribute and also submit your AI tools on [altern.ai](https://altern.ai/?utm_source=awesomeaitools) for free
