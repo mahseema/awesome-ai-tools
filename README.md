@@ -106,6 +106,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Lex](https://lex.page/) - A word processor with artificial intelligence baked in, so you can write faster.
 - [Jenni](https://jenni.ai/) - Jenni is the ultimate writing assistant that saves you hours of ideation and writing time.
 - [LAIKA](https://www.writewithlaika.com/) - LAIKA trains an artificial intelligence on your own writing to create a personalised creative partner-in-crime.
+- [Lynote AI Humanize Text](https://github.com/lynote-ai/humanize-text) - Open-source AI text humanizer for polishing AI drafts into natural writing. Full free web version: https://lynote.ai/ai-humanizer
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [RapidTextAI](https://app.rapidtextai.com/) - Write Advance Articles using Multiple AI Models like GPT4, Gemini, Deepseek and grok.
