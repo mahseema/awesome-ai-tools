@@ -402,6 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [Seedance AI](https://seedance2.cloud/) - AI video generation platform powered by Seedance 2.0 model - cinematic 1080p text-to-video and image-to-video with motion control.
 
 
 ### Animation
