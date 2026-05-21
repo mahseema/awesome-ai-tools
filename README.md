@@ -167,6 +167,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [BrainSoup](https://www.nurgo-software.com/products/brainsoup) Multi-agent & multi-LLM native client where AIs can remember, react to events, use tools, leverage local and external resources, and work together autonomously.
 - [MindPal](https://mindpal.space/) - Build your AI Second Brain with a team of AI agents and multi-agent workflow
 - [fabric](https://github.com/danielmiessler/fabric/) - Apply AI to everyday challenges in the comfort of your terminal. Help’s to get better results with tried and tested library of prompt pattern’s.
+- [PM AI Skills](https://github.com/Yoyogithup/pm-ai-skills) - Open-source AI agent skills for product managers — automates PRD writing, performance reviews, survey questionnaire design, and demo recording.
 - [Riffo](https://riffo.ai/) - An AI-powered file management tool for bulk renaming and automatic folder organization.
 - [SlidesWizard](https://slideswizard.io) - Create Presentations 10x faster. Generate PowerPoint and Google Slides presentations about any topic with AI
 - [Transgate](https://transgate.ai/) - AI Speech to Text
