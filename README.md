@@ -32,6 +32,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Murf AI](https://get.murf.ai/v8i9to5ad4oq) - Create voiceover with the most lifelike AI voices.
 - [SaneBox](https://try.sanebox.com/yzkpe5s68xk2) - an email management software as a service that integrates with IMAP and Exchange Web Services email accounts.
 - [MeetGeek](https://get.meetgeek.ai/zmrnb5xlyfs9) - an AI meeting assistant that automatically video records, transcribes, summarizes, and provides the key points from every meeting.
+- [AgentKey](https://github.com/chainbase-labs/Agentkey) - Unified MCP server that gives any AI agent (Claude, Cursor, n8n, Make) one-install access to web search, structured scraping, 20+ social platforms (X, TikTok, Reddit, LinkedIn, Xiaohongshu), and crypto / on-chain data. One key, one bill, any MCP client.
 
 
 ## Text
