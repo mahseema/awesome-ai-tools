@@ -40,6 +40,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 > *More complete list of AI Models: [Awesome AI Models](https://github.com/dariubs/awesome-ai-models)*
 
+- [AI Models Catalog](https://github.com/i-need-token/ai-models) - Structured YAML catalog of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities. Interactive catalog with comparison, cost calculator, and model picker.
+
 - [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
 - [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model.
 - [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) hosted by Alpa.
@@ -578,6 +580,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - [Altern](https://altern.ai) - Find Best AI Tools
 - [AI For Developers](https://aifordevelopers.org) - List of AI DevTools
+- [AI Models Catalog](https://github.com/i-need-token/ai-models) - Structured database of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities
 - [Best of AI](https://github.com/best-of-ai/best-of-ai) - Like Michelin Guide for AI
 - [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
 - [Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - Curated list of AI-powered developer tools.
