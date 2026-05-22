@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [TeamOffsite](https://teamoffsite.ai) - Build and operate agent teams without code, from [mercury.build](https://mercury.build). Bring your own agents such as Cursor, Claude Code, Devin, and OpenClaw, and manage orchestration and governance from a single place.
 
 
 ## Learning resources
