@@ -13,7 +13,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [🌟 Editor's Choice](#editors-choice)
 - [📝 AI Text](#text)
 - [👩‍💻 Code with AI](#code)
-- [🖼️ Generative AI Images ](#image)
+- [🖼️ Generative AI Images ](#image)h
 - [📽️ Generative AI Video](#video)
 - [🎶 Generative AI Audio](#audio)
   - [Voice Cloning](#ai-voice-cloning)
@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- - [Lucy Agent](https://github.com/Woodman97/lucy-agent) - Open-source pay-per-task AI micro-agent. Send USDC on Base L2 or Solana for writing, research, code, DeFi analysis, and agent orchestration. No subscriptions, no accounts. Supports A2A, MCP, x402 (HTTP micropayments), Agentmail, and Telegram.
 
 
 ## Learning resources
