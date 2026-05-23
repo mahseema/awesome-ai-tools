@@ -67,6 +67,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Gali Chat](https://www.galichat.com/) - *[reviews](#)* - Your 24/7 AI Support Assistant that helps you grow your business!
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://altern.ai/product/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
+- [Nodea](https://nodea.ai) - Branching AI chat canvas built on Claude. Fork any reply, compare branches side-by-side, and never lose context — tree-shaped conversations instead of a linear thread.
 
 
 ### Search engines
