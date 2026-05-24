@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [SWEN.AI GitHub Radar](https://swen.ia.br/github-radar) - Brazilian Portuguese radar of trending open-source AI repositories on GitHub. Combines github.com/trending with the GitHub Search API to track LLMs, AI agents, MCP servers, RAG, computer vision, audio generation, and diffusion models in real time. Updates every 30 minutes via ISR and daily Supabase snapshots for delta calculations.
 
 
 ## Code
