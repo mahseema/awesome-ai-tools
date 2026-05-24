@@ -180,6 +180,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Summara](https://summara.io/) - YouTube AI Summary and Transcript widget
 - [Mocha](https://getmocha.com) - AI app builder
 - [Marblism](https://marblism.com) - AI Employees for your business
+- [Sistava](https://sistava.com) - Hire AI employees to run your entire business, from sales and marketing, to customer support.
 - [Spell](https://spellapp.com) - Spell is the AI alternative to Google Docs
 - [Kosmik](https://www.kosmik.app) - AI moodboarding platform
 - [Magic Potion](https://www.magicpotion.app) - Visual AI Prompt Editor
