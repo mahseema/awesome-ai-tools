@@ -355,8 +355,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - [PlantTattoosAI](https://www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
-
-
+- [STORYLINER](https://www.storyliner.online/) - AI storyboard generator for film and ad pre-production. Turns screenplays into production-quality storyboards in under 2 minutes with consistent characters across every frame thanks to its Character Memory engine. 6 art styles (sketch, lineart, classic, pen art, realism, simple). Free tier with no credit card.
 
 ### Graphic design
 
