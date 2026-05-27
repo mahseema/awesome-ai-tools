@@ -194,6 +194,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Meeting assistants
 
+- [Speechara](https://speechara.ai/) - Real-time translation, live captions, and AI meeting assistance for conversations across meeting and calling apps.
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
 - [Cogram](https://www.cogram.com/) - Cogram takes automatic notes in virtual meetings and identifies action items.
 - [Sybill](https://www.sybill.ai/) - Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
