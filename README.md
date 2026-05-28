@@ -577,6 +577,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Related Awesome Lists
 
 - [Altern](https://altern.ai) - Find Best AI Tools
+- [AIToolIndex](https://aitoolindex.io/) - Searchable AI tool directory for comparing AI software by category, pricing, use case, and workflow fit.
 - [AI For Developers](https://aifordevelopers.org) - List of AI DevTools
 - [Best of AI](https://github.com/best-of-ai/best-of-ai) - Like Michelin Guide for AI
 - [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
