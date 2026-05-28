@@ -302,6 +302,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [RapidNative](https://rapidnative.com/) - AI-native mobile app builder that turns ideas, sketches, or screenshots into working React Native and Expo apps with editable production-ready code.
+- [AppLighter](https://applighter.com/) - Production-ready React Native and Expo app templates designed to be extended by AI coding agents (Cursor, Claude Code) with layered architecture and pre-configured AGENTS.md / CLAUDE.md / .cursorrules.
 
 
 ## Image
