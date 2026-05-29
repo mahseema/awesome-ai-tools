@@ -450,6 +450,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 *You can also find  more comprehensive list on *[Marketing List](https://github.com/mahseema/awesome-ai-tools/blob/main/marketing.md)*
 
 - **[Jasper AI](https://www.jasper.ai/)** - AI-powered tool for generating marketing content like blogs, emails, and ad copy.
+- **[Free Marketing Tools JP](https://free-marketing-tools.jp)** - 50 free AI marketing tools (ad copy, LP headlines, CTA wording, SEO audit, persona builder) in one page. Japanese SMB-focused, no signup.
 - **[Mutiny](https://www.mutinyhq.com/)** - Personalization platform to improve website conversions using AI.
 - **[Clearbit](https://clearbit.com/)** - Lead enrichment and data intelligence platform.
 - **[Seventh Sense](https://www.theseventhsense.com/)** - AI tool for email send time optimization.
@@ -495,6 +496,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Other
 
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
+- [Free AI Tools JP](https://free-ai-tools.jp) - 63 free AI tools (text generation, image generation, meeting transcription, contract review) usable in one click. Japanese-first, no signup.
+- [Free Letter Tools JP](https://free-tegami-tools.jp) - 65 free AI tools for traditionally difficult Japanese writing — wedding speeches, eulogies, New Year cards, business correspondence. No signup.
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
