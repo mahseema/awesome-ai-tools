@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Agentic Task System](https://github.com/renezander030/agentic-task-system) - Agent-native context layer over the task app you already use (TickTick today; Notion/Obsidian on the roadmap). Hybrid retrieval (dense + sparse + keyword fused via RRF) over your tasks/notes, exposed to coding agents via a CLI with pluggable storage adapters. [#opensource](https://github.com/renezander030/agentic-task-system)
 
 
 ## Code
