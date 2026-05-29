@@ -66,6 +66,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AICamp](https://aicamp.so/) - *[reviews](#)* - ChatGPT for Teams
 - [Gali Chat](https://www.galichat.com/) - *[reviews](#)* - Your 24/7 AI Support Assistant that helps you grow your business!
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://altern.ai/product/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
+- [FreeAI.help](https://freeai.help) - Free AI tools including image generation (Flux) and AI chat (DeepSeek). No sign-up required.
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
 
 
@@ -355,6 +356,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - [PlantTattoosAI](https://www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
+- [FreeAI.help](https://freeai.help) - Free AI image generation powered by Flux. No sign-up required, generate images instantly.
 
 
 
