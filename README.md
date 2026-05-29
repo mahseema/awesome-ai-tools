@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [MonkeyEatingMango](https://monkeyeatingmango.com) - Free AI travel planner that turns 8 tap-based questions into a full day-by-day itinerary with daily budgets, a food guide, and Google Maps routes. No signup, free PDF/Excel export.
 
 
 ## Learning resources
