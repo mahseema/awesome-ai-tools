@@ -142,6 +142,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Productivity
 
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Free open-source AI study companion. Google Classroom sync, Gemini AI study plans, SRS flashcards, GPA calculator, AI quiz generator, MCP server for Claude Code. ([Demo](https://shiori-v1.vercel.app))
+
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [Taskade](https://www.taskade.com/) -  Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation—all within a unified workspace.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
@@ -201,6 +203,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Scribbl](https://www.scribbl.co) - AI Meeting Notes
 
 ### Academia
+
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Free open-source AI study companion. Google Classroom sync, Gemini AI plans, SRS flashcards, GPA calculator, AI quiz generator, MCP server for Claude Code. ([Demo](https://shiori-v1.vercel.app))
 
 - [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
 - [genei](https://www.genei.io/) - Summarise academic articles in seconds and save 80% on your research times.
