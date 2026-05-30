@@ -71,6 +71,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Search engines
 
+- [Agent Critiq](https://agentcritiq.com) - The independent verification layer and side-by-side comparison matrix for 500+ AI agents, coding assistants, and productivity tools.
 - [Kazimir.ai](https://kazimir.ai/) - A search engine designed to search AI-generated images. 
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
 - [Metaphor](https://metaphor.systems/) - Language model powered search.
