@@ -545,7 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
-
+- [Hoppi](https://gethoppi.app) - Free-first AI agent router. Hit a rate limit on Claude, ChatGPT, or Gemini? Paste your last prompt, get the next free AI, copy your context, keep working.
 
 ## Learning resources
 
