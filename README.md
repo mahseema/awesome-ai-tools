@@ -142,6 +142,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Productivity
 
+- [AI Toolbox](https://tyr1105.github.io/ai-toolbox/) - 6 free AI-powered productivity tools: email writer, PPT outline generator, video script generator, weekly report generator, Xiaohongshu copywriter, and AI tool hub. No login required, 100% free. ([Source Code](https://github.com/tyr1105/ai-toolbox))
+
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [Taskade](https://www.taskade.com/) -  Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation—all within a unified workspace.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
