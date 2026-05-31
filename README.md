@@ -485,6 +485,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [CustomPod.io](https://custompod.io) - Generate daily news podcasts only on the topics you care about.
 - [EKHOS AI](https://ekhos.ai) - An AI speech-to-text software with powerful proofreading features. Transcribe most audio or video files with real-time recording and transcription.
   
+- [FunASR](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit. 5x faster than Whisper, 50+ languages, built-in VAD, punctuation, and speaker diarization. OpenAI-compatible API server. #opensource
 ### Music
 
 - [Harmonai](https://www.harmonai.org/) - We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
