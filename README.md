@@ -405,6 +405,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ### Animation
+- [Clipy](https://clipy.online/?ref=mahseema-awesome-ai-tools) - Free AI screen recorder: record your screen and share an instant link, with an AI summary, searchable transcript, and auto-chapters on every recording. No signup required to watch.
 
 ## Audio
 
