@@ -505,6 +505,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
+- [Tapetide](https://tapetide.com) - AI-first stock research for Indian markets — ask anything about any NSE or BSE stock and get instant, analyst-grade answers with financials, a 326-ratio screener, and FII/DII institutional flows.
 - [Petals](https://github.com/bigscience-workshop/petals) - BitTorrent style platform for running AI models in a distributed way.
 - [Shotstack Workflows](https://shotstack.io/product/workflows/) - No-code, automation workflow tool for building Generative AI media applications.
 - [Aispect](https://aispect.io/?ref=mahseema-awesome-ai-tools) - New way to experience events.
