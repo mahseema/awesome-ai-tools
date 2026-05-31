@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[Forward Deployed Selling](https://github.com/vonarmen-wq/forward-deployed-selling)** - Open-source Claude skill for enterprise AI sales: ICP qualification, GTM strategy, stage diagnosis, and deal thesis generation.
 
 
 ### Phone Calls
