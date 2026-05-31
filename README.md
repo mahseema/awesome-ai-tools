@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based AI utilities: AI background remover (runs locally, private), AI cost calculator, EU AI Act compliant content disclosure generator, AI robots.txt generator, OG image generator, favicon generator, SEO meta tag generator, color palette generator, and domain name generator. All no-signup, open source.
 
 
 ## Learning resources
