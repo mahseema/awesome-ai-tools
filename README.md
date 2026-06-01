@@ -95,6 +95,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
 - [Rytr](https://rytr.me/) - Rytr is an AI writing assistant that helps you create high-quality content.
 - [wordtune](https://www.wordtune.com/) - Personal writing assistant.
+- **[AI Tools Hub](https://github.com/feimaoqishi/ai-toolkit)** — Free AI content tools: Roast Master, Love Poem Generator, Fortune Teller + 7 Chinese tools (resume, naming, reports). One-time crypto payment, no subscriptions.
 - [HyperWrite](https://hyperwriteai.com/) - HyperWrite helps you write with confidence and get your work done faster from idea to final draft.
 - [Nexus AI](https://mynexusai.com/) - Nexus AI is a generative cutting-edge AI Platform for writing, coding, voiceovers, research, image creation and beyond.
 - [Moonbeam](https://www.gomoonbeam.com/) - Better blogs in a fraction of the time.
