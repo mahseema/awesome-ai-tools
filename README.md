@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [PixelDesk](https://pixeldesk.ai/) - Pixel-art virtual office where humans and AI agents share desks as characters. Plug any AI (Claude, GPT, Gemini, local Llama / Qwen / DeepSeek via OpenAI-compat, or any MCP server). Agents get persistent memory, task lists, integrations (Slack, Notion, Telegram, WhatsApp, WeChat, Google Workspace, n8n). Free tier.
 
 
 ### Meeting assistants
