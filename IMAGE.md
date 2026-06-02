@@ -24,6 +24,7 @@ A curated list of AI tools for image processing, generation, editing, and enhanc
 - **[Let's Enhance](https://letsenhance.io/)** - AI-based tool to upscale images without losing quality, using neural networks for image enhancement.
 - **[Remove.bg](https://www.remove.bg/)** - AI tool for automatic background removal from images.
 - **[Flux.1 Kontext](https://flux1kontext.io/)** - The latest Flux AI tool for editing images through prompts
+- **[igly.ai](https://igly.ai)** - AI image editor for background removal, inpainting, upscaling, generative fill, and product-photo workflows.
 
 ## Image Recognition
 
