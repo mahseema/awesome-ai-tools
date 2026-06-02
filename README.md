@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Prismix](https://prismix.dev) - All-in-one AI hub: real-time status monitoring of 75+ AI services (OpenAI, Anthropic, Cursor), curated AI news from 70+ sources, and a directory of 500+ MCP servers with bundles and release tracking.
 
 
 ## Code
