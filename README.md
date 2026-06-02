@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [TaxCompass](https://taxcompass.it) - AI tax co-pilot for foreigners opening a business in Italy. Sourced, English-native answers on the forfettario regime, partita IVA, INPS and ATECO codes, every fact cited to primary law, with a licensed accountant who signs off.
 
 
 ## Learning resources
