@@ -232,6 +232,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ### Developer tools
 
 - [Ollama](https://ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps.
+- [Atomic Chat](https://atomic.chat) - GUI-first local AI chat for Mac, Windows, Linux, iOS, and Android. Run GGUF and MLX models locally with an OpenAI-compatible server and MCP support.
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [Keploy](https://keploy.io/) - Open source Tool for converting user traffic to Test Cases and Data Stubs.
