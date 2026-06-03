@@ -1,4 +1,4 @@
-# Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+<img width="2504" height="1487" alt="image" src="https://github.com/user-attachments/assets/885eacf1-bec8-4447-8169-05e5551aecbe" /># Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of Artificial Intelligence Top Tools
 >
@@ -494,6 +494,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Other
 
+- [TheAISelect](https://theaiselect.com) - A hand-curated, independent directory and comparison platform for the best AI tools, fully bilingual in English and Spanish.
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
