@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Prompt Evaluator](https://prompt-evaluator-eight.vercel.app/) - Audit prompts and agent workflows for ambiguity, missing context, failure modes, and cost bloat before they break in production. Scores across five weighted dimensions with concrete fix recommendations.
 
 
 ## Code
