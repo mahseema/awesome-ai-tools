@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [open-helplines](https://github.com/Kouki-odaka/open-helplines) - CC0 open data registry of community support helplines across 24 countries with an MCP server for AI-powered applications. Tools: `find_helplines`, `get_helpline_by_id`, `list_countries`. Zero API key, instant install: `npx @open-helplines/mcp`. [#opensource](https://github.com/Kouki-odaka/open-helplines)
 
 
 ## Code
