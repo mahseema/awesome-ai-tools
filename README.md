@@ -531,6 +531,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Napkin](https://www.napkin.ai/) - Napkin turns your text into visuals so sharing your ideas is quick and effective.
 - [Exam Samurai](https://www.examsamur.ai/) - AI Exam Generator
 - [AI Watermark Remover](https://aiwatermarkremover.io/) - Remove watermarks from images and videos.
+- [AI Invention](https://aiinvention.tech) - AI Business Agent that finds B2B leads, writes personalized pitches, sends email sequences, and reports via Telegram. Custom AI for Real Estate, SaaS, Healthcare, and more.
 - [AISaver](https://aisaver.io) - Collection of AI Powered Video and Photo Tools
 - [Harbor](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
 - [LangMagic](https://easytolearn.io) - Learn languages from native content.
