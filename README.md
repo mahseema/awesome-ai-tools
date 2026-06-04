@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [auto-geo](https://github.com/shadowresearch/auto-geo) - Open-source publishing engine for GEO (Generative Engine Optimization) resource pages — the pages AI search engines cite. Zod-validated payloads, Schema.org JSON-LD, Next.js/Hono/MCP adapters. [#opensource](https://github.com/shadowresearch/auto-geo)
 
 
 ## Code
