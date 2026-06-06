@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [TryCuebird](https://trycuebird.com) - Real-time AI interview copilot — resume-tailored answers during live interviews in an overlay hidden from screen share. No bot joins the call. macOS, Windows, and mobile.
 
 
 ## Learning resources
