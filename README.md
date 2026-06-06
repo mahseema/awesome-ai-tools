@@ -230,6 +230,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ### Developer tools
+- [BreakShield CI](https://breakshield-ci.vercel.app) - AI-powered detection and auto-fix of breaking API changes in GitHub PRs. Supports Gemini, OpenAI, Claude, Groq, Perplexity.
 
 - [Ollama](https://ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps.
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
