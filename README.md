@@ -342,6 +342,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
 - [Human Generator](https://generated.photos/human-generator) - AI generator or realistic looking photos of humans.
 - [VectorArt.ai](https://vectorart.ai) - Create vector images with AI.
+- [Illustro](https://illustro.app/) - AI illustration generator and editor with style-specific tools for flat, line art, children's book, and 3D artwork, plus SVG recoloring and animation.
 - [StockPhotoAI.net](https://www.stockphotoai.net/?ref=mahseema-awesome-ai-tools) - Great stock photos, made for you.
 - [Room Reinvented](https://roomreinvented.com) - Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
 - [Gensbot](https://gensbot.com) - Gensbot uses AI to craft personalised printed merchandise. One prompt creates one unique product to fit your needs.
