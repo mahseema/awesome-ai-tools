@@ -451,6 +451,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - **[Jasper AI](https://www.jasper.ai/)** - AI-powered tool for generating marketing content like blogs, emails, and ad copy.
 - **[Mutiny](https://www.mutinyhq.com/)** - Personalization platform to improve website conversions using AI.
+- **[GTM.AI](https://gtm.ai/)** - Lead enrichment and data intelligence platform for agentic workflows.
 - **[Clearbit](https://clearbit.com/)** - Lead enrichment and data intelligence platform.
 - **[Seventh Sense](https://www.theseventhsense.com/)** - AI tool for email send time optimization.
 - **[Smartly.io](https://www.smartly.io/)** - Automates social media ad creation and optimization.
