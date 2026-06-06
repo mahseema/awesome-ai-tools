@@ -589,6 +589,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)
 - [Top AI Directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
+- [vybing.dev](https://vybing.dev) - AI dev tool directory with benchmark-backed rankings; covers coding assistants, LLM APIs, agents, and dev tooling.
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
