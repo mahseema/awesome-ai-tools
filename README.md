@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Due Diligence Agents](https://github.com/zoharbabin/due-diligence-agents) - CLI of specialist AI agents that read an entire M&A data room across 9 domains, cross-reference findings no single-domain reviewer connects, and trace every claim to an exact page + verbatim quote; runs locally and outputs HTML + Excel reports. [#opensource](https://github.com/zoharbabin/due-diligence-agents)
 
 
 ## Code
