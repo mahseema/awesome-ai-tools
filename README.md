@@ -494,6 +494,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Other
 
+
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
@@ -576,6 +577,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Related Awesome Lists
 
+- [TheAISelect](https://theaiselect.com) - A high-performance, bilingual (English/Spanish) curated directory and comparison platform for AI tools.
 - [Altern](https://altern.ai) - Find Best AI Tools
 - [AI For Developers](https://aifordevelopers.org) - List of AI DevTools
 - [Best of AI](https://github.com/best-of-ai/best-of-ai) - Like Michelin Guide for AI
