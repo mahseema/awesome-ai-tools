@@ -532,6 +532,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Exam Samurai](https://www.examsamur.ai/) - AI Exam Generator
 - [AI Watermark Remover](https://aiwatermarkremover.io/) - Remove watermarks from images and videos.
 - [AISaver](https://aisaver.io) - Collection of AI Powered Video and Photo Tools
+- [AI for Database](https://aifordatabase.com) - Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.
 - [Harbor](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
 - [LangMagic](https://easytolearn.io) - Learn languages from native content.
 - [fynk](https://fynk.com/) - AI powered contract management software
