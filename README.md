@@ -588,6 +588,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)
+- [YiceKit](https://yicekit.com/) - Chinese AI tools directory and lightweight toolkit for finding and comparing AI tools by use case.
 - [Top AI Directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
 
 
