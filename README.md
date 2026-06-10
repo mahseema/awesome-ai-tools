@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [ccline](https://github.com/jianshuo/ccline) - Type a natural-language thought at your zsh prompt — no command, no prefix — and get an AI answer from Claude or Codex. Suggested commands appear in an interactive menu for one-keystroke execution. [#opensource](https://github.com/jianshuo/ccline)
 
 
 ## Code
