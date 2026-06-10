@@ -231,7 +231,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Developer tools
 
-- [Enola](https://enola.tech/) - Enola. is developer infrastructure for agentic era. Exposing a compact, structured graph of code repository architecture through the Model Context Protocol — so any MCP-capable agent gets necessary context. [#opensource](https://github.com/enola-labs/enola)
 - [Ollama](https://ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps.
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
@@ -271,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Enola](https://enola.tech/) - Enola. is developer infrastructure for agentic era. Exposing a compact, structured graph of code repository architecture through the Model Context Protocol — so any MCP-capable agent gets necessary context. [#opensource](https://github.com/enola-labs/enola)
 
 
 ## Code
