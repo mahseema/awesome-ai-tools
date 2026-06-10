@@ -484,6 +484,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
 - [CustomPod.io](https://custompod.io) - Generate daily news podcasts only on the topics you care about.
 - [EKHOS AI](https://ekhos.ai) - An AI speech-to-text software with powerful proofreading features. Transcribe most audio or video files with real-time recording and transcription.
+- [Whisper by Remskill](https://whisper.remskill.com) - Desktop voice-to-text for Windows & macOS that pastes polished text at your cursor in any app, running fully offline with local Whisper/Parakeet models or via OpenAI cloud.
   
 ### Music
 
