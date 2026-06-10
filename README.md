@@ -302,6 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [Cate](https://cate.cero-ai.com) - Open source desktop IDE on an infinite zoomable canvas. Arrange editors, terminals, browsers, and AI agent panels in spatial workspaces instead of tabs. [#opensource](https://github.com/0-AI-UG/cate)
 
 
 ## Image
