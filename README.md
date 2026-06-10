@@ -392,6 +392,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Video
 
 - [RunwayML](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
+- [ImagineClip](https://imagineclip.com?ref=mahseema-awesome-ai-tools) - AI video generator for fun clips, avatar videos, stylized scenes, and shareable social content from prompts, images, and effects.
 - [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
 - [Hour One](https://hourone.ai/) - Turn text into video, featuring virtual presenters, automatically.
