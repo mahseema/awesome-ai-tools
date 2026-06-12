@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [AI Stack Recommender](https://theoperatorai.io/tool/stack-recommender/) - Answer a few questions about your business and get a short list of AI tools that fit, with what each costs and what it replaces. Free, no account needed.
 
 
 ## Learning resources
