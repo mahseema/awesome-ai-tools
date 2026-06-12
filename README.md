@@ -81,6 +81,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
 - [Refinder AI](https://refinder.ai/) - AI-powered universal search and assistant for work
 - [Agentset.ai](https://agentset.ai/) - Open-source local Semantic Search + RAG for your data
+- [开源模型导航站 (Open Source Model Navigator)](https://github.com/duola15/open-source-model-nav) - Chinese world's most comprehensive open-source AI model map. 219 models across 6 categories with 3-axis filtering (task/hardware/license), daily auto-sync from HuggingFace trending, and AI-translated Chinese introductions. Next.js SSG with one-click deploy commands. #opensource
 
 ### Local search engines
 
