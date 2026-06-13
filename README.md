@@ -527,6 +527,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Adon AI](https://adon-web.awakast.com/en/recruiter/) - CV screening automation and blind CV generator, AI backed ATS
 - [Persuva](https://persuva.ai) - Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
 - [Interview Solver](https://interviewsolver.com) - Ace your live coding interviews with our AI Copilot
+- [LastRound AI](https://lastroundai.com/products/ai-interview-copilot) - Real-time AI interview copilot for live Zoom, Google Meet, and Teams calls, plus AI mock interviews, an ATS resume builder, company insights, and a 7,000+ technical and behavioral question bank.
 - [Socialsonic](https://socialsonic.com) - AI LinkedIn Coach: Personalized content, trends & scheduling.
 - [Napkin](https://www.napkin.ai/) - Napkin turns your text into visuals so sharing your ideas is quick and effective.
 - [Exam Samurai](https://www.examsamur.ai/) - AI Exam Generator
