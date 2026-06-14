@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[GEO/AEO Tracker](https://organikpi.com/tools/geo-aeo-tracker/)** - Open-source, local-first dashboard that tracks your brand's visibility across 6 AI models (ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, Grok) with a 0-100 visibility score, citation tracking and competitor battlecards. Bring your own API keys, MIT licensed.
 
 
 ### Phone Calls
