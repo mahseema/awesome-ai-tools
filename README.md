@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [TopoAI](https://www.topoai.cc/?utm_source=github&utm_medium=pr&utm_campaign=topology_prompt_pack_20260615_12h) - AI network topology and cloud architecture diagram generator that turns sanitized text scenarios into editable diagram drafts.
 
 
 ## Learning resources
