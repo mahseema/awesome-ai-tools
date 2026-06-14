@@ -471,6 +471,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Voice Agents](https://diallink.com/) — AI Voice Agents for business calls and routine tasks, powered by DialLink cloud phone system.
 - [Cald.ai](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
 - [Rosie](https://heyrosie.com/) - AI Phone Answering Service
+- [Hermes](https://buildwithhermes.com) - White-label operating platform for AI voice agencies. Deploy inbound and outbound voice agents under your own brand with built-in CRM, campaign orchestration, telephony, and usage-based billing. From $149/month.
 
 ### Speech
 - [Eleven Labs](https://beta.elevenlabs.io/) - AI voice generator.
