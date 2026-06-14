@@ -81,6 +81,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
 - [Refinder AI](https://refinder.ai/) - AI-powered universal search and assistant for work
 - [Agentset.ai](https://agentset.ai/) - Open-source local Semantic Search + RAG for your data
+- [Albis](https://www.albis.news/?utm_source=github&utm_medium=catalog&utm_campaign=awesome_ai_tools_mahseema) - AI-assisted news discovery that helps readers spot global stories and coverage gaps their usual feeds may have missed.
 
 ### Local search engines
 
