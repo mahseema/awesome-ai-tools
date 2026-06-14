@@ -402,6 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) - Render 4-6s animated b-roll overlay videos for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok) and landscape YouTube. AI-driven: paste your script into Claude Code / Cursor / Codex, MCP server hands the model tools to write the scene spec and render the mp4. Built on Remotion + Tabler + Lottie. Free, MIT, local.
 
 
 ### Animation
