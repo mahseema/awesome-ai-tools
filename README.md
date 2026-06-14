@@ -537,6 +537,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [fynk](https://fynk.com/) - AI powered contract management software
 - [LooksMax AI](https://looksmax.ai) - Find out how hot you are using AI
 - [Podify.io](https://podify.io) - Leverage AI and community to grow on LinkedIn
+- [HEICPDF](https://heicpdf.to) - Free HEIC to PDF converter. Convert iPhone photos to PDF instantly. No signup required.
+- [ExtractKeywords](https://extractkeywords.com) - Free AI-powered keyword extraction tool. Extract keywords from any text instantly.
 - [ResumeDive](https://resumedive.com) - A resume boosting service using AI
 - [Luthor](https://luthor.ai/) - Programmatic content marketing at scale
 - [Hyperbrowser](https://hyperbrowser.ai/) - Browser infrastructure and automation for AI Agents and Apps with advanced features like proxies, captcha solving, and session recording.
