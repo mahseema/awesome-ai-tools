@@ -401,6 +401,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Recast Studio](https://recast.studio) - AI powered podcast marketing assistant.
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
+- [Seedream AI Studio](https://seedream4.video) - AI image and video generation platform using Seedream 5.0 models with one-click animation via Kling 2.1. Free tier available.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
 
 
