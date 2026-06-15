@@ -446,6 +446,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ### Marketing AI Tools
+- [TubePilot](https://creators.panshi.io) - AI copilot for YouTube creators: connects to your channel (read-only) and turns your own analytics into per-video reviews, channel strategy, topic ideas, an SEO scorecard, AI thumbnail critique and comment analysis. Your channel only, never scrapes others.
 
 *You can also find  more comprehensive list on *[Marketing List](https://github.com/mahseema/awesome-ai-tools/blob/main/marketing.md)*
 
