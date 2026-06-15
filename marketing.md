@@ -47,6 +47,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Storyshort.ai](https://www.storyshort.ai/)** - Create facless videos automatically with AI.
 - **[Chatfuel](https://www.chatfuel.com/)** - Automates customer engagement on Facebook Messenger with AI-driven chatbots.
 - **[Lately](https://www.lately.ai/)** - AI tool that repurposes long-form content into social media posts optimized for different platforms.
+- **[PostEverywhere](https://posteverywhere.ai)** - Schedule and publish to Instagram, TikTok, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky, Discord, and Telegram from natural language, with AI captions and an API for automation.
 
 ## Advertising
 
