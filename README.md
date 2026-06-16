@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [Skales](https://skales.app) - Local-first AI desktop agent. Hand it a goal and it works autonomously in the background. No cloud, no Docker, no terminal. 15+ providers or fully offline via Ollama. Win/macOS/Linux/Android.
 
 
 ### Meeting assistants
@@ -494,6 +495,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Other
 
+- [Skales](https://skales.app) - Native desktop AI agent with approval system, desktop buddy, and multi-LLM support. Source-available. ([GitHub](https://github.com/skalesapp/skales))
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
