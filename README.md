@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [FiveCoins Validation Plan](https://fivecoins.app.tipdata.es/?src=mahseema-awesome-ai-tools-pr) - AI planner for validating tiny paid offers and sales channels.
 
 
 ### Meeting assistants
