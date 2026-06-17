@@ -64,6 +64,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 
 ## GEO (Generative Engine Optimization)
  **[GetBool AI](https://www.getbool.ai/)** - AI tool that helps marketers improve their brand visibility wihtin LLMs, by using high-quality content, high quality mentions and links, reviews, etc...
+ - **[CitedSpy](https://citedspy.com/)** - AI visibility tracker that monitors brand share of voice and citation sources across AI engines like ChatGPT, Perplexity and others to help optimize AI search presence.
 
 ## SEO & Search Optimization
 
