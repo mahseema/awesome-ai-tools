@@ -406,6 +406,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Animation
 
+- [Aniv AI](https://aniv.ai/) - Generate complete animated series with AI, from script and worldbuilding to characters, storyboards, and final video.
+
 ## Audio
 
 ### AI Voice Cloning
