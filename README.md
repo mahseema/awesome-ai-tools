@@ -402,9 +402,13 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [Subtitle Remover](https://subtitleremover.com/) - Remove hardcoded/burned-in subtitles from videos automatically with AI, or erase a manually selected region.
+- [Video Quality Enhancer](https://videoqualityenhancer.org/) - AI video enhancer to upscale, deblur, and restore low-quality footage.
 
 
 ### Animation
+
+- [Aniv AI](https://aniv.ai/) - Generate complete animated series with AI, from script and worldbuilding to characters, storyboards, and final video.
 
 ## Audio
 
@@ -495,6 +499,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Other
 
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
+- [SBTI](https://sbti.global/) - A brand-new AI personality test and a next-generation alternative to MBTI, with shareable result types.
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
