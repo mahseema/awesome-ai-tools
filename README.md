@@ -495,6 +495,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Other
 
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
+- [SBTI](https://sbti.global/) - A brand-new AI personality test and a next-generation alternative to MBTI, with shareable result types.
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
