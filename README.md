@@ -389,6 +389,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
 - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
 
+- [Maestro Guard](https://ivo1974kanchev-arch.github.io/maestro-pages/) - Open-source CLI tool that runs a 14-point Guardian pipeline on AI-generated code. Catches bugs Cursor, Claude Code, and Copilot miss. Zero dependencies, pure Python.
+
 ## Video
 
 - [RunwayML](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
