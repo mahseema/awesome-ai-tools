@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Modelis](https://modelishub.com) - OpenAI-compatible LLM gateway that auto-routes each request to the best model (GPT, Claude, Gemini, Grok) at a flat per-call price. One API key, drop-in OpenAI SDK.
 
 
 ## Code
