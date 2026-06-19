@@ -407,6 +407,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ### Animation
 
 ## Audio
+- [VARCO Sound](https://game-ai.varco.ai/service/sound) - Generate original sound effects and background music for games and content from text or image prompts.
 
 ### AI Voice Cloning
 
@@ -426,6 +427,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Audify AI](https://audify-ai.ahmedtokyo.com) - User-friendly platform for voice synthesis with customizable options and instructions, making it versatile for both developers and creatives.
 - [TTS WebUI](https://github.com/rsxdalv/tts-generation-webui) - Open Source generative AI App for voice and music, supporting 15+ TTS models.
 - [AInterview.space](https://ainterview.space) – Create AI-hosted podcast interviews. Choose a topic, and Joe (the AI host) will research, host the interview, and generate your episode as audio or video.
+- [VARCO Voice](https://voice.varco.ai/) - Generate and convert natural character voices across Korean, English, Japanese, and Traditional Chinese. Built for games, film, and interactive media.
 
 
 ### AI Music Generators
@@ -545,6 +547,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [VARCO 3D](https://3d.varco.ai/) - Generate game-ready 3D assets — mesh and PBR texture — from text or image prompts. Built for game and content production pipelines.
 
 
 ## Learning resources
