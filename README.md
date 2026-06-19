@@ -576,6 +576,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Related Awesome Lists
 
+- [AiToolsObserver](https://aitoolsobserver.com) - Discover, compare, and track AI tools through curated insights, trends, and practical use cases
 - [Altern](https://altern.ai) - Find Best AI Tools
 - [AI For Developers](https://aifordevelopers.org) - List of AI DevTools
 - [Best of AI](https://github.com/best-of-ai/best-of-ai) - Like Michelin Guide for AI
