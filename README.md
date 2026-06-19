@@ -352,6 +352,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Pawtrait](https://www.pawtrait.art/) - AI Pet Portraits
 - [iColoring](https://icoloring.ai) - Free AI Coloring Pages Generator
 - [Suit me Up](https://suitmeup.pictures/) - Generate pictures of you wearing a suit with AI.
+- [HairWow](https://www.gohairwow.com) - AI hairstyle, hair color, and beard try-on tool for previewing style changes on a personal photo.
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - [PlantTattoosAI](https://www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
