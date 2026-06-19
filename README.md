@@ -57,6 +57,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - [ChatGPT](https://chatgpt.com) - *[reviews](https://theresanai.com/chatgpt)* - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
 - [Bing Chat](https://www.bing.com/chat) - *[reviews](https://altern.ai/product/bing_chat)* - A conversational AI language model powered by Microsoft Bing.
+- [Satcove](https://satcove.com) - Queries six AI models (Claude, GPT, Gemini, Mistral, Perplexity, Grok) in parallel and synthesizes one answer with an agreement score.
 - [Gemini](https://gemini.google.com) - *[reviews](https://altern.ai/product/gemini)* - An experimental AI chatbot by Google, powered by the LaMDA model.
 - [Character.AI](https://character.ai/) - *[reviews](https://altern.ai/product/character-ai)* - Character.AI lets you create characters and chat to them.
 - [ChatPDF](https://www.chatpdf.com/) - *[reviews](https://altern.ai/product/chatpdf)* - Chat with any PDF.
