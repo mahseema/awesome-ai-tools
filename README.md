@@ -448,7 +448,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ### Marketing AI Tools
 
 *You can also find  more comprehensive list on *[Marketing List](https://github.com/mahseema/awesome-ai-tools/blob/main/marketing.md)*
-
+- **[SkillDepot](https://skills.rehomi.com)** - Open marketplace for AI Agent skills focused on cross-border ecommerce (Alibaba International, Amazon, Shopify).Skills are packaged as ZIP files with SKILL.md metadata, rated by community with anti-gaming leaderboard. Open source.
 - **[Jasper AI](https://www.jasper.ai/)** - AI-powered tool for generating marketing content like blogs, emails, and ad copy.
 - **[Mutiny](https://www.mutinyhq.com/)** - Personalization platform to improve website conversions using AI.
 - **[Clearbit](https://clearbit.com/)** - Lead enrichment and data intelligence platform.
