@@ -230,6 +230,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ### Developer tools
+- [GeneTech Knowledge Engine](https://genetech.tools) - 12-domain structured knowledge base API with 4,000+ entities. Free REST API for AI agents (RAG, function calling, MCP-compatible). Domains: gene tech, quantum, nuclear, brain science, deep-sea, exo-science.
 
 - [Ollama](https://ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps.
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
