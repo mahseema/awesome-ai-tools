@@ -592,3 +592,5 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
+- [AI Prompt Architect](https://aipromptarchitect.co.uk) - Enterprise prompt engineering IDE with version control, automated evals, and multi-model testing.
