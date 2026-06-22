@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [dehallucinator](https://dehallucinator.io) - Fact-checking layer for LLM output that extracts every claim (numbers, dates, quotes, citations) and verifies each against the open web and structured sources (Wikidata, World Bank, Crossref), returning an evidence-backed, per-claim report with a trust grade.
 
 
 ## Code
