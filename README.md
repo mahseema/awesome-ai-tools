@@ -71,6 +71,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Search engines
 
+- [AIPower.spot](https://aipower.spot/) - This is an online catalog and platform for searching and selecting tools based on artificial intelligence (AI).
 - [Kazimir.ai](https://kazimir.ai/) - A search engine designed to search AI-generated images. 
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
 - [Metaphor](https://metaphor.systems/) - Language model powered search.
