@@ -538,6 +538,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [LooksMax AI](https://looksmax.ai) - Find out how hot you are using AI
 - [Podify.io](https://podify.io) - Leverage AI and community to grow on LinkedIn
 - [ResumeDive](https://resumedive.com) - A resume boosting service using AI
+- [Legendary Life Simulators](https://ordinarymantrying.com/tools/) - Play as Mandela, Curie, Jobs, Musk, Buffett, Disney and 6 others. Face their real pivotal decisions blind — before seeing what they actually chose. Built with Claude, zero backend, pure browser.
 - [Luthor](https://luthor.ai/) - Programmatic content marketing at scale
 - [Hyperbrowser](https://hyperbrowser.ai/) - Browser infrastructure and automation for AI Agents and Apps with advanced features like proxies, captcha solving, and session recording.
 - [Bricks](https://www.thebricks.com/) - The AI Spreadsheet We've All Been Waiting For
