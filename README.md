@@ -271,6 +271,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
 
+- [AI Fake Landing Checkup](https://github.com/ruiflow-team/ai-fake-landing-checkup) - Free open-source checklist that helps indie teams check whether their AI project is truly landing or just "looking busy". Provides 10-dimension scoring and a free self-check questionnaire. [#opensource](https://github.com/ruiflow-team/ai-fake-landing-checkup)
 
 ## Code
 
