@@ -118,6 +118,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Dittto.ai](https://dittto.ai) - Fix your hero copy with an AI trained on top SaaS websites.
 - [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes to your own website
 - [Shy Editor](https://www.shyeditor.com) - A modern AI-assisted writing environment for all types of prose. 
+- [StealthHumanizer](https://github.com/rudra496/StealthHumanizer) - Free open-source AI text humanizer with 35+ providers, 16+ languages, multi-pass ninja mode. No login required. #opensource
 - [DeepL Write](https://www.deepl.com/write) - AI writing tool that improves written communication.
 - [Headlinesai.pro](https://www.headlinesai.pro/) - This AI powered tool can help you in generating catchy and optimized headlines based on your content for multiple platforms like Youtube, Medium, Indie Hackers and Reddit.
 - [GPTLocalhost](https://gptlocalhost.com/demo/) - A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and completely local.
