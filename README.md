@@ -211,6 +211,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [SciSpace](https://scispace.com/) - AI Chat for scientific PDFs.
 - [NotebookLM](https://notebooklm.google.com/) - AI Chat on your own document, link and text resources.
 - [Mathos AI](https://www.mathgptpro.com/) - Best AI math solver, calculator & tutor.
+- [OpenPaper](https://openpaper.dev/?utm_source=awesome-ai-tools&utm_medium=listing) - AI research-paper writer where 18 agents draft structured academic papers with citations verified against OpenAlex, Crossref and Semantic Scholar. [#opensource](https://github.com/federicodeponte/opendraft)
 
 ### Customer Support
 - [SiteGPT](https://sitegpt.ai/?ref=mahseema-awesome-ai-tools) - Make AI your expert customer support agent.
