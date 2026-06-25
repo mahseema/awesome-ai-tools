@@ -592,3 +592,4 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+- [Token Diet](https://ranker.co.za/token-diet) - Free, open-source prompt token counter and optimizer. Cut LLM API costs. Client-side, no login.
