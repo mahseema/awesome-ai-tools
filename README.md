@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Token Diet](https://ranker.co.za/token-diet) - Free prompt token counter and optimizer. Paste a prompt to see its token count and trim it to cut LLM and AI API costs. Runs client-side in the browser, no login. [#opensource](https://github.com/rankerZA/token-diet)
 
 
 ## Code
