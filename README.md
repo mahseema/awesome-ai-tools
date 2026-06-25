@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [BuyWhere](https://buywhere.ai) - Cross-border e-commerce MCP server for AI agents. Search and compare products across Singapore, SEA, and US markets with 11M+ products.
 
 
 ## Learning resources
