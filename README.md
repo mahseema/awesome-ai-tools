@@ -231,6 +231,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Developer tools
 
+- [Modelis Auto Chat](https://rapidapi.com/chenxiao5580/api/modelis-auto-chat) - OpenAI-compatible LLM gateway that auto-routes each request to the best model (GPT/Claude/Gemini) and bills a flat, predictable price per call instead of per token. Zero-migration drop-in via [modelis-openai](https://github.com/modelishub/modelis-openai).
 - [Ollama](https://ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps.
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
