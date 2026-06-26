@@ -494,6 +494,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Other
 
+- [Proxygate](https://proxygate.ai) - Curated marketplace of real-world data APIs for AI agents. Connect once (MCP, SDK, CLI, or REST API) and call any listing per request from one prepaid USDC balance on Solana, with seller keys injected server-side and a signed receipt per call.
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
