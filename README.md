@@ -494,6 +494,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Other
 
+- [Historical Decision Simulators](https://ordinarymantrying.com/tools/) - 11 interactive simulators: make the real decisions of Mandela, Jobs, Musk, Buffett, Curie blind — then see what they actually chose. Free, no login, built with AI by a Chinese parent.
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
@@ -549,6 +550,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Learning resources
 
+- [Mandarin Flashcards HSK 1-3](https://ordinarymantrying.com/tools/mandarin-flashcards.html) - Offline flashcard app: 400+ words, spaced repetition, story-mode reading. Works without internet after first load. For English speakers learning Chinese.
+- [Pinyin Annotator](https://ordinarymantrying.com/tools/pinyin-annotator.html) - Paste Chinese text, get instant pinyin above every character. 2,500+ character dictionary, tone colors. Free, no login.
 - [Learn Prompting](https://learnprompting.org/) - A free, open-source course on communicating with artificial intelligence.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
 - [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
