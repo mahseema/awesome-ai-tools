@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[Autoresearch Playbook](https://autoresearchplaybook.com)** - Templates and a guide for running an automated "keep-or-revert" loop that uses AI to test and optimize marketing copy — cold emails, landing pages, and pricing — against real conversions.
 
 
 ### Phone Calls
