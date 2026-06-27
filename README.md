@@ -464,6 +464,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- [awesome-aeo-seo](https://github.com/discoveredlabs/awesome-aeo-seo) - Curated list of AEO and GEO research, tooling, and measurement guides for marketers optimising for AI search engines.
+- [awesome-aeo-seo-tools](https://github.com/discoveredlabs/awesome-aeo-seo-tools) - Free and open-source tools for AEO auditing, AI visibility monitoring, and content scoring.
+- [awesome-aeo-seo-agents](https://github.com/discoveredlabs/awesome-aeo-seo-agents) - Agentic frameworks and MCP servers for automating AI search optimisation workflows.
 
 
 ### Phone Calls
