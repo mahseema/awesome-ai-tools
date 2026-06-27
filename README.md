@@ -402,6 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [Fableclip](https://fableclip.com) - Fableclip turns any idea into a faceless video series on autopilot — AI writes the script, generates lifelike voiceover and illustrations, then auto-publishes to TikTok, YouTube, Instagram and more on your schedule.
 
 
 ### Animation
