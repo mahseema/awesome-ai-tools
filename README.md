@@ -67,6 +67,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Gali Chat](https://www.galichat.com/) - *[reviews](#)* - Your 24/7 AI Support Assistant that helps you grow your business!
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://altern.ai/product/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
+- [Netwrck](https://netwrck.com/) - Chat with AI characters with voice/TTS and built-in AI art generation.
 
 
 ### Search engines
@@ -185,6 +186,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Magic Potion](https://www.magicpotion.app) - Visual AI Prompt Editor
 - [MinusX](https://minusx.ai/) - Have an AI Analyst answer all your data questions reliably on Metabase
 - [Excelmatic](https://excelmatic.ai) - AI-Powered Excel Data Analysis and Visualization, Skip the functions—just upload, chat, and watch your data turn into insights and visuals.
+- [Helix](https://helix.app.nz) - AI data analyst that turns CSVs and datasets into automated reports and natural-language charts.
 - [Langfa.st](https://langfa.st/) - A fast, no-signup playground to test and share AI prompt templates
 - [SalesAgent Chat](https://www.salesagent.chat) - AI Sales Coach & Copilot for real-time support
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
@@ -227,6 +229,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
 - [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
 - [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=mahseema-awesome-ai-tools) - Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
+- [Text Generator](https://text-generator.io) - Unified AI API for text generation, vision and speech, privacy-first with a free tier.
 
 
 ### Developer tools
