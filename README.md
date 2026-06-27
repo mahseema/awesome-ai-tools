@@ -87,6 +87,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.
 - [quivr](https://github.com/StanGirard/quivr) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
 
+- [NoteRich](https://noterich.com) - AI-powered notes with built-in RAG search. Import documents and search via natural language across 41 languages. Local storage with ephemeral AI processing.
 ### Writing assistants
 
 *For a more complete list of AI writing assistants visit: [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)*
