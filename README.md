@@ -220,6 +220,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Inline Help](https://inlinehelp.com) - Answer customer questions before they ask
 - [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
 - [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
+- [Callbook](https://getcallbook.com) - AI phone receptionist that answers calls 24/7 and books the job for plumbers, HVAC, electricians & other home-service businesses.
 
 
 ### Other text generators
