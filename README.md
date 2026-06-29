@@ -303,6 +303,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
 
+- [EDC](https://github.com/almogdepaz/EDC) - Local repo-context and review workflow for coding agents. Generates module docs, invariants, trust boundaries, and routing metadata for Claude Code, Cursor, Codex, and pi.
+
 
 ## Image
 
