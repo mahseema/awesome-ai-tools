@@ -398,6 +398,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
 - [ShortVideoGen](https://shortgen.video/) - Create short videos with audio using text prompts.
 - [Clipwing](https://clipwing.pro/) - A tool for cutting long videos into dozens of short clips.
+- [FunClip](https://github.com/modelscope/FunClip) - Open-source local video speech recognition and clipping tool with LLM-based AI clipping, SRT subtitles, and speaker/text segment selection.
 - [Recast Studio](https://recast.studio) - AI powered podcast marketing assistant.
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
