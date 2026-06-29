@@ -592,3 +592,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
+## Directories
+
+- [OpenRuna](https://www.openruna.com/best/open-source-ai-tools) — Searchable graph directory of 900+ open-source AI tools, agents, prompts, and workflows.
