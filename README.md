@@ -271,6 +271,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
 
+- [AI Token Hub](https://aitoken-hub.github.io/aitoken-hub/) - Unified API access to 200+ AI models including DeepSeek, Qwen, and Llama through a single API key. OpenAI-compatible format, pay-as-you-go with no contracts.
 
 ## Code
 
