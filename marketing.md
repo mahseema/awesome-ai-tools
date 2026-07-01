@@ -70,6 +70,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[MarketMuse](https://www.marketmuse.com/)** - AI content optimization tool that helps marketers improve SEO performance by analyzing content gaps and providing keyword suggestions.
 - **[Surfer SEO](https://surferseo.com/)** - AI-powered SEO tool for optimizing content and improving search engine rankings through on-page audits and suggestions.
 - **[Clearscope](https://www.clearscope.io/)** - AI-powered SEO platform that provides keyword insights and content optimization recommendations.
+- **[Renown](https://tryrenown.com)** - Tracks how your brand appears in AI responses (ChatGPT, Google AI Overviews, Claude, Perplexity, Gemini etc.) and benchmarks you against competitors, and shows which sources they cite.
 
 ## Customer Support
 
