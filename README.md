@@ -142,6 +142,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Productivity
 
+- [BankBridge](https://bankbridge.money/) - Give your AI agent (Claude, ChatGPT, Cursor, Gemini, Codex) read-only access to your bank accounts, transactions, and investment holdings. Ask your agent anything about your money in natural language. Hosted MCP server. 12 tools. $5/mo per connected bank.
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [Taskade](https://www.taskade.com/) -  Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation—all within a unified workspace.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
