@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [RemoteOpenClaw MCP](https://github.com/aidevelopers2/remoteopenclaw-mcp) - MCP server and CLI that searches 13,870+ MCP servers, 4,384+ skills, and plugins from your terminal or AI agent, no API key required.
 
 
 ## Code
@@ -589,6 +590,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)
 - [Top AI Directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Directory of AI agent skills, plugins, and MCP servers for Claude Code, OpenClaw, Hermes, and Codex
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
