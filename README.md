@@ -134,6 +134,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ShareGPT](https://sharegpt.com/) - Share your ChatGPT conversations and explore conversations shared by others.
 - [Merlin](https://merlin.foyer.work/) - ChatGPT Plus extension on all websites.
 - [ChatGPT Writer](https://chatgptwriter.ai/) - Generate entire emails and messages using ChatGPT AI.
+- [GPT for Gmail](https://docgpt.ai/ai-email-assistant/) - AI email assistant for Gmail that helps draft, improve, summarize, translate, and reply to emails faster.
 - [ChatGPT for Jupyter](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - Add various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
 - [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code](https://github.com/mckaywrigley/chatbot-ui).
