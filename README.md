@@ -302,6 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex — drive the Codex CLI/App/SDK with Claude, Gemini, Grok, DeepSeek, Kimi, and more.
 
 
 ## Image
@@ -318,6 +319,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
 - [DragGAN](https://github.com/XingangPan/DragGAN) - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
 - [Canva](https://www.canva.com/) - Generate and Edit your Pictures with the help of AI
+- [ima2-gen](https://github.com/lidge-jun/ima2-gen) - Generate images and video with OpenAI's GPT Image 2 from a CLI or local web UI — text-to-image, image-to-image, storyboard, and canvas editing.
 
 ### Services
 
