@@ -190,7 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
-
+- [FerramentasAI](https://ferramentasai.net) - Portuguese-language directory with 230+ AI tool reviews and comparisons for the 260M Portuguese-speaking market (Portugal/Brazil).
 
 ### Meeting assistants
 
