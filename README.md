@@ -186,6 +186,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [MinusX](https://minusx.ai/) - Have an AI Analyst answer all your data questions reliably on Metabase
 - [Excelmatic](https://excelmatic.ai) - AI-Powered Excel Data Analysis and Visualization, Skip the functions—just upload, chat, and watch your data turn into insights and visuals.
 - [Langfa.st](https://langfa.st/) - A fast, no-signup playground to test and share AI prompt templates
+- [AI Money Stack](https://duct-tape2.github.io/ai-money-stack/) - Local-first AI workflow kit for indie builders, with free preview docs for opportunity scanning, OSS bounty filtering, PR review automation, and product delivery checklists.
 - [SalesAgent Chat](https://www.salesagent.chat) - AI Sales Coach & Copilot for real-time support
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
