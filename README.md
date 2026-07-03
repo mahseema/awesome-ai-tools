@@ -577,6 +577,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Related Awesome Lists
 
 - [Altern](https://altern.ai) - Find Best AI Tools
+- [AsmiAI](https://asmiai.xyz) - Independent AI tools directory with 236 reviewed and ranked AI products, 1,638 side-by-side comparisons, and an AI-powered tool advisor. Free.
 - [AI For Developers](https://aifordevelopers.org) - List of AI DevTools
 - [Best of AI](https://github.com/best-of-ai/best-of-ai) - Like Michelin Guide for AI
 - [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
