@@ -545,6 +545,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [Tudo](https://blynkai.app/tudo/) - AI task capture and personal planning for voice notes, screenshots, and organized to-dos.
+- [Telo](https://blynkai.app/telo/) - AI wellness companion for Apple Health readiness, recovery, sleep, and daily body-state reflection.
 
 
 ## Learning resources
