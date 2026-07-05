@@ -575,6 +575,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ## Related Awesome Lists
+- [AIbounty](https://github.com/xihe9527sun/aibounty) — Daily updated AI tool navigation with 2,000+ AI tools, bilingual descriptions, and a free embeddable widget.
+
 
 - [Altern](https://altern.ai) - Find Best AI Tools
 - [AI For Developers](https://aifordevelopers.org) - List of AI DevTools
