@@ -16,6 +16,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [🖼️ Generative AI Images ](#image)
 - [📽️ Generative AI Video](#video)
 - [🎶 Generative AI Audio](#audio)
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
   - [Voice Cloning](#ai-voice-cloning)
   - [Music Generation](#ai-music-generators)
 - [🎯 AI Tools for Marketing](#marketing-ai-tools)
