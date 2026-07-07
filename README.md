@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Framework-agnostic local-first memory lifecycle layer for AI agents, with Rust CLI, SQLite/FTS recall, forgetting, audit, consolidation, and TUI workflows. [#opensource](https://github.com/TerminallyLazy/Tree-Ring-Memory)
 
 
 ## Code
