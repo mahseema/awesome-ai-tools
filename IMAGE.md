@@ -25,6 +25,9 @@ A curated list of AI tools for image processing, generation, editing, and enhanc
 - **[Remove.bg](https://www.remove.bg/)** - AI tool for automatic background removal from images.
 - **[Flux.1 Kontext](https://flux1kontext.io/)** - The latest Flux AI tool for editing images through prompts
 
+- [AI Image Extender](https://aiimageextender.app) - Expand images beyond their borders with AI outpainting.
+- [Old Photo Restoration](https://oldphotorestoration.app) - Repair, colorize, and restore damaged vintage photos with AI.
+
 ## Image Recognition
 
 - **[Clarifai](https://www.clarifai.com/)** - AI-powered platform for image and video recognition, offering custom models for visual recognition tasks.

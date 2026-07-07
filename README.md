@@ -123,6 +123,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [GPTLocalhost](https://gptlocalhost.com/demo/) - A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and completely local.
 
 
+- [Spireess](https://spireess.com) - AI writing and content creation assistant for articles, copy, and creative content.
+- [Quilliam](https://quilliam.online) - AI paraphrasing and rewriting tool to rephrase sentences and improve writing.
+
 ### ChatGPT extensions
 
 - [Gist AI](https://www.gistai.tech?utm_source=tool_directory&utm_medium=post&utm_campaign=launch) - ChatGPT-powered free Summarizer for Websites, YouTube and PDF.
@@ -228,6 +231,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
 - [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=mahseema-awesome-ai-tools) - Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
 
+
+- [Bold Text Generators](https://boldtextgenerators.org) - Bold, gothic, and fancy text generator for social bios, posts, and profiles.
 
 ### Developer tools
 
@@ -358,6 +363,11 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 
+- [RoomFlip](https://roomflip.pro) - AI virtual staging that turns empty real estate photos into furnished, photorealistic listings.
+- [AI Virtual Staging](https://aivirtualstaging.org) - Free AI virtual staging to stage vacant properties with realistic furniture in seconds.
+- [HeadshotAI](https://headshotai.app) - Turn selfies into studio-quality AI professional headshots.
+- [Any Passport Photo](https://anypassportphoto.com) - Make compliant passport, visa, and ID photos at home with AI.
+
 ### Graphic design
 
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
@@ -368,6 +378,14 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Seede.ai](https://seede.ai/) - Create a stunning poster in just 1 minute with Seede.
 - [Magic Patterns](https://www.magicpatterns.com/) - AI-based UI builder with Figma export and React code generation.
 
+
+- [MyInk AI](https://myink.ai) - Generate custom AI tattoo designs from text prompts.
+- [InkPages Pro](https://inkpages.pro) - Browse, create, and customize AI tattoo designs on a dedicated platform.
+- [Before You Ink](https://beforeyouink.org) - Preview how a tattoo design looks on your body before getting inked, with AI.
+- [InkBolt](https://inkbolt.cc) - Discover and customize AI-generated tattoo art in a marketplace.
+- [RedoInk](https://redoink.com) - Redesign existing tattoos or create new ones with AI.
+- [AI Interior Lab](https://aiinteriorlab.com) - Generate room designs and visualize decor ideas with AI interior design.
+- [AI Yard Planner](https://aiyardplanner.com) - Design landscape and garden layouts and visualize outdoor spaces with AI.
 
 ### Image libraries
 
@@ -444,6 +462,10 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Soundful](https://www.soundful.com) - [Review](https://theresanai.com/soundful) - High-quality, royalty-free music for content creators.
 - [AI Music Generator](https://www.aisongmaker.io) - [Review](https://www.producthunt.com/products/ai-song-maker) - Effortlessly Create Songs with AI
 
+
+- [SongForYou](https://songforyou.cc) - Create original songs with AI-generated lyrics, melodies, and vocals.
+- [AI Jingle Maker](https://aijinglemaker.cc) - Create custom audio jingles and brand sounds for businesses with AI.
+- [AI Rap Creator](https://airapcreator.com) - Write and produce original rap songs with AI lyrics and beats.
 
 ### Marketing AI Tools
 

@@ -23,6 +23,8 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Writesonic](https://writesonic.com/)** - AI writing assistant for marketing content, blogs, and sales copy generation.
 - **[AI Story Book](https://aistorybook.app)** – Illustrated AI storybooks with tools for sharing on socials. Great for marketing through storytelling.
 
+- [Amazon Listing AI](https://amazonlistingai.com) - Generate Amazon product titles, descriptions, and keywords with AI optimization.
+
 ## Personalization
 
 - **[Mutiny](https://www.mutinyhq.com/)** - Website personalization tool that uses AI to optimize conversion rates through targeted experiences.
