@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Fence](https://github.com/hoophq/fence) - Open-source CLI guardrails for AI coding agents (Claude Code, Codex) that inspect an agent's tool calls and block catastrophic ones — recursive deletes, secret exfiltration, curl-pipe-sh, force-pushes — before they run. [#opensource](https://github.com/hoophq/fence)
 
 
 ## Code
