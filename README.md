@@ -550,6 +550,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Learning resources
 
 - [Learn Prompting](https://learnprompting.org/) - A free, open-source course on communicating with artificial intelligence.
+- [IAPLC](https://iaplc.fr) - Free interactive AI training for IT professionals; an AI-generated 30-level course tailored to your role (CIO, PO, data, dev, devops). FR/EN.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
 - [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
