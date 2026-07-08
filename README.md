@@ -1,5 +1,7 @@
 # Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+[![Listed on TakoAPI](https://takoapi.com/api/badge/mahseema-awesome-ai-tools)](https://takoapi.com/agents/mahseema-awesome-ai-tools)
+
 > A curated list of Artificial Intelligence Top Tools
 >
 > Feel free to contribute and also submit your AI tools on [altern.ai](https://altern.ai/?utm_source=awesomeaitools) for free
