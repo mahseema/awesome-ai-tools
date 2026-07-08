@@ -399,6 +399,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ShortVideoGen](https://shortgen.video/) - Create short videos with audio using text prompts.
 - [Clipwing](https://clipwing.pro/) - A tool for cutting long videos into dozens of short clips.
 - [Recast Studio](https://recast.studio) - AI powered podcast marketing assistant.
+- [Podframes](https://github.com/Jellypod-Inc/podframes) - Open-source local studio and CLI for generating two-host AI podcast videos with mixed TTS voices, lip-synced avatars, captions, and b-roll.
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
