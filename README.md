@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [PackForAI](https://packforai.com) - Convert PDF, DOCX, PPTX, XLSX, CSV and JSON into clean, AI-ready Markdown for LLMs, with OCR and up to 65% fewer tokens. Web, API, CLI, and MCP server.
 
 
 ## Code
