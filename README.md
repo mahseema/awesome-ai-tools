@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [BrowserBash](https://github.com/PramodDutta/browserbash) - Open source CLI where an AI agent runs plain-English browser tests in a real Chrome and returns deterministic verdicts (assertions, CI exit codes); ships an MCP server. Runs on free local models. [#opensource](https://github.com/PramodDutta/browserbash)
 
 
 ## Code
