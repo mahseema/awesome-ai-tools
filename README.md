@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [HowToUseMyAI](https://howtousemyai.com) - Directory of 165+ AI tools with step-by-step how-to guides, head-to-head comparisons, copy-paste prompt libraries, and a free AI-stack cost calculator.
 
 
 ## Learning resources
