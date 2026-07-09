@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [GoldBean](https://github.com/wuzenghai616-lang/goldbean) - Pay-per-call MCP Server with 47 Baidu AI endpoints (OCR, TTS, ASR, LLM, image generation). x402 USDC micropayments, PayPal, and Alipay. No API key required. [#opensource](https://github.com/wuzenghai616-lang/goldbean)
 
 
 ## Code
