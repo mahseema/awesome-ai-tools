@@ -25,6 +25,9 @@ A curated list of AI tools for image processing, generation, editing, and enhanc
 - **[Remove.bg](https://www.remove.bg/)** - AI tool for automatic background removal from images.
 - **[Flux.1 Kontext](https://flux1kontext.io/)** - The latest Flux AI tool for editing images through prompts
 
+
+- **[MergeFrame](https://mergeframe.com)** - Free browser-based tool for combining images into clean, customizable grids. No signup, no watermark, all processing happens locally. Export in 4K PNG/JPG. Perfect for AI image comparisons and social media content.
+
 ## Image Recognition
 
 - **[Clarifai](https://www.clarifai.com/)** - AI-powered platform for image and video recognition, offering custom models for visual recognition tasks.
