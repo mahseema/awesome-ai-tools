@@ -238,6 +238,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
 - [Portia AI](https://www.portialabs.ai/) - Open source framework for building agents that pre-express their planned actions, share their progress and can be interrupted by a human. [#opensource](https://github.com/portiaAI/portia-sdk-python)
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue.
+- [Off Grid AI Desktop](https://getoffgridai.co/desktop) - Private, local-first AI desktop app for macOS - chat, image generation, transcription, and memory/RAG all run on-device via llama.cpp; nothing leaves your machine. #opensource
 - [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 - [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
 - [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource](https://github.com/langfuse/langfuse)
