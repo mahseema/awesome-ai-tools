@@ -302,6 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [host4.ai](https://host4.ai/) - Cloud hosting with AI coding agents (Claude Code, Codex) preinstalled. Describe what you want in plain English, AI builds and deploys it live. Free tier with 20 AI builder credits, SSH terminal, and .host4.ai subdomain.
 
 
 ## Image
