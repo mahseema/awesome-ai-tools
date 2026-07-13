@@ -303,6 +303,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
 
+- [taleseal](https://taleseal.com) - Seal a Claude Code or Codex agent run as a shareable narrative page ("tale") at one short link — trigger, data, decisions, and outcome, readable without an account.
 
 ## Image
 
