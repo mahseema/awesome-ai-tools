@@ -592,3 +592,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
+## 🎒 Other AI Tools
+
+- [Commandra](https://commandra.io) - AI-powered CRM for home service contractors. Automates lead response (60-second replies), follow-up sequences for dead quotes, and review requests. Built by a real contractor.
