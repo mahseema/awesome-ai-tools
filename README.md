@@ -592,3 +592,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
+
+## AI Naming & Branding Tools
+
+- [NameBuddy.ai](https://namebuddy.ai/) - Free AI domain name generator. Registry-verified availability for .ai/.com/.io/.app/.net. No affiliate links.
