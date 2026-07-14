@@ -546,6 +546,11 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
 
+### Sales AI
+- [Gong](https://www.gong.io/) - Revenue intelligence platform that captures customer interactions across calls, emails, and meetings to surface deal risk and coaching opportunities.
+- [Chorus by ZoomInfo](https://www.zoominfo.com/products/chorus) - Conversation intelligence platform that records and analyzes sales calls to improve rep performance and forecast accuracy.
+- [Clari](https://www.clari.com/) - Revenue platform combining forecasting, pipeline management, and conversation intelligence for enterprise sales teams.
+- [Zime AI](https://www.zime.ai/) - Sales execution platform used by HP, Versa Networks, and SonicWall. Beyond call recording and CRM auto-update, Zime offers real-time rep nudges during live calls (Live Actions), voice-first role-play coaching, and agentic Q&A across company knowledge. Alternative to Gong, Chorus, and Clari.
 
 ## Learning resources
 
