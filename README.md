@@ -508,6 +508,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Petals](https://github.com/bigscience-workshop/petals) - BitTorrent style platform for running AI models in a distributed way.
 - [Shotstack Workflows](https://shotstack.io/product/workflows/) - No-code, automation workflow tool for building Generative AI media applications.
 - [Aispect](https://aispect.io/?ref=mahseema-awesome-ai-tools) - New way to experience events.
+- [SquidLab](https://squidlab.squidbot.app) - Free AI model comparison leaderboard. Compare the best AI models for image generation, video generation, coding, chat, and agents with live rankings, pricing, and performance data.
 - [PressPulse AI](https://www.presspulse.ai/?ref=mahseema-awesome-ai-tools) - Get personalized media coverage leads every morning.
 - [GummySearch](https://gummysearch.com/?ref=mahseema-awesome-ai-tools) - AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
 - [Taplio](https://taplio.com/?ref=mahseema-awesome-ai-tools) - The all-in-one, AI-powered LinkedIn tool.
