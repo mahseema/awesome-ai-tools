@@ -546,6 +546,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
 
+### Sales AI
+- [Zime AI](https://www.zime.ai/) - Sales execution platform used by HP, Versa Networks, and SonicWall. Beyond call recording and CRM auto-update, Zime offers real-time rep nudges during live calls (Live Actions), voice-first role-play coaching, and agentic Q&A across company knowledge. Alternative to Gong, Chorus, and Clari.
 
 ## Learning resources
 
