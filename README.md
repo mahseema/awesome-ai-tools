@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[AgentCeres](https://agentceres.com)** - AI-powered growth team for indie developers and small SaaS companies; researches competitors, drafts SEO and social content, and plans campaigns with human-approved publishing.
 
 
 ### Phone Calls
