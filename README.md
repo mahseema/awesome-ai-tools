@@ -391,6 +391,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Video
 
+- [iLoveVideoEditor](https://ilovevideoeditor.com/) - Motion design engine for automated video production: 249 templates, JSON-to-MP4 API, SDKs, and AI agents via MCP.
 - [RunwayML](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
 - [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
