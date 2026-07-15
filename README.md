@@ -358,6 +358,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 
+- [SnapShift](https://snapshit.fun) - Free AI photo transformer. Upload any photo and transform it into stunning artwork — cyberpunk, anime, oil painting, movie posters, 3D figurines, and more. No signup, 1K & 2K quality.
 ### Graphic design
 
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
