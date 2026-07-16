@@ -210,6 +210,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Sourcely](https://www.sourcely.net/) - Academic Citation Finding Tool with AI
 - [SciSpace](https://scispace.com/) - AI Chat for scientific PDFs.
 - [NotebookLM](https://notebooklm.google.com/) - AI Chat on your own document, link and text resources.
+- [NoteCapt](https://github.com/kasingbbb/NoteCapt) - macOS app that converts, organizes and indexes study materials into a local Markdown library, connectable to AI assistants over MCP.
 - [Mathos AI](https://www.mathgptpro.com/) - Best AI math solver, calculator & tutor.
 
 ### Customer Support
