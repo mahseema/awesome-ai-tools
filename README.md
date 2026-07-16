@@ -170,7 +170,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Riffo](https://riffo.ai/) - An AI-powered file management tool for bulk renaming and automatic folder organization.
 - [SlidesWizard](https://slideswizard.io) - Create Presentations 10x faster. Generate PowerPoint and Google Slides presentations about any topic with AI
 - [Transgate](https://transgate.ai/) - AI Speech to Text
-- [kxAI](https://kx.bamboochat.cn/) - Multilingual transcription and live captions for audio, video, and meetings, with timestamps, translation, summaries, and searchable Q&A.
 - [RabbitHoles AI](https://www.rabbitholes.ai/) - Chat with AI on an Infinite Canvas
 - [Rember](https://www.rember.com/) - A simple yet powerful spaced repetition system designed to help you remember more.
 - [Qurate](https://qurate.appcradle.net/) - AI Quote Companion, which can help in finding relavant quotes according to the context.
@@ -191,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [kxAI](https://kx.bamboochat.cn/) - Multilingual transcription and live captions for audio, video, and meetings, with timestamps, translation, summaries, and searchable Q&A.
 
 
 ### Meeting assistants
