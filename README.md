@@ -67,6 +67,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Gali Chat](https://www.galichat.com/) - *[reviews](#)* - Your 24/7 AI Support Assistant that helps you grow your business!
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://altern.ai/product/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
+- [Historical Figure Simulators](https://ordinarymantrying.com/tools/simulators.html) - Chat with 100+ AI simulations of historical figures: Buffett, Darwin, Einstein, Curie, Marcus Aurelius, Shakespeare, and more. Each adopts the figure's documented worldview and writing style. Open source. ([GitHub](https://github.com/daligao/historical-figure-simulators))
 
 
 ### Search engines
