@@ -532,6 +532,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Exam Samurai](https://www.examsamur.ai/) - AI Exam Generator
 - [AI Watermark Remover](https://aiwatermarkremover.io/) - Remove watermarks from images and videos.
 - [AISaver](https://aisaver.io) - Collection of AI Powered Video and Photo Tools
+- [Mind Traps Quiz](https://ordinarymantrying.com/tools/mind-traps.html) - Open-source cognitive bias quiz: 10 real-world scenarios to test if you *apply* biases correctly, not just recognize the names. 8,000+ players, 72% miss Confirmation Bias. Built for developers and AI practitioners who want to audit their own reasoning. ([GitHub](https://github.com/daligao/psychology-laws-awesome))
+- [Working Memory Test](https://ordinarymantrying.com/tools/digit-memory-test/) - Dual-task working memory benchmark: memorize digits while reading a distractor quote. Benchmarked against WAIS-IV norms. Single HTML file, open source. ([GitHub](https://github.com/daligao/working-memory-test))
 - [Harbor](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
 - [LangMagic](https://easytolearn.io) - Learn languages from native content.
 - [fynk](https://fynk.com/) - AI powered contract management software
