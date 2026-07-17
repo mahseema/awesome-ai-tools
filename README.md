@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [Ceki Browser](https://browser.ceki.me) - Rent real residential Chrome browsers per minute for AI agents. MCP-native, SDKs for Python/JS/LangChain/CrewAI/n8n, real residential IPs, crypto payouts.
 
 
 ## Learning resources
