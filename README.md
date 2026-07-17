@@ -539,8 +539,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Podify.io](https://podify.io) - Leverage AI and community to grow on LinkedIn
 - [ResumeDive](https://resumedive.com) - A resume boosting service using AI
 - [Luthor](https://luthor.ai/) - Programmatic content marketing at scale
-- [Ceki Browser](https://browser.ceki.me) - Rent real residential Chrome browsers per minute for AI agents. MCP-native, SDKs for Python/JS/LangChain/CrewAI/n8n, real residential IPs, crypto payouts.
 - [Hyperbrowser](https://hyperbrowser.ai/) - Browser infrastructure and automation for AI Agents and Apps with advanced features like proxies, captcha solving, and session recording.
+- [Ceki Browser](https://browser.ceki.me) - Rent real residential Chrome browsers per minute for AI agents. MCP-native, SDKs for Python/JS/LangChain/CrewAI/n8n, real residential IPs, crypto payouts.
 - [Bricks](https://www.thebricks.com/) - The AI Spreadsheet We've All Been Waiting For
 - [MindStudio](https://mindstudio.ai/) — Build powerful AI Agents for yourself, your team, or your enterprise. Powerful, easy to use, visual builder—no coding required, but extensible with code if you need it. Over 100 templates for all kinds of business and personal use cases.
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
