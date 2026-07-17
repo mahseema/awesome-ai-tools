@@ -149,6 +149,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Elephas](https://elephas.app/?ref=mahseema-awesome-ai-tools) - Personal AI writing assistant for the Mac.
 - [Lemmy](https://lemmy.co/?ref=mahseema-awesome-ai-tools) - Autonomous AI Assistant for Work.
 - [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=mahseema-awesome-ai-tools) - Forget about frustrating formulas in Google Sheets.
+- [AI Interview Coach](https://aiinterviewcoaches.com) - AI-powered mock interviews with instant scoring and hiring-manager-grade feedback for job seekers.
 - [CreateEasily](https://createeasily.com/?ref=mahseema-awesome-ai-tools) - Free speech-to-text tool for content creators that accurately transcribes audio & video files up to 2GB.
 - [Cosmos](https://meetcosmos.com/) - Use AI locally and offline to search your media files by their content, find similar images or video scenes using reference images, and transcribe video.
 - [aiPDF](https://aipdf.ai) - The most advanced AI document assistant
