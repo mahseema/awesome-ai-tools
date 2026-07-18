@@ -98,6 +98,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [HyperWrite](https://hyperwriteai.com/) - HyperWrite helps you write with confidence and get your work done faster from idea to final draft.
 - [Nexus AI](https://mynexusai.com/) - Nexus AI is a generative cutting-edge AI Platform for writing, coding, voiceovers, research, image creation and beyond.
 - [Moonbeam](https://www.gomoonbeam.com/) - Better blogs in a fraction of the time.
+- [AI Nexus](https://ainexustools.online) - Independent reviews and comparisons of AI writing, coding, video, and voice tools, with dedicated India pricing breakdowns.
 - [copy.ai](https://www.copy.ai/) - Write better marketing copy and content with AI.
 - [Anyword](https://anyword.com/) - Anyword's AI writing assistant generates effective copy for anyone.
 - [Contenda](https://contenda.co/) - Create the content your audience wants, from content you've already made.
