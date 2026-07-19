@@ -216,6 +216,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [SiteGPT](https://sitegpt.ai/?ref=mahseema-awesome-ai-tools) - Make AI your expert customer support agent.
 - [GPTHelp.ai](https://gpthelp.ai/?ref=mahseema-awesome-ai-tools) - ChatGPT for your website / AI customer support chatbot.
 - [SiteSpeakAI](https://sitespeak.ai) - Automate your customer support with AI.
+- [Okidoki Chat](https://okidoki.chat) - AI chat widget that qualifies website visitors and books meetings via text, voice, video, or WhatsApp.
 - [Dear AI](https://www.dearai.online) - Supercharge Customer Services and boost sales with AI Chatbot.
 - [Inline Help](https://inlinehelp.com) - Answer customer questions before they ask
 - [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
