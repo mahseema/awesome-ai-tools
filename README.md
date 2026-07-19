@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [DaoXE](https://daoxe.com/?utm_source=github&utm_medium=organic&utm_campaign=awesome_ai_tools) - OpenAI-compatible, multi-protocol API gateway (Chat Completions, Responses, and Anthropic Messages) for accessing Claude, GPT, Gemini, DeepSeek, Kimi and more through one base URL and key. [Open setup examples & low-cost benchmark](https://github.com/seven7763/DaoXE-AI).
 
 
 ## Code
