@@ -1,0 +1,188 @@
+{
+  "extensionName": {
+    "message": "AI 书签"
+  },
+  "extensionDescription": {
+    "message": "AI 驱动的书签管理器，支持自动分类、智能摘要和跨浏览器同步"
+  },
+  "popupTitle": {
+    "message": "AI 书签"
+  },
+  "searchPlaceholder": {
+    "message": "搜索书签..."
+  },
+  "settingsButton": {
+    "message": "设置"
+  },
+  "shareButton": {
+    "message": "↗ 分享收藏集"
+  },
+  "allCategory": {
+    "message": "全部"
+  },
+  "uncategorized": {
+    "message": "未分类"
+  },
+  "aiPending": {
+    "message": "AI 处理中…"
+  },
+  "retryAi": {
+    "message": "重试 AI"
+  },
+  "noApiKeyBanner": {
+    "message": "⚠ 未设置 API 密钥 —"
+  },
+  "configureInSettings": {
+    "message": "前往设置配置"
+  },
+  "contextMenuBookmark": {
+    "message": "使用 AI 书签保存"
+  },
+  "optionsTitle": {
+    "message": "AI 书签设置"
+  },
+  "optionsSubtitle": {
+    "message": "配置您的 AI 书签管理器"
+  },
+  "emptyTitle": {
+    "message": "还没有书签"
+  },
+  "emptySub": {
+    "message": "按 Ctrl+D 保存页面，或右键点击 →「使用 AI 书签保存」"
+  },
+  "loading": {
+    "message": "加载中…"
+  },
+  "shareModalTitle": {
+    "message": "分享收藏集"
+  },
+  "collectionNameLabel": {
+    "message": "收藏集名称"
+  },
+  "descriptionLabel": {
+    "message": "描述（可选）"
+  },
+  "visibilityLabel": {
+    "message": "可见性"
+  },
+  "visibilityLink": {
+    "message": "拥有链接的任何人"
+  },
+  "visibilityPublic": {
+    "message": "公开"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "share": {
+    "message": "分享"
+  },
+  "copy": {
+    "message": "复制"
+  },
+  "copied": {
+    "message": "已复制！"
+  },
+  "shareableLink": {
+    "message": "分享链接："
+  },
+  "tabAi": {
+    "message": "AI 配置"
+  },
+  "tabCategories": {
+    "message": "分类"
+  },
+  "tabRanking": {
+    "message": "排名"
+  },
+  "tabData": {
+    "message": "数据"
+  },
+  "saveSettings": {
+    "message": "保存设置"
+  },
+  "tabApi": {
+    "message": "API",
+    "description": "UI: tabApi"
+  },
+  "tabImport": {
+    "message": "导入",
+    "description": "UI: tabImport"
+  },
+  "tabBackup": {
+    "message": "备份",
+    "description": "UI: tabBackup"
+  },
+  "tabAbout": {
+    "message": "关于",
+    "description": "UI: tabAbout"
+  },
+  "themeToggle": {
+    "message": "主题",
+    "description": "UI: themeToggle"
+  },
+  "scanExisting": {
+    "message": "扫描现有书签",
+    "description": "UI: scanExisting"
+  },
+  "scanDesc": {
+    "message": "从Chrome导入所有书签并用AI处理",
+    "description": "UI: scanDesc"
+  },
+  "scanBtn": {
+    "message": "扫描并导入",
+    "description": "UI: scanBtn"
+  },
+  "uploadHtml": {
+    "message": "上传书签文件",
+    "description": "UI: uploadHtml"
+  },
+  "uploadDesc": {
+    "message": "上传从Chrome导出的HTML文件",
+    "description": "UI: uploadDesc"
+  },
+  "uploadBtn": {
+    "message": "上传并导入",
+    "description": "UI: uploadBtn"
+  },
+  "sheetsBackup": {
+    "message": "备份到Google表格",
+    "description": "UI: sheetsBackup"
+  },
+  "sheetsDesc": {
+    "message": "将所有书签及AI数据保存到Google表格",
+    "description": "UI: sheetsDesc"
+  },
+  "sheetsNotConnected": {
+    "message": "未连接",
+    "description": "UI: sheetsNotConnected"
+  },
+  "connectBtn": {
+    "message": "连接Google表格",
+    "description": "UI: connectBtn"
+  },
+  "backupNowBtn": {
+    "message": "立即备份",
+    "description": "UI: backupNowBtn"
+  },
+  "driveExport": {
+    "message": "导出到Google云端硬盘",
+    "description": "UI: driveExport"
+  },
+  "driveDesc": {
+    "message": "将CSV文件导出到Google云端硬盘",
+    "description": "UI: driveDesc"
+  },
+  "exportDriveBtn": {
+    "message": "导出到云端硬盘",
+    "description": "UI: exportDriveBtn"
+  },
+  "exportCsvBtn": {
+    "message": "导出为CSV",
+    "description": "UI: exportCsvBtn"
+  },
+  "cancelBtn": {
+    "message": "取消",
+    "description": "UI: cancelBtn"
+  }
+}

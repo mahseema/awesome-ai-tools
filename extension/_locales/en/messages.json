@@ -1,0 +1,222 @@
+{
+  "extensionName": {
+    "message": "AI Bookmarks",
+    "description": "Name of the extension"
+  },
+  "extensionDescription": {
+    "message": "AI-powered bookmark manager with auto-categorization, smart summaries, and cross-browser sync",
+    "description": "Description of the extension"
+  },
+  "popupTitle": {
+    "message": "AI Bookmarks",
+    "description": "Title shown in the popup"
+  },
+  "searchPlaceholder": {
+    "message": "Search bookmarks...",
+    "description": "Placeholder for the search input"
+  },
+  "settingsButton": {
+    "message": "Settings",
+    "description": "Tooltip for the settings button"
+  },
+  "shareButton": {
+    "message": "↗ Share Collection",
+    "description": "Button to share a bookmark collection"
+  },
+  "allCategory": {
+    "message": "All",
+    "description": "Label for the 'All' category in the sidebar"
+  },
+  "uncategorized": {
+    "message": "Uncategorized",
+    "description": "Label for bookmarks without a category"
+  },
+  "aiPending": {
+    "message": "AI pending…",
+    "description": "Status badge for bookmarks awaiting AI processing"
+  },
+  "retryAi": {
+    "message": "Retry AI",
+    "description": "Button to retry AI processing for a failed bookmark"
+  },
+  "noApiKeyBanner": {
+    "message": "⚠ No API key set —",
+    "description": "Warning banner when no Claude API key is configured"
+  },
+  "configureInSettings": {
+    "message": "configure in Settings",
+    "description": "Link text inside the no-API-key banner"
+  },
+  "contextMenuBookmark": {
+    "message": "Save with AI Bookmarks",
+    "description": "Context menu item for bookmarking a page"
+  },
+  "optionsTitle": {
+    "message": "AI Bookmarks Settings",
+    "description": "Title of the options page"
+  },
+  "optionsSubtitle": {
+    "message": "Configure your AI-powered bookmark manager",
+    "description": "Subtitle of the options page"
+  },
+  "emptyTitle": {
+    "message": "No bookmarks yet",
+    "description": "Empty state title in the popup"
+  },
+  "emptySub": {
+    "message": "Save a page with Ctrl+D or right-click → \"Save with AI Bookmarks\"",
+    "description": "Empty state subtitle in the popup"
+  },
+  "loading": {
+    "message": "Loading…",
+    "description": "Loading indicator text"
+  },
+  "shareModalTitle": {
+    "message": "Share Collection",
+    "description": "Title of the share modal"
+  },
+  "collectionNameLabel": {
+    "message": "Collection name",
+    "description": "Label for the collection name field"
+  },
+  "descriptionLabel": {
+    "message": "Description (optional)",
+    "description": "Label for the description field"
+  },
+  "visibilityLabel": {
+    "message": "Visibility",
+    "description": "Label for visibility options"
+  },
+  "visibilityLink": {
+    "message": "Anyone with link",
+    "description": "Link-only visibility option"
+  },
+  "visibilityPublic": {
+    "message": "Public",
+    "description": "Public visibility option"
+  },
+  "cancel": {
+    "message": "Cancel",
+    "description": "Cancel button"
+  },
+  "share": {
+    "message": "Share",
+    "description": "Share confirm button"
+  },
+  "copy": {
+    "message": "Copy",
+    "description": "Copy button"
+  },
+  "copied": {
+    "message": "Copied!",
+    "description": "Copy button after copying"
+  },
+  "shareableLink": {
+    "message": "Shareable link:",
+    "description": "Label above the generated share link"
+  },
+  "tabAi": {
+    "message": "AI Configuration",
+    "description": "Options tab: AI"
+  },
+  "tabCategories": {
+    "message": "Categories",
+    "description": "Options tab: categories"
+  },
+  "tabRanking": {
+    "message": "Ranking",
+    "description": "Options tab: ranking"
+  },
+  "tabData": {
+    "message": "Data",
+    "description": "Options tab: data"
+  },
+  "saveSettings": {
+    "message": "Save Settings",
+    "description": "Save settings button"
+  },
+  "tabApi": {
+    "message": "API",
+    "description": "UI: tabApi"
+  },
+  "tabImport": {
+    "message": "Import",
+    "description": "UI: tabImport"
+  },
+  "tabBackup": {
+    "message": "Backup",
+    "description": "UI: tabBackup"
+  },
+  "tabAbout": {
+    "message": "About",
+    "description": "UI: tabAbout"
+  },
+  "themeToggle": {
+    "message": "Theme",
+    "description": "UI: themeToggle"
+  },
+  "scanExisting": {
+    "message": "Scan Existing Bookmarks",
+    "description": "UI: scanExisting"
+  },
+  "scanDesc": {
+    "message": "Import all bookmarks from Chrome and process them with AI",
+    "description": "UI: scanDesc"
+  },
+  "scanBtn": {
+    "message": "Scan & Import",
+    "description": "UI: scanBtn"
+  },
+  "uploadHtml": {
+    "message": "Upload Bookmarks File",
+    "description": "UI: uploadHtml"
+  },
+  "uploadDesc": {
+    "message": "Upload an HTML export file from Chrome",
+    "description": "UI: uploadDesc"
+  },
+  "uploadBtn": {
+    "message": "Upload & Import",
+    "description": "UI: uploadBtn"
+  },
+  "sheetsBackup": {
+    "message": "Backup to Google Sheets",
+    "description": "UI: sheetsBackup"
+  },
+  "sheetsDesc": {
+    "message": "Save all bookmarks with AI data to a Google Sheet",
+    "description": "UI: sheetsDesc"
+  },
+  "sheetsNotConnected": {
+    "message": "Not connected",
+    "description": "UI: sheetsNotConnected"
+  },
+  "connectBtn": {
+    "message": "Connect Google Sheets",
+    "description": "UI: connectBtn"
+  },
+  "backupNowBtn": {
+    "message": "Backup Now",
+    "description": "UI: backupNowBtn"
+  },
+  "driveExport": {
+    "message": "Export to Google Drive",
+    "description": "UI: driveExport"
+  },
+  "driveDesc": {
+    "message": "Export a CSV file to your Google Drive",
+    "description": "UI: driveDesc"
+  },
+  "exportDriveBtn": {
+    "message": "Export to Drive",
+    "description": "UI: exportDriveBtn"
+  },
+  "exportCsvBtn": {
+    "message": "Export as CSV",
+    "description": "UI: exportCsvBtn"
+  },
+  "cancelBtn": {
+    "message": "Cancel",
+    "description": "UI: cancelBtn"
+  }
+}

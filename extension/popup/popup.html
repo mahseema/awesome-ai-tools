@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Bookmarks</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="header-left">
+      <span class="brand-star">&#10024;</span>
+      <span class="app-name" data-i18n="popupTitle">AI Bookmarks</span>
+    </div>
+    <div class="header-right">
+      <input type="search" id="search-input" class="search-input" placeholder="Search bookmarks..." data-i18n-placeholder="searchPlaceholder" aria-label="Search bookmarks">
+      <button id="btn-theme" class="icon-btn" title="Toggle theme">&#127769;</button>
+      <button id="btn-settings" class="icon-btn" title="Settings" data-i18n-title="settingsButton" aria-label="Open settings">⚙</button>
+    </div>
+  </header>
+
+  <!-- Main Layout -->
+  <div class="main-layout">
+    <!-- Sidebar: Categories -->
+    <aside class="sidebar" id="sidebar">
+      <div id="category-tree"></div>
+      <button id="btn-share" class="share-btn" data-i18n="shareButton" title="Share a collection">
+        ↗ Share Collection
+      </button>
+    </aside>
+
+    <!-- Content: Bookmark List -->
+    <main class="content">
+      <div id="bookmark-list" class="bookmark-list" role="list"></div>
+      <div id="empty-state" class="empty-state hidden">
+        <div class="empty-icon">🔖</div>
+        <p class="empty-title" data-i18n="emptyTitle">No bookmarks yet</p>
+        <p class="empty-sub" data-i18n="emptySub">Save a page with <kbd>Ctrl+D</kbd> or right-click <kbd>Save with AI</kbd></p>
+      </div>
+      <div id="loading-state" class="loading-state hidden">
+        <div class="spinner"></div>
+        <p data-i18n="loading">Loading…</p>
+      </div>
+    </main>
+  </div>
+
+  <!-- Share Modal -->
+  <div id="share-modal" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="share-modal-title">
+    <div class="modal">
+      <div class="modal-header">
+        <h2 id="share-modal-title" data-i18n="shareModalTitle">Share Collection</h2>
+        <button id="btn-close-modal" class="icon-btn" aria-label="Close">✕</button>
+      </div>
+      <div class="modal-body">
+        <label for="share-name" data-i18n="collectionNameLabel">Collection name</label>
+        <input type="text" id="share-name" placeholder="My Bookmarks" class="text-input">
+
+        <label for="share-desc" data-i18n="descriptionLabel">Description (optional)</label>
+        <textarea id="share-desc" placeholder="A curated collection of…" class="text-input textarea" rows="2"></textarea>
+
+        <label data-i18n="visibilityLabel">Visibility</label>
+        <div class="radio-group">
+          <label class="radio-label">
+            <input type="radio" name="visibility" value="link" checked> <span data-i18n="visibilityLink">Anyone with link</span>
+          </label>
+          <label class="radio-label">
+            <input type="radio" name="visibility" value="public"> <span data-i18n="visibilityPublic">Public</span>
+          </label>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button id="btn-cancel-share" class="btn btn-secondary" data-i18n="cancel">Cancel</button>
+        <button id="btn-confirm-share" class="btn btn-primary" data-i18n="share">Share</button>
+      </div>
+      <div id="share-result" class="share-result hidden">
+        <p data-i18n="shareableLink">Shareable link:</p>
+        <div class="share-link-row">
+          <input type="text" id="share-link-input" class="text-input share-link-input" readonly>
+          <button id="btn-copy-link" class="btn btn-primary" data-i18n="copy">Copy</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- No API key warning -->
+  <div id="no-api-key-banner" class="banner banner-warning hidden">
+    <span data-i18n="noApiKeyBanner">⚠ No API key set —</span> <button id="btn-open-options" class="link-btn" data-i18n="configureInSettings">configure in Settings</button>
+  </div>
+
+  <script type="module" src="popup.js"></script>
+</body>
+</html>

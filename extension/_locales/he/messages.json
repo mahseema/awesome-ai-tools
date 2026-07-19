@@ -1,0 +1,188 @@
+{
+  "extensionName": {
+    "message": "סימניות AI"
+  },
+  "extensionDescription": {
+    "message": "מנהל סימניות מבוסס AI עם סיווג אוטומטי, תקצירים חכמים וסנכרון בין דפדפנים"
+  },
+  "popupTitle": {
+    "message": "סימניות AI"
+  },
+  "searchPlaceholder": {
+    "message": "חיפוש סימניות..."
+  },
+  "settingsButton": {
+    "message": "הגדרות"
+  },
+  "shareButton": {
+    "message": "↗ שיתוף אוסף"
+  },
+  "allCategory": {
+    "message": "הכול"
+  },
+  "uncategorized": {
+    "message": "ללא קטגוריה"
+  },
+  "aiPending": {
+    "message": "‏AI בתהליך…"
+  },
+  "retryAi": {
+    "message": "נסה AI שוב"
+  },
+  "noApiKeyBanner": {
+    "message": "⚠ לא הוגדר מפתח API —"
+  },
+  "configureInSettings": {
+    "message": "הגדר בהגדרות"
+  },
+  "contextMenuBookmark": {
+    "message": "שמור עם סימניות AI"
+  },
+  "optionsTitle": {
+    "message": "הגדרות סימניות AI"
+  },
+  "optionsSubtitle": {
+    "message": "הגדר את מנהל הסימניות מבוסס ה-AI שלך"
+  },
+  "emptyTitle": {
+    "message": "אין סימניות עדיין"
+  },
+  "emptySub": {
+    "message": "שמור דף עם Ctrl+D או לחיצה ימנית ← \"שמור עם סימניות AI\""
+  },
+  "loading": {
+    "message": "טוען…"
+  },
+  "shareModalTitle": {
+    "message": "שיתוף אוסף"
+  },
+  "collectionNameLabel": {
+    "message": "שם האוסף"
+  },
+  "descriptionLabel": {
+    "message": "תיאור (אופציונלי)"
+  },
+  "visibilityLabel": {
+    "message": "נראוּת"
+  },
+  "visibilityLink": {
+    "message": "כל מי שיש לו קישור"
+  },
+  "visibilityPublic": {
+    "message": "ציבורי"
+  },
+  "cancel": {
+    "message": "ביטול"
+  },
+  "share": {
+    "message": "שתף"
+  },
+  "copy": {
+    "message": "העתק"
+  },
+  "copied": {
+    "message": "הועתק!"
+  },
+  "shareableLink": {
+    "message": "קישור לשיתוף:"
+  },
+  "tabAi": {
+    "message": "הגדרות AI"
+  },
+  "tabCategories": {
+    "message": "קטגוריות"
+  },
+  "tabRanking": {
+    "message": "דירוג"
+  },
+  "tabData": {
+    "message": "נתונים"
+  },
+  "saveSettings": {
+    "message": "שמור הגדרות"
+  },
+  "tabApi": {
+    "message": "API",
+    "description": "UI: tabApi"
+  },
+  "tabImport": {
+    "message": "יבוא",
+    "description": "UI: tabImport"
+  },
+  "tabBackup": {
+    "message": "גיבוי",
+    "description": "UI: tabBackup"
+  },
+  "tabAbout": {
+    "message": "אודות",
+    "description": "UI: tabAbout"
+  },
+  "themeToggle": {
+    "message": "ערכת נושא",
+    "description": "UI: themeToggle"
+  },
+  "scanExisting": {
+    "message": "סריקת סימניות קיימות",
+    "description": "UI: scanExisting"
+  },
+  "scanDesc": {
+    "message": "ייבא את כל הסימניות מ-Chrome ועבד אותן עם AI",
+    "description": "UI: scanDesc"
+  },
+  "scanBtn": {
+    "message": "סרוק וייבא",
+    "description": "UI: scanBtn"
+  },
+  "uploadHtml": {
+    "message": "העלאת קובץ סימניות",
+    "description": "UI: uploadHtml"
+  },
+  "uploadDesc": {
+    "message": "העלה קובץ HTML שיוצא מ-Chrome",
+    "description": "UI: uploadDesc"
+  },
+  "uploadBtn": {
+    "message": "העלה וייבא",
+    "description": "UI: uploadBtn"
+  },
+  "sheetsBackup": {
+    "message": "גיבוי ל-Google Sheets",
+    "description": "UI: sheetsBackup"
+  },
+  "sheetsDesc": {
+    "message": "שמור את כל הסימניות עם נתוני AI ל-Google Sheet",
+    "description": "UI: sheetsDesc"
+  },
+  "sheetsNotConnected": {
+    "message": "לא מחובר",
+    "description": "UI: sheetsNotConnected"
+  },
+  "connectBtn": {
+    "message": "התחבר ל-Google Sheets",
+    "description": "UI: connectBtn"
+  },
+  "backupNowBtn": {
+    "message": "גבה עכשיו",
+    "description": "UI: backupNowBtn"
+  },
+  "driveExport": {
+    "message": "ייצא ל-Google Drive",
+    "description": "UI: driveExport"
+  },
+  "driveDesc": {
+    "message": "ייצא קובץ CSV ל-Google Drive שלך",
+    "description": "UI: driveDesc"
+  },
+  "exportDriveBtn": {
+    "message": "ייצא ל-Drive",
+    "description": "UI: exportDriveBtn"
+  },
+  "exportCsvBtn": {
+    "message": "ייצא כ-CSV",
+    "description": "UI: exportCsvBtn"
+  },
+  "cancelBtn": {
+    "message": "בטל",
+    "description": "UI: cancelBtn"
+  }
+}

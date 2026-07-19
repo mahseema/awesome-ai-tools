@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Bookmarks — Settings</title>
+  <link rel="stylesheet" href="options.css">
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="sidebar-brand">
+        <span class="brand-icon">&#10024;</span>
+        <span class="brand-name">AI Bookmarks</span>
+      </div>
+      <nav class="sidebar-nav">
+        <button class="nav-item active" data-tab="api"><span class="nav-icon">&#9889;</span><span>API</span></button>
+        <button class="nav-item" data-tab="categories"><span class="nav-icon">&#128203;</span><span>Categories</span></button>
+        <button class="nav-item" data-tab="import"><span class="nav-icon">&#11014;</span><span>Import</span></button>
+        <button class="nav-item" data-tab="backup"><span class="nav-icon">&#128190;</span><span>Backup</span></button>
+        <button class="nav-item" data-tab="ranking"><span class="nav-icon">&#128202;</span><span>Ranking</span></button>
+        <button class="nav-item" data-tab="about"><span class="nav-icon">&#8505;</span><span>About</span></button>
+      </nav>
+      <div class="sidebar-footer">
+        <button id="btn-theme-toggle" class="nav-item theme-toggle" title="Toggle dark/light mode">
+          <span class="nav-icon">&#127769;</span>
+          <span>Theme</span>
+        </button>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="main-header">
+        <h1>AI Bookmarks</h1>
+        <p class="subtitle">Configure your AI-powered bookmark manager</p>
+      </header>
+
+      <div class="tab-content">
+        <section id="tab-api" class="section active">
+          <h2>API Configuration</h2>
+
+          <div class="setup-guide card">
+            <h3>Get Started Free</h3>
+            <ol class="guide-steps">
+              <li><strong>Go to</strong> <a href="https://openrouter.ai/keys" target="_blank" rel="noopener">openrouter.ai/keys</a> &mdash; sign in with Google</li>
+              <li><strong>Create</strong> a free API key &mdash; 100% free</li>
+              <li><strong>Paste</strong> the key below and pick a free model</li>
+            </ol>
+          </div>
+
+          <div class="field-group">
+            <label class="field-label">AI Provider</label>
+            <select id="provider-select" class="select-input"></select>
+          </div>
+
+          <div id="provider-openrouter" class="provider-section">
+            <div class="field-group">
+              <label for="openrouter-api-key" class="field-label">OpenRouter API Key</label>
+              <div class="input-row">
+                <input type="password" id="openrouter-api-key" class="text-input" placeholder="sk-or-v1-..." autocomplete="off">
+                <button class="btn btn-ghost" id="btn-toggle-or-key">Show</button>
+                <button class="btn btn-secondary" id="btn-test-or-key">Test</button>
+              </div>
+              <p id="openrouter-key-status" class="status-msg"></p>
+            </div>
+            <div class="field-group">
+              <label for="model-select" class="field-label">Model</label>
+              <select id="model-select" class="select-input"></select>
+              <input type="text" id="model-custom" class="text-input hidden" placeholder="e.g. tencent/hunyuan-a13b-instruct:free" autocomplete="off" style="margin-top:6px">
+              <p class="field-desc">Live free-model list from OpenRouter. Pick “✏️ Custom…” to paste any model id from <a href="https://openrouter.ai/models?max_price=0" target="_blank" rel="noopener">openrouter.ai/models</a>.</p>
+            </div>
+          </div>
+
+          <div id="provider-anthropic" class="provider-section hidden">
+            <div class="field-group">
+              <label for="api-key" class="field-label">Claude API Key</label>
+              <div class="input-row">
+                <input type="password" id="api-key" class="text-input" placeholder="sk-ant-..." autocomplete="off">
+                <button class="btn btn-ghost" id="btn-toggle-key">Show</button>
+                <button class="btn btn-secondary" id="btn-test-key">Test</button>
+              </div>
+              <p id="api-key-status" class="status-msg"></p>
+            </div>
+          </div>
+
+          <div class="field-group">
+            <label class="field-label">AI Features</label>
+            <label class="checkbox-label">
+              <input type="checkbox" id="enable-categories">
+              <span>Auto-categorize bookmarks into folders</span>
+            </label>
+            <label class="checkbox-label">
+              <input type="checkbox" id="enable-summaries">
+              <span>Generate AI summaries for bookmarks</span>
+            </label>
+          </div>
+        </section>
+
+        <section id="tab-categories" class="section">
+          <h2>Categories</h2>
+          <p class="section-desc">AI will assign bookmarks to these categories</p>
+          <div id="categories-list" class="categories-list"></div>
+          <button class="btn btn-secondary" id="btn-add-category">+ Add Category</button>
+        </section>
+
+        <section id="tab-import" class="section">
+          <h2>Import Bookmarks</h2>
+
+          <div class="card">
+            <h3>Scan Existing Bookmarks</h3>
+            <p class="field-desc">Import all bookmarks from Chrome and process them with AI</p>
+            <button class="btn btn-primary" id="btn-scan-bookmarks">Scan &amp; Import</button>
+            <div id="import-progress" class="import-progress hidden">
+              <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+              <p class="progress-stats" id="progress-stats"></p>
+              <button class="btn btn-ghost btn-sm" id="btn-cancel-import">Cancel</button>
+            </div>
+          </div>
+
+          <div class="card">
+            <h3>Upload Bookmarks File</h3>
+            <p class="field-desc">Upload an HTML export file from Chrome (Bookmarks Manager &rarr; Export)</p>
+            <input type="file" id="upload-html-file" accept=".html,.htm" class="file-input">
+            <button class="btn btn-secondary" id="btn-upload-html">Upload &amp; Import</button>
+          </div>
+        </section>
+
+        <section id="tab-backup" class="section">
+          <h2>Google Sheets Backup</h2>
+
+          <div class="card">
+            <h3>Backup to Google Sheets</h3>
+            <p class="field-desc">Save all bookmarks with AI data to a Google Sheet</p>
+            <div id="sheets-status" class="sheets-status">
+              <span class="status-dot disconnected"></span>
+              <span>Not connected</span>
+            </div>
+            <div class="btn-row">
+              <button class="btn btn-primary" id="btn-connect-sheets">Connect Google Sheets</button>
+              <button class="btn btn-secondary" id="btn-backup-now">Backup Now</button>
+            </div>
+            <p id="sheets-result" class="status-msg"></p>
+          </div>
+
+          <div class="card">
+            <h3>Export to Google Drive</h3>
+            <p class="field-desc">Export a CSV file to your Google Drive</p>
+            <button class="btn btn-secondary" id="btn-export-drive">Export to Drive</button>
+            <p id="drive-result" class="status-msg"></p>
+          </div>
+
+          <div class="card">
+            <h3>Download</h3>
+            <p class="field-desc">Download your bookmark data locally</p>
+            <div class="btn-row">
+              <button class="btn btn-secondary" id="btn-export-json">Export as JSON</button>
+              <button class="btn btn-secondary" id="btn-export-html">Export as HTML</button>
+              <button class="btn btn-secondary" id="btn-export-csv">Export as CSV</button>
+            </div>
+          </div>
+        </section>
+
+        <section id="tab-ranking" class="section">
+          <h2>Smart Ranking</h2>
+          <div class="field-group">
+            <label class="checkbox-label">
+              <input type="checkbox" id="enable-ranking">
+              <span>Enable smart ranking</span>
+            </label>
+          </div>
+          <div id="ranking-weights">
+            <div class="slider-row">
+              <label>Visit frequency</label>
+              <input type="range" id="weight-visits" min="0" max="100" step="5" class="slider">
+              <span id="weight-visits-val" class="slider-val">40%</span>
+            </div>
+            <div class="slider-row">
+              <label>Recency</label>
+              <input type="range" id="weight-recency" min="0" max="100" step="5" class="slider">
+              <span id="weight-recency-val" class="slider-val">30%</span>
+            </div>
+            <div class="slider-row">
+              <label>AI relevance</label>
+              <input type="range" id="weight-relevance" min="0" max="100" step="5" class="slider">
+              <span id="weight-relevance-val" class="slider-val">20%</span>
+            </div>
+            <div class="slider-row">
+              <label>Share popularity</label>
+              <input type="range" id="weight-shares" min="0" max="100" step="5" class="slider">
+              <span id="weight-shares-val" class="slider-val">10%</span>
+            </div>
+            <p id="weight-total-warning" class="status-msg status-warning" style="display:none">Weights must sum to 100%</p>
+          </div>
+        </section>
+
+        <section id="tab-about" class="section">
+          <h2>About</h2>
+          <div class="card">
+            <p><strong>AI Bookmarks</strong> v2.0</p>
+            <p>AI-powered bookmark manager with free AI models, Google Sheets backup, and smart ranking.</p>
+            <p>Powered by the Fable Design System</p>
+          </div>
+          <div class="card danger-zone">
+            <h3>Danger Zone</h3>
+            <p class="field-desc">These actions cannot be undone</p>
+            <div class="btn-row">
+              <button class="btn btn-danger" id="btn-clear-ai-data">Clear AI Data</button>
+              <button class="btn btn-danger" id="btn-reset-all">Reset Everything</button>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <footer class="save-bar">
+        <span id="save-status" class="save-status"></span>
+        <button class="btn btn-primary" id="btn-save">Save Settings</button>
+      </footer>
+    </main>
+  </div>
+  <script type="module" src="options.js"></script>
+</body>
+</html>

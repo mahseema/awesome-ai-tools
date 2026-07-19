@@ -1,0 +1,188 @@
+{
+  "extensionName": {
+    "message": "AI 書籤"
+  },
+  "extensionDescription": {
+    "message": "AI 驅動的書籤管理器，支援自動分類、智慧摘要與跨瀏覽器同步"
+  },
+  "popupTitle": {
+    "message": "AI 書籤"
+  },
+  "searchPlaceholder": {
+    "message": "搜尋書籤..."
+  },
+  "settingsButton": {
+    "message": "設定"
+  },
+  "shareButton": {
+    "message": "↗ 分享收藏集"
+  },
+  "allCategory": {
+    "message": "全部"
+  },
+  "uncategorized": {
+    "message": "未分類"
+  },
+  "aiPending": {
+    "message": "AI 處理中…"
+  },
+  "retryAi": {
+    "message": "重試 AI"
+  },
+  "noApiKeyBanner": {
+    "message": "⚠ 未設定 API 金鑰 —"
+  },
+  "configureInSettings": {
+    "message": "前往設定"
+  },
+  "contextMenuBookmark": {
+    "message": "使用 AI 書籤儲存"
+  },
+  "optionsTitle": {
+    "message": "AI 書籤設定"
+  },
+  "optionsSubtitle": {
+    "message": "設定您的 AI 書籤管理器"
+  },
+  "emptyTitle": {
+    "message": "還沒有書籤"
+  },
+  "emptySub": {
+    "message": "按 Ctrl+D 儲存頁面，或按右鍵 →「使用 AI 書籤儲存」"
+  },
+  "loading": {
+    "message": "載入中…"
+  },
+  "shareModalTitle": {
+    "message": "分享收藏集"
+  },
+  "collectionNameLabel": {
+    "message": "收藏集名稱"
+  },
+  "descriptionLabel": {
+    "message": "描述（選填）"
+  },
+  "visibilityLabel": {
+    "message": "可見性"
+  },
+  "visibilityLink": {
+    "message": "擁有連結的任何人"
+  },
+  "visibilityPublic": {
+    "message": "公開"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "share": {
+    "message": "分享"
+  },
+  "copy": {
+    "message": "複製"
+  },
+  "copied": {
+    "message": "已複製！"
+  },
+  "shareableLink": {
+    "message": "分享連結："
+  },
+  "tabAi": {
+    "message": "AI 設定"
+  },
+  "tabCategories": {
+    "message": "分類"
+  },
+  "tabRanking": {
+    "message": "排名"
+  },
+  "tabData": {
+    "message": "資料"
+  },
+  "saveSettings": {
+    "message": "儲存設定"
+  },
+  "tabApi": {
+    "message": "API",
+    "description": "UI: tabApi"
+  },
+  "tabImport": {
+    "message": "匯入",
+    "description": "UI: tabImport"
+  },
+  "tabBackup": {
+    "message": "備份",
+    "description": "UI: tabBackup"
+  },
+  "tabAbout": {
+    "message": "關於",
+    "description": "UI: tabAbout"
+  },
+  "themeToggle": {
+    "message": "主題",
+    "description": "UI: themeToggle"
+  },
+  "scanExisting": {
+    "message": "掃描現有書籤",
+    "description": "UI: scanExisting"
+  },
+  "scanDesc": {
+    "message": "從Chrome導入所有書籤並用AI處理",
+    "description": "UI: scanDesc"
+  },
+  "scanBtn": {
+    "message": "掃描並匯入",
+    "description": "UI: scanBtn"
+  },
+  "uploadHtml": {
+    "message": "上傳書籤檔案",
+    "description": "UI: uploadHtml"
+  },
+  "uploadDesc": {
+    "message": "上傳從Chrome匯出的HTML檔案",
+    "description": "UI: uploadDesc"
+  },
+  "uploadBtn": {
+    "message": "上傳並匯入",
+    "description": "UI: uploadBtn"
+  },
+  "sheetsBackup": {
+    "message": "備份到Google試算表",
+    "description": "UI: sheetsBackup"
+  },
+  "sheetsDesc": {
+    "message": "將所有書籤及AI資料保存到Google試算表",
+    "description": "UI: sheetsDesc"
+  },
+  "sheetsNotConnected": {
+    "message": "未連線",
+    "description": "UI: sheetsNotConnected"
+  },
+  "connectBtn": {
+    "message": "連接Google試算表",
+    "description": "UI: connectBtn"
+  },
+  "backupNowBtn": {
+    "message": "立即備份",
+    "description": "UI: backupNowBtn"
+  },
+  "driveExport": {
+    "message": "匯出到Google雲端硬碟",
+    "description": "UI: driveExport"
+  },
+  "driveDesc": {
+    "message": "將CSV檔案匯出到Google雲端硬碟",
+    "description": "UI: driveDesc"
+  },
+  "exportDriveBtn": {
+    "message": "匯出到雲端硬碟",
+    "description": "UI: exportDriveBtn"
+  },
+  "exportCsvBtn": {
+    "message": "匯出為CSV",
+    "description": "UI: exportCsvBtn"
+  },
+  "cancelBtn": {
+    "message": "取消",
+    "description": "UI: cancelBtn"
+  }
+}

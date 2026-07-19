@@ -1,0 +1,10 @@
+{
+  "name": "ai-bookmarks-extension",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AI-powered bookmark manager Chrome extension (MV3)",
+  "scripts": {
+    "test": "node --test 'tests/*.test.js'"
+  }
+}
