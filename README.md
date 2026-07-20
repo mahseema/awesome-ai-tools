@@ -220,6 +220,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Inline Help](https://inlinehelp.com) - Answer customer questions before they ask
 - [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
 - [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
+- [Hellomatik](https://hellomatik.com) - AI agents that turn your company knowledge into 24/7 support that answers, sells and books across WhatsApp, email and web.
 
 
 ### Other text generators
