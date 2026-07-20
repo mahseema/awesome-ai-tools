@@ -77,6 +77,10 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Intercom](https://www.intercom.com/)** - AI-enhanced customer messaging platform that provides real-time support and personalized interactions.
 - **[Tidio](https://www.tidio.com/)** - AI chatbot platform that automates customer support and engagement through live chat and chatbots.
 
+## Agencies
+
+- **[Great AI Marketing](https://greataimarketing.com)** - An AI-powered marketing agency for growing businesses.
+
 ---
 
 ## Contributing
