@@ -172,6 +172,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Transgate](https://transgate.ai/) - AI Speech to Text
 - [RabbitHoles AI](https://www.rabbitholes.ai/) - Chat with AI on an Infinite Canvas
 - [Rember](https://www.rember.com/) - A simple yet powerful spaced repetition system designed to help you remember more.
+- [Flevy](https://flevy.com) - Marketplace of 10,000+ business frameworks, templates, and financial models, with an MCP connector for Claude and other AI assistants.
 - [Qurate](https://qurate.appcradle.net/) - AI Quote Companion, which can help in finding relavant quotes according to the context.
 - [FirmOS](https://www.firmos.ai/) - AI-Powered Automation for Accounting Firms
 - [Whisper API](https://whisper-api.com) - Whisper API is a Transcription API Powered By OpenAI Whisper model. Get 5 free transcriptions daily (no duration limits) with robust control over the model's parameters like size, temperature, beam size and more.
