@@ -192,6 +192,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
 
 
+- [KPI Depot](https://kpidepot.com) - 20,000+ corporate KPIs and 30,000+ source-attributed benchmarks, with an MCP connector for Claude and other AI assistants.
+
 ### Meeting assistants
 
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
