@@ -20,6 +20,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Jasper AI](https://www.jasper.ai/)** - AI-based copywriting tool to generate blog posts, social media updates, and ad copy.
 - **[Phrasee](https://www.phrasee.co/)** - AI-powered platform for generating optimized marketing messages, including email and social media copy.
 - **[Copy.ai](https://www.copy.ai/)** - AI-powered copywriting tool for generating ad copy, product descriptions, and website content.
+- **[GemSetu Free Tools](https://www.gemsetu.com/tools)** - 40 free AI generators (business names, slogans, SWOT analysis, business plans) plus 7 calculators built for India's Government e-Marketplace sellers.
 - **[Writesonic](https://writesonic.com/)** - AI writing assistant for marketing content, blogs, and sales copy generation.
 - **[AI Story Book](https://aistorybook.app)** – Illustrated AI storybooks with tools for sharing on socials. Great for marketing through storytelling.
 
