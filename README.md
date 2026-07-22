@@ -286,6 +286,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Mintlify](https://mintlify.com/) - AI powered documentation writer.
 - [Debuild](https://debuild.app/) - AI-powered low-code tool for web apps.
 - [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
+- - **[Marketing Studio](https://github.com/AtlasCloudAI/atlas-marketing-studio)** - Open-source AI ad studio for turning product references and creative briefs into e-commerce video ads, including UGC, remakes, drama ads, and skits.
 - [CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you stay confident when you push.
 - [PR-Agent](https://github.com/Codium-ai/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions, and more.
 - [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
