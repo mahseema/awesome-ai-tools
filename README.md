@@ -208,7 +208,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API](https://github.com/paperswithcode/galai).
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 - [Sourcely](https://www.sourcely.net/) - Academic Citation Finding Tool with AI
-- [CiteMe](https://citeme.app/) - AI-powered citation generator that searches 8+ academic databases and formats references in 40+ citation styles (APA, MLA, Chicago, ABNT, etc.).
+- [CiteMe](https://citeme.app/) - Academic citation generator with a reference checker that flags fabricated references. Searches 10+ academic databases and formats references in 60 curated citation styles (APA, MLA, Chicago, ABNT, etc.).
 - [SciSpace](https://scispace.com/) - AI Chat for scientific PDFs.
 - [NotebookLM](https://notebooklm.google.com/) - AI Chat on your own document, link and text resources.
 - [Mathos AI](https://www.mathgptpro.com/) - Best AI math solver, calculator & tutor.
