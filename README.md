@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [QuantLink](https://www.quantlink.ai) - AI-powered equity research terminal for US stocks with deep-research agents grounded in SEC filings, a stock screener, institutional 13F holder analysis, insider activity, and congressional trade tracking. Free tier available.
 
 
 ## Learning resources
