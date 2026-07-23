@@ -547,6 +547,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Melies](https://melies.co) - AI Filmmaking software
 
 
+- [Own Your Power](https://fg-ownyourpower.com) - Anti-bullying platform with 40+ AI tools to analyze manipulative messages, detect gaslighting, document incidents, and learn your rights at school, work, or online.
+
 ## Learning resources
 
 - [Learn Prompting](https://learnprompting.org/) - A free, open-source course on communicating with artificial intelligence.
