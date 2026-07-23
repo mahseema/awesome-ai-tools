@@ -110,6 +110,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [RapidTextAI](https://app.rapidtextai.com/) - Write Advance Articles using Multiple AI Models like GPT4, Gemini, Deepseek and grok.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
+- [Humanize-Text](https://github.com/lynote-ai/humanize-text) - Open-source AI text humanizer with a multilingual rewriting pipeline and reproducible examples.
 - [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
 - [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
 - [Quick Creator](https://quickcreator.io) - SEO-Optimized Blog platform powered by AI.
@@ -209,6 +210,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 - [Sourcely](https://www.sourcely.net/) - Academic Citation Finding Tool with AI
 - [SciSpace](https://scispace.com/) - AI Chat for scientific PDFs.
+- [AI Text Detector](https://github.com/lynote-ai/ai-text-detector) - Explainable local AI-text risk analyzer with cautious scoring, short-text guardrails, and CLI/API support.
 - [NotebookLM](https://notebooklm.google.com/) - AI Chat on your own document, link and text resources.
 - [Mathos AI](https://www.mathgptpro.com/) - Best AI math solver, calculator & tutor.
 
