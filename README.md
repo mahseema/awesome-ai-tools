@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [AIToolTier](https://aitooltier.com) - Objective tier-list rankings (S to F) and real-world evaluation metrics for 140+ AI tools across 23 categories.
 
 
 ## Learning resources
