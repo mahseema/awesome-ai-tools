@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [whatbroke](https://github.com/arthi-arumugam-git/whatbroke) - CLI that diffs an AI agent's behavior between two runs: dropped tool calls, changed arguments, cost and latency drift. Runs offline. [#opensource](https://github.com/arthi-arumugam-git/whatbroke)
 
 
 ## Code
