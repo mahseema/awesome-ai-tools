@@ -40,6 +40,7 @@ A curated list of AI tools for image processing, generation, editing, and enhanc
 
 - **[TinyPNG](https://tinypng.com/)** - AI-based image compression tool that reduces image file sizes while maintaining high quality.
 - **[Squoosh](https://squoosh.app/)** - Open-source image compression tool powered by AI that reduces image size without losing visible quality.
+- **[SammaPix](https://www.sammapix.com/tools/compress)** - Browser-based image compressor and optimizer (JPG, PNG, WebP) that runs fully client-side via WebAssembly, with AI background removal and upscaling in the same suite.
 
 ---
 
