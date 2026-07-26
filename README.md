@@ -69,6 +69,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
 
 
+- [Gpt](https://trygrokai.asia/) - A browser-based AI chat entry for quick writing, research, summaries, translation, brainstorming, and productivity questions.
+
 ### Search engines
 
 - [Kazimir.ai](https://kazimir.ai/) - A search engine designed to search AI-generated images. 
