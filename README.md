@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [Green Sage](https://www.greensage.co.uk/) - Browser-based AI plant identification and visible-symptom guidance with free tools and no app-store install.
 
 
 ## Learning resources
