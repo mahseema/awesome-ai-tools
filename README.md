@@ -363,6 +363,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [Microsoft Designer](https://designer.microsoft.com/) - Stunning designs in a flash.
+- [Kodo](https://usekodo.ai/) - Generate editable, layered presentations, posters, menus, flyers, and social graphics from text prompts.
 - [SVGStud.io](https://svgstud.io/) - AI-based SVG Generation and Semantic Seach
 - [Text2Infographic](https://text2infographic.com/) - AI infographic generator and editor.
 - [Seede.ai](https://seede.ai/) - Create a stunning poster in just 1 minute with Seede.
