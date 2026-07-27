@@ -151,7 +151,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=mahseema-awesome-ai-tools) - Forget about frustrating formulas in Google Sheets.
 - [CreateEasily](https://createeasily.com/?ref=mahseema-awesome-ai-tools) - Free speech-to-text tool for content creators that accurately transcribes audio & video files up to 2GB.
 - [Cosmos](https://meetcosmos.com/) - Use AI locally and offline to search your media files by their content, find similar images or video scenes using reference images, and transcribe video.
-- [DevProjex](https://github.com/Avazbek22/DevProjex) - Cross-platform GUI and CLI for selecting project files, filtering, previewing, and exporting structured, token-counted context with Smart Ignore.
 - [aiPDF](https://aipdf.ai) - The most advanced AI document assistant
 - [Summary With AI](https://www.summarywithai.com/) - Summarize any long PDF with AI. Comprehensive summaries using information from all pages of a document.
 - [Emilio](https://getemil.io?ref=mahseema-awesome-ai-tools) - Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time
@@ -303,6 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [DevProjex](https://github.com/Avazbek22/DevProjex) - Cross-platform GUI and CLI for selecting project files and exporting structured, token-counted context with Smart Ignore.
 
 
 ## Image
