@@ -333,6 +333,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Playground AI](https://playgroundai.com/) - Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.
 - [Pixelz AI Art Generator](https://pixelz.ai/) - Pixelz AI Art Generator enables you to create incredible art from text. Stable Diffusion, CLIP Guided Diffusion & PXL·E realistic algorithms available.
 - [modyfi](https://www.modyfi.io/) - The image editor you've always wanted. AI-powered creative tools in your browser. Real-time collaboration.
+- [Gracestack Studio](https://studio.gracestack.se) — AI-powered apparel design studio. Describe a garment → AI generates print-ready designs, mock them up on hoodies, export PNG. Free tier available.
 - [Ponzu](https://www.ponzu.ai/) - Ponzu is your free AI logo generator. Build your brand with creatively designed logos in seconds, using only your imagination.
 - [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
 - [PhotoGuruAI](https://photoguruai.com/) - Create professional AI Headshots in various styles.
