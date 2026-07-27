@@ -243,6 +243,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource](https://github.com/langfuse/langfuse)
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine-tune LLM, CV, and tabular models.
 - [Prediction Guard](https://www.predictionguard.com/) - Seamlessly integrate private, controlled, and compliant Large Language Models (LLM) functionality.
+- [UnblockAPI](https://unblockapi.com) - API for AI agents providing captcha solving (40+ types), headless browser rendering, temp email, SMS verification, screenshots, and web search. Flat pricing from $0.05/call, 5 free calls.
 - [Portkey](https://portkey.ai/) - Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.
 - [OpenAI Downtime Monitor](https://status.portkey.ai/) - Free tool that tracks API uptime and latencies for various OpenAI models and other LLM providers.
 - [ChatWithCloud](https://chatwithcloud.ai/) - CLI allowing you to interact with AWS Cloud using human language inside your Terminal.
