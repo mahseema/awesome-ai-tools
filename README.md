@@ -491,6 +491,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Mubert](https://mubert.com/) - A royalty-free music ecosystem for content creators, brands and developers.
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research for generating high-fidelity music from text descriptions.
 - [Remusic](https://remusic.ai/en) - AI Music Generator and Music Learning Platform Online Free.
+- [BopMe](https://bopme.co) - Turns a few details about a person into a funny, personalized song about them, sung in any of 60+ music styles.
 
 ## Other
 
