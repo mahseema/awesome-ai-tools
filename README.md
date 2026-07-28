@@ -302,6 +302,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [Compound Engineering](https://github.com/EveryInc/compound-engineering-plugin) - Official multi-agent plugin for Claude Code, Codex, Cursor and more; 50+ specialized agents across a plan → build → review → compound-learnings workflow. [Setup guide](https://dibi8.com/resources/llm-frameworks/compound-engineering-multi-agent-coding-claude-codex-cursor/)
+- [Impeccable](https://github.com/pbakaus/impeccable) - Design-language skill that stops AI-generated UI from looking like AI slop; anti-pattern detector + vocabulary injection for Claude Code, Cursor, Copilot. [Guide](https://dibi8.com/resources/ai-tools/impeccable-ai-design-language-harness-quality-ui/)
 
 
 ## Image
