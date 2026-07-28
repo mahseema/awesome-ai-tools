@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [AI Tools Catalog 2026](https://gumroad.com/l/dasiof) - A comprehensive catalog of 300+ AI tools across 15 categories with prices, ratings, and best-use cases. Free.
 
 
 ## Learning resources
@@ -554,6 +555,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
+- [100+ ChatGPT Prompts That Actually Work](https://gumroad.com/l/zjxexn) - 100+ tested AI prompts for business, marketing, productivity, and more. Free.
 
 ## Learn AI free
 ### Machine Learning
