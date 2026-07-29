@@ -322,7 +322,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ### Services
 
 - [YingTu](https://yingtu.ai/en) - Browser playground for testing AI image and video routes, prompts, reference inputs, options, task status, and downloads.
-
 - [Craiyon](https://www.craiyon.com/) - Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
 - [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder is a new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
