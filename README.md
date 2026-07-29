@@ -328,6 +328,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Magic Eraser](https://www.magiceraser.io/) - Remove unwanted things from images in seconds.
 - [Imagine by Magic Studio](https://magicstudio.com/imagine) - A tool by Magic Studio that let's you express yourself by just describing what's on your mind.
 - [Alpaca](https://www.getalpaca.io/) - Stable Diffusion Photoshop plugin.
+- [Gracestack Fashion AI](https://tools.gracestack.se/fashion-api.html) - Free AI text-to-fashion design tool. Generate unique avant-garde clothing designs from text descriptions. No sign-up required.
 - [Patience.ai](https://www.patience.ai/) - Patience.ai is an app for creating images with Stable Diffusion, a cutting-edge AI developed by Stability.AI.
 - [GenShare](https://www.genshare.io/) - Generate art in seconds for free. Own and share what you create. A multimedia generative studio, democratizing design and creativity.
 - [Playground AI](https://playgroundai.com/) - Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.
