@@ -321,7 +321,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Services
 
-- [YingTu](https://yingtu.ai/en) - Browser playground for testing AI image and video routes, prompts, reference inputs, options, task status, and downloads.
 - [Craiyon](https://www.craiyon.com/) - Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
 - [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder is a new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
@@ -356,6 +355,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - [PlantTattoosAI](https://www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
+- [YingTu](https://yingtu.ai/en) - Browser playground for testing AI image and video routes, prompts, reference inputs, options, task status, and downloads.
 
 
 
