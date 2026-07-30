@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [rote](https://roteskills.com) - CLI that compiles a proven AI agent skill (a SKILL.md plus references) into a typed, deterministic pipeline of reviewable Python or TypeScript with per-step tests, targeting DBOS, Temporal, Cloudflare Workflows, Inngest, or plain code. [#opensource](https://github.com/trevhud/rote)
 
 
 ## Code
