@@ -51,6 +51,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 ## Advertising
 
 - **[Adzooma](https://www.adzooma.com/)** - Automates PPC campaign management across Google, Microsoft, and Facebook Ads platforms with AI insights.
+- **[AdRoast](https://www.adroast.ai/)** - AI ad generator with pre-launch creative scoring for Meta/TikTok-style ads. Free [scorecard + hooks kit](https://github.com/Mustak4/adroast-creative-kit).
 - **[Albert AI](https://albert.ai/)** - Fully autonomous AI-driven platform for managing cross-channel digital advertising campaigns.
 - **[AdEspresso](https://adespresso.com/)** - AI-based optimization tool for managing and scaling Facebook and Google ad campaigns.
 
