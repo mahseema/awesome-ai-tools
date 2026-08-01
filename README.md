@@ -493,6 +493,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Remusic](https://remusic.ai/en) - AI Music Generator and Music Learning Platform Online Free.
 
 ## Other
+- [DAUDIT](https://www.daudit.net) - Decision-context engine that audits your thinking across five dimensions before you commit to irreversible decisions.
 
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
