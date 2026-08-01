@@ -484,6 +484,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
 - [CustomPod.io](https://custompod.io) - Generate daily news podcasts only on the topics you care about.
 - [EKHOS AI](https://ekhos.ai) - An AI speech-to-text software with powerful proofreading features. Transcribe most audio or video files with real-time recording and transcription.
+- [MiniMax TTS](https://platform.minimax.io/docs/api-reference/speech-t2a-http) - Text-to-speech API with the `speech-2.8-hd` model via `POST /v1/t2a_v2`.
   
 ### Music
 
