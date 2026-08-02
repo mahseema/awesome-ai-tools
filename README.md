@@ -194,6 +194,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Meeting assistants
 
+- [Wingman](https://wingman.expert/en) - A macOS real-time AI conversation assistant for meetings, interviews, sales calls, and presentations that provides live contextual suggestions without joining the call as a bot.
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
 - [Cogram](https://www.cogram.com/) - Cogram takes automatic notes in virtual meetings and identifies action items.
 - [Sybill](https://www.sybill.ai/) - Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
