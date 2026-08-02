@@ -99,6 +99,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Nexus AI](https://mynexusai.com/) - Nexus AI is a generative cutting-edge AI Platform for writing, coding, voiceovers, research, image creation and beyond.
 - [Moonbeam](https://www.gomoonbeam.com/) - Better blogs in a fraction of the time.
 - [copy.ai](https://www.copy.ai/) - Write better marketing copy and content with AI.
+- [ListingAI](https://lijustin655.github.io/f1-listingai/) - Free AI listing generator for Amazon & TikTok Shop sellers. Generates optimized titles, bullets, and descriptions in 30 seconds.
 - [Anyword](https://anyword.com/) - Anyword's AI writing assistant generates effective copy for anyone.
 - [Contenda](https://contenda.co/) - Create the content your audience wants, from content you've already made.
 - [Hypotenuse AI](https://www.hypotenuse.ai/) - Turn a few keywords into original, insightful articles, product descriptions and social media copy.
