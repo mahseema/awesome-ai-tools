@@ -178,6 +178,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Smmry](https://smmry.com/) - Summarize Long Content Into Clear Insights
 - [Nudge AI](https://getnudgeai.com/) - Ambient AI Scribe for Healthcare
 - [Summara](https://summara.io/) - YouTube AI Summary and Transcript widget
+- [ExtraBrain](https://extrabrain.app) - macOS copilot for live interviews and technical meetings with screen-aware analysis and local transcription.
 - [Mocha](https://getmocha.com) - AI app builder
 - [Marblism](https://marblism.com) - AI Employees for your business
 - [Spell](https://spellapp.com) - Spell is the AI alternative to Google Docs
