@@ -178,7 +178,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Smmry](https://smmry.com/) - Summarize Long Content Into Clear Insights
 - [Nudge AI](https://getnudgeai.com/) - Ambient AI Scribe for Healthcare
 - [Summara](https://summara.io/) - YouTube AI Summary and Transcript widget
-- [ExtraBrain](https://extrabrain.app) - macOS copilot for live interviews and technical meetings with screen-aware analysis and local transcription.
 - [Mocha](https://getmocha.com) - AI app builder
 - [Marblism](https://marblism.com) - AI Employees for your business
 - [Spell](https://spellapp.com) - Spell is the AI alternative to Google Docs
@@ -191,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [ExtraBrain](https://extrabrain.app) - macOS copilot for live interviews and technical meetings with screen-aware analysis and local transcription.
 
 
 ### Meeting assistants
