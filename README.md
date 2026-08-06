@@ -65,6 +65,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Tiledesk](https://tiledesk.com/) - *[reviews](https://altern.ai/product/tiledesk)* - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
 - [AICamp](https://aicamp.so/) - *[reviews](#)* - ChatGPT for Teams
 - [Gali Chat](https://www.galichat.com/) - *[reviews](#)* - Your 24/7 AI Support Assistant that helps you grow your business!
+- [Zicisi AI](https://zicisi.fun) - All-in-one AI toolkit with multi-model chat (DeepSeek/GPT/Claude/Doubao/Gemini), image generation, writing assistant, data analysis, and video generation. Free 50 credits on signup.
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://altern.ai/product/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
 
