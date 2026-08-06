@@ -270,7 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
-- [usage](https://github.com/aqua5230/usage) - macOS menu bar tracker for Claude Code and Codex quota, tokens, and cost. Reads only local files, with no Anthropic or OpenAI API calls. [#opensource](https://github.com/aqua5230/usage)
+- [usage](https://github.com/aqua5230/usage) - macOS menu bar and Windows tray tracker for Claude Code, Codex, and Antigravity quota, tokens, and cost. No LLM API calls; Claude Code and Codex read only local files. [#opensource](https://github.com/aqua5230/usage)
 
 
 ## Code
