@@ -86,6 +86,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - [privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.
 - [quivr](https://github.com/StanGirard/quivr) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
+- [GI JI](https://giji.agency/) - Answers from your own documents on your own machine, shows the exact source passage behind every answer, and refuses when your documents do not contain it.
 
 ### Writing assistants
 
