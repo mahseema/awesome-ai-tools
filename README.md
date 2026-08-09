@@ -389,6 +389,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
 - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
 
+- [Ainexusdaily](https://ainexusdaily.vercel.app) - A free, no-signup daily digest of the top AI model releases, research, and tools in one clean feed.
 ## Video
 
 - [RunwayML](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
