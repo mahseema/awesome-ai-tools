@@ -288,6 +288,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
 - [CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you stay confident when you push.
 - [PR-Agent](https://github.com/Codium-ai/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions, and more.
+- [heygrc](https://heygrc.com/) - GitHub App that reviews every pull request against compliance frameworks (ISO 27001, SOC 2, GDPR, EU AI Act, and more), flags control-risk changes, and cites the exact control clause. By ISMS Copilot.
 - [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
 - [TurboPilot](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone that uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 - [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - An open-source implementation of OpenAI's ChatGPT Code interpreter.
