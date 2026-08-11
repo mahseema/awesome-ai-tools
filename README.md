@@ -547,6 +547,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Melies](https://melies.co) - AI Filmmaking software
 
 
+- [BundleDex](https://bundledex.net/) - The largest directory of 500+ Open Knowledge Format (OKF) bundles for AI agents, with llms.txt and an MCP endpoint, free to submit.
+
 ## Learning resources
 
 - [Learn Prompting](https://learnprompting.org/) - A free, open-source course on communicating with artificial intelligence.
