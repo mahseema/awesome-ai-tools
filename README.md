@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Token Efficiency](https://github.com/zangxin75/token-efficiency) - Open-source LLM gateway with token compression, semantic caching, multi-tenant cost analytics, and pre-request quota enforcement. Compatible with OpenAI/Claude/DeepSeek/GLM APIs. [#opensource](https://github.com/zangxin75/token-efficiency)
 
 
 ## Code
