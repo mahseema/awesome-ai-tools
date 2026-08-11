@@ -494,6 +494,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Other
 
+- [Tollgate](https://github.com/landjunge/tollgate) - Safety layer for AI agents in production (Protect · Route · Prove): budgets, tool-loop stops, failover, chaos proof. OpenAI drop-in.
+- [Gnom-Hub](https://github.com/landjunge/gnom-hub-v1) - Local multi-agent control hub: brainstorm freely, execute workers only when you press Execute. No Docker.
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
