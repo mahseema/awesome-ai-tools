@@ -227,6 +227,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
 - [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
 - [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=mahseema-awesome-ai-tools) - Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
+- [AI2Human](https://ai2human.app) - AI text humanizer and [AI content detector](https://ai2human.app/ai-detector); includes an [open benchmark corpus](https://github.com/chajahmed/ai2human-detection-benchmark) of raw-AI, human, and humanized text samples for testing detectors.
 
 
 ### Developer tools
