@@ -255,6 +255,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Plandex](https://github.com/plandex-ai/plandex) - Open source, terminal-based AI programming engine for complex tasks.
 - [AI/ML API](https://aimlapi.com/?utm_source=github+of+altern.ai) - AI/ML API gives developers access to 100+ AI models with one API.
 - [Callstack.ai PR Reviewer](https://callstack.ai/pr-reviewer) - Automated Code Reviews: Find Bugs, Fix Security Issues, and Speed Up Performance.
+- [FlowBar](https://flowbarai.com) — Unified API for 50+ AI models (GPT, Claude, Gemini, DeepSeek, Qwen, GLM, Kimi). OpenAI compatible. Pay via Waffo (430+ local methods, Apple/Google Pay), WeChat, Alipay, USDT/USDC, PayPal. 5-10% below OpenRouter.
 - [Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
 - [Kiln](https://getkiln.ai) - Intuitive app to build your own AI models. Includes no-code synthetic data generation, fine-tuning, dataset collaboration, and more.
 - [Calmo](https://getcalmo.com/) - Debug Production x10 Faster with AI.
