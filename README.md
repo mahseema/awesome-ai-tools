@@ -589,6 +589,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)
 - [Top AI Directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
+- [CV Forge](https://github.com/DeusAcc/cv-forge-ai-resume-builder) - Paste raw notes, get a typeset ATS-friendly PDF resume. Free tier, paid API.
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
