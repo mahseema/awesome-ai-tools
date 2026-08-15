@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [SandBase CLI](https://github.com/sandbaseai/cli) - Open-source, agent-first CLI that connects AI coding clients to 2,000+ AI models through MCP with one account. [#opensource](https://github.com/sandbaseai/cli)
 
 
 ## Code
