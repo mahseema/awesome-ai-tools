@@ -524,6 +524,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Context Data](https://contextdata.ai/) - Data Processing & ETL infrastructure for Generative AI applications
 - [ezJobs](https://www.getezjobs.com/) - Automated job search and applications
 - [Compass](https://www.getwhys.io/compass) - AI driven answers to SaaS research questions
+- [IdeaHunter](https://ideahunter.today) - Demand-backed startup idea research and validation for solo founders.
 - [Adon AI](https://adon-web.awakast.com/en/recruiter/) - CV screening automation and blind CV generator, AI backed ATS
 - [Persuva](https://persuva.ai) - Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
 - [Interview Solver](https://interviewsolver.com) - Ace your live coding interviews with our AI Copilot
