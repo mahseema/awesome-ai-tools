@@ -404,6 +404,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
 
 
+- [videos.social](https://videos.social/) - Turns blog posts, PDFs, and prompts into editable faceless videos.
+
 ### Animation
 
 ## Audio
