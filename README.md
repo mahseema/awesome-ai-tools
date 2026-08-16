@@ -231,6 +231,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Developer tools
 
+- [LLM-PQR](https://github.com/Amazed-Labs/llm-pqr) - Open-source, provider-neutral CLI that ranks local and hosted models using measured quality, reliability, latency, token rates, capabilities, and hard privacy/locality requirements. [#opensource](https://github.com/Amazed-Labs/llm-pqr)
 - [Ollama](https://ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps.
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
