@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [pocketnook](https://pocketnook.dev/?utm_source=awesome-ai-tools) - Gives your code a private, secure home in the cloud, straight from GitHub. Connect a repo and it comes back as a private URL, open only to the people you invite.
 
 
 ## Code
