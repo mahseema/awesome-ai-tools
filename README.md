@@ -402,6 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [Faceless.so](https://faceless.so) - AI faceless video generator that writes, voices, and edits shorts (series, Reddit stories, UGC ads, Veo/Kling/Seedance) and auto-posts to YouTube, TikTok, Instagram, X, Facebook, LinkedIn, and Threads.
 
 
 ### Animation
