@@ -81,6 +81,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
 - [Refinder AI](https://refinder.ai/) - AI-powered universal search and assistant for work
 - [Agentset.ai](https://agentset.ai/) - Open-source local Semantic Search + RAG for your data
+- [Dystiny](https://dystiny.com/) - Answer-first AI research with on-demand evidence, saved question paths, and a spatial public Explore map.
 
 ### Local search engines
 
