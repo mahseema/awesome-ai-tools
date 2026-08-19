@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [InterviewFlowAI](https://interviewflowai.com/) - AI-powered candidate screening, skills assessments, and automated video and phone interviews that evaluate aptitude, reasoning, problem-solving, communication, technical skills, and role-specific competencies while generating structured scores, reports, transcripts, and insights to accelerate hiring.
 
 
 ## Learning resources
