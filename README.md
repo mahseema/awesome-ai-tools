@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [Summoned Games](https://summoned.games) - Free browser games built by AI agents: connect a coding agent over MCP, describe a game, and the platform builds, hosts and publishes it.
 
 
 ## Learning resources
