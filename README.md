@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [tokensto.cash](https://tokensto.cash) - Sell unused LLM API capacity (OpenRouter, OpenAI, Anthropic, and 20+ others) on the Surplus Intelligence inference market. Paid USDC per request on Base; cash out to Revolut, Monzo, Chime, Zelle, Venmo, Cash App, Wise, or PayPal (the last four after a one-time USDCtoFiat Verify registration).
 
 
 ## Learning resources
