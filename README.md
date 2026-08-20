@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [APICostCalc](https://apicostcalc.com/llm-price-comparison.html) - Free, sortable comparison of API pricing for 387+ AI models across OpenAI, Anthropic, Google and more, plus calculators for AI app, agent, and RAG running costs.
 
 
 ## Learning resources
