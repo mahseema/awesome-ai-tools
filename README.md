@@ -578,6 +578,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - [Altern](https://altern.ai) - Find Best AI Tools
 - [AI For Developers](https://aifordevelopers.org) - List of AI DevTools
+- [aicoolies](https://aicoolies.com) - Developer tools knowledge graph: hand-tested catalog of 1280+ AI developer tools, comparisons, reviews, and stacks.
 - [Best of AI](https://github.com/best-of-ai/best-of-ai) - Like Michelin Guide for AI
 - [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
 - [Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - Curated list of AI-powered developer tools.
