@@ -270,6 +270,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [OmnisRouter](https://omnisrouter.fortitude-omnis.group/) - Open, self-hosted LLM routing proxy that sends each request to the cheapest capable model across Anthropic, OpenAI and Gemini formats, with a per-request routing receipt. [#opensource](https://github.com/Fortitude-Group/OmnisRouter)
+- [OmnisBench](https://omnisbench.fortitude-omnis.group/) - Open, reproducible benchmark for LLM routing efficiency. Publishes every model response so you can re-grade the leaderboard offline. [#opensource](https://github.com/Fortitude-Group/OmnisBench)
 
 
 ## Code
