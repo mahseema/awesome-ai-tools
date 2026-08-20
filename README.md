@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [NOMS](https://nomsbot.com/en/?src=awesomeai) - AI food tracker in Telegram. Log a meal by photo, voice message or text and get calories, protein, fat, carbs and fiber back in seconds.
 
 
 ## Learning resources
