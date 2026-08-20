@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[SellerMind](https://thesellermind.com/)** - AI-powered Etsy SEO tool that helps sellers optimize listings, calculate fees, and boost sales with data-driven pricing insights.
 
 
 ### Phone Calls
@@ -526,6 +527,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Compass](https://www.getwhys.io/compass) - AI driven answers to SaaS research questions
 - [Adon AI](https://adon-web.awakast.com/en/recruiter/) - CV screening automation and blind CV generator, AI backed ATS
 - [Persuva](https://persuva.ai) - Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
+- **[PodCrisp](https://podcrisp.com/)** - AI-powered podcast naming and SEO tool. Generate the perfect podcast name and optimize discoverability to grow your audience.
 - [Interview Solver](https://interviewsolver.com) - Ace your live coding interviews with our AI Copilot
 - [Socialsonic](https://socialsonic.com) - AI LinkedIn Coach: Personalized content, trends & scheduling.
 - [Napkin](https://www.napkin.ai/) - Napkin turns your text into visuals so sharing your ideas is quick and effective.
