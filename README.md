@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [Atlas Ally](https://atlasally.net) - A personal AI agent that runs 24/7 on its own dedicated EU server: inbox triage, morning briefs, research and admin across 100+ apps, with every write action approved by you.
 
 
 ## Learning resources
