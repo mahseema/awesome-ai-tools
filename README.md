@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [dsh-labnana](https://github.com/exoticknight/dsh-labnana) - Image generation for DeepSeek Harness: text-to-image, image-to-image, precise editing via the Labnana API (NanoBanana Pro, GPT-Image-2, Wan2.7, Seedream). [#opensource](https://github.com/exoticknight/dsh-labnana)
 
 
 ## Code
