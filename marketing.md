@@ -47,6 +47,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Storyshort.ai](https://www.storyshort.ai/)** - Create facless videos automatically with AI.
 - **[Chatfuel](https://www.chatfuel.com/)** - Automates customer engagement on Facebook Messenger with AI-driven chatbots.
 - **[Lately](https://www.lately.ai/)** - AI tool that repurposes long-form content into social media posts optimized for different platforms.
+- **[Spur AI](https://trispur.com)** - Claude-powered LinkedIn content engine: generates posts, hooks, DMs, headlines, and carousels. 8 free no-signup tools.
 
 ## Advertising
 
