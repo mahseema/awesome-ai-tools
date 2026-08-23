@@ -428,6 +428,11 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AInterview.space](https://ainterview.space) – Create AI-hosted podcast interviews. Choose a topic, and Joe (the AI host) will research, host the interview, and generate your episode as audio or video.
 
 
+### AI Audio Processing
+
+- [AudioCraft](https://audiocraft.app/) - AI stem splitter for separating songs into vocals, drums, bass, and other instruments.
+
+
 ### AI Music Generators
 
 *You can also find  more comprehensive list on [There's an AI AI Music Generation Tools list](https://theresanai.com/category/music-generation)*
