@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [OrcaRouter Lite](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) - A self-hosted, OpenAI-compatible LLM router with bring-your-own-key routing across 100+ models, automatic failover, streaming, and cost/latency-based model selection.
 
 
 ## Code
