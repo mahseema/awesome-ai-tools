@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[AvocadoScore](https://avocadoscore.io)** - Audits whether ChatGPT, Claude and Perplexity can crawl, read and cite your site, plus SEO and Core Web Vitals, with a ranked fix list.
 
 
 ### Phone Calls
