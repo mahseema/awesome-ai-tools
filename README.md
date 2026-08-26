@@ -545,7 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
-
+- [Molfar System](https://molfar.nova-hata.com/?lang=en) - Multi-model AI meetings on Android. Four independent AI participants with their own models and providers, an Orchestrator that compares their answers, and a Secretary for project documents. BYOK, no backend, fully local.
 
 ## Learning resources
 
