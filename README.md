@@ -545,7 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
-
+- [ITOC360](https://www.itoc360.com) - AI-first incident management platform for alert correlation, on-call escalation, and incident response automation.
 
 ## Learning resources
 
