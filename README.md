@@ -402,6 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [MiniMax H3 1K Prompt Dataset](https://neta.art/use-cases/en/h3-1000-prompt-list) - Curated 1K text-to-video prompts for MiniMax H3: 3-field structure anatomy, 10 reusable prompts, H3 vs. peer comparison.
 
 
 ### Animation
