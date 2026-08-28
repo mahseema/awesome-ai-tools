@@ -473,6 +473,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Rosie](https://heyrosie.com/) - AI Phone Answering Service
 
 ### Speech
+- [Freeflow](https://github.com/jayamitkatariya/Freeflow) - Voice dictation with screen context you point at. Hold ⌥ to record, circle to capture screenshots, local Parakeet transcription. [Open Source]
 - [Eleven Labs](https://beta.elevenlabs.io/) - AI voice generator.
 - [Resemble AI](https://www.resemble.ai/) - AI voice generator and voice cloning for text to speech.
 - [WellSaid](https://wellsaidlabs.com/) - Convert text to voice in real time.
