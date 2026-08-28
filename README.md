@@ -345,6 +345,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [StockPhotoAI.net](https://www.stockphotoai.net/?ref=mahseema-awesome-ai-tools) - Great stock photos, made for you.
 - [Room Reinvented](https://roomreinvented.com) - Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
 - [Gensbot](https://gensbot.com) - Gensbot uses AI to craft personalised printed merchandise. One prompt creates one unique product to fit your needs.
+- [Luphra](https://www.luphra.com/) - Prompt-to-matter: turn text or sketches into editable 3D and manufactured physical products.
 - [PlantPhotoAI](https://www.plantphotoai.com/) - free AI-generated plant images
 - [RepublicLabs.AI](https://republiclabs.ai/) - multi-model simultaneous generation from a single prompt, fully unrestricted and packed with the latest greatest AI models.
 - [Black Headshots](https://www.blackheadshots.com) - AI headshots generator for black professionals
