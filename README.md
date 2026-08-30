@@ -139,6 +139,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code](https://github.com/mckaywrigley/chatbot-ui).
 - [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
 - [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - One click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses.
+- [Stop the Slop](https://github.com/MauroPello/stop-the-slop) - Open-source browser extension that evaluates YouTube transcripts for AI-generated scripts in real-time.
 
 ### Productivity
 
