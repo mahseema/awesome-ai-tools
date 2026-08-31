@@ -100,6 +100,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Moonbeam](https://www.gomoonbeam.com/) - Better blogs in a fraction of the time.
 - [copy.ai](https://www.copy.ai/) - Write better marketing copy and content with AI.
 - [Anyword](https://anyword.com/) - Anyword's AI writing assistant generates effective copy for anyone.
+- [BidDraft AI](https://jindequan.github.io/bidagent-landing/) - RFP, bid and proposal first drafts in 24 hours, $49 one-off, no subscription.
 - [Contenda](https://contenda.co/) - Create the content your audience wants, from content you've already made.
 - [Hypotenuse AI](https://www.hypotenuse.ai/) - Turn a few keywords into original, insightful articles, product descriptions and social media copy.
 - [Lavender](https://www.lavender.ai/) - Lavender email assistant helps you get more replies in less time.
