@@ -371,6 +371,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Image libraries
 
+- [AesthAI](https://aesthai.omvela.com/) - Curated AI image-generation cases, Agent Skills, reproducible visual methods, source evidence, and license boundaries.
 - [Lexica](https://lexica.art/) - Stable Diffusion search engine.
 - [Libraire](https://libraire.ai/) - The largest library of AI-generated images.
 - [KREA](https://www.krea.ai/) - Explore millions of AI-generated images and create collections of prompts. Featuring Stable Diffusion generations.
