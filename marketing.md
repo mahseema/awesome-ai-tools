@@ -47,6 +47,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Storyshort.ai](https://www.storyshort.ai/)** - Create facless videos automatically with AI.
 - **[Chatfuel](https://www.chatfuel.com/)** - Automates customer engagement on Facebook Messenger with AI-driven chatbots.
 - **[Lately](https://www.lately.ai/)** - AI tool that repurposes long-form content into social media posts optimized for different platforms.
+- **[BulkPublish](https://app.bulkpublish.com/docs)** - AI-agent social media platform for creating, adapting, scheduling, publishing, and analyzing content across connected channels through API and MCP access.
 
 ## Advertising
 
@@ -82,4 +83,3 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 ## Contributing
 
 Contributions are welcome! Please follow the [guidelines](CONTRIBUTING.md) for adding new tools or improving descriptions.
-
