@@ -199,6 +199,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Sybill](https://www.sybill.ai/) - Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
 - [Loopin AI](https://www.loopinhq.com/) - Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar.
 - [Scribbl](https://www.scribbl.co) - AI Meeting Notes
+- [SyntaxCue](https://syntaxcue.com/) - Real-time AI assistant for technical/coding interviews (not general meetings) — BYOK, fully local audio transcription, no backend.
+
 
 ### Academia
 
