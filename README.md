@@ -592,3 +592,4 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+- [awesome-ai-tools-china](https://github.com/qngsvip/awesome-ai-tools-china) — 569 Chinese AI tools curated directory
