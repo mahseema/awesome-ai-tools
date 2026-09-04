@@ -461,6 +461,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[Chatfuel](https://www.chatfuel.com/)** - AI-driven chatbot for automating customer engagement on Messenger.
 - **[LogicBalls](https://logicballs.com/)** - An AI-powered writing tool to create any type of content and supercharge your productivity.
 - **[Rupert AI](https://www.getrupert.com/)** - AI tools for designers and marketers
+- **[Drevon](https://drevon.dev/)** - Mac app that runs AI agents in your own browser to build lead lists, account briefs, and competitor trackers, using the Claude, ChatGPT, or Copilot subscription you already have
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
