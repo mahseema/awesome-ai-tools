@@ -125,6 +125,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### ChatGPT extensions
 
+- [PasteGuard](https://pasteguard-exp2.netlify.app) - Client-side scanner for API keys, tokens, private keys, and PII before pasting into AI chats. [Source](https://github.com/ExtendedUser/pasteguard).
 - [Gist AI](https://www.gistai.tech?utm_source=tool_directory&utm_medium=post&utm_campaign=launch) - ChatGPT-powered free Summarizer for Websites, YouTube and PDF.
 - [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - Augment your ChatGPT prompts with relevant results from the web.
 - [GPT for Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) - ChatGPT extension for Google Sheets and Google Docs.
@@ -592,3 +593,4 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
