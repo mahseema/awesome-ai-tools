@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [PromptSpace](https://www.promptspace.in) - Free library of 5,000+ curated prompts for Midjourney, ChatGPT, DALL-E, FLUX, and Stable Diffusion, organized by style and use case. No signup required.
 
 
 ## Learning resources
