@@ -302,6 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [Hronaut](https://hronaut.dev/) - Local Electron/Chromium browser workspace for coding agents with persistent isolated tabs and storage, visible human handoff, and a local MCP endpoint. [Source](https://github.com/hronaut/hronaut). Free permitted noncommercial use; source-available under PolyForm Noncommercial 1.0.0.
 
 
 ## Image
