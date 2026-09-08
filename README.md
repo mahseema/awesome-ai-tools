@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [Everyday AI Brief](https://rawcdn.githack.com/filipmarinca/everyday-ai-brief/v1.0.1/docs/index.html) - Free, open-source prompt builder with task examples, source boundaries and review checklists; works offline without an account or AI API.
 
 
 ### Meeting assistants
