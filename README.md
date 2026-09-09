@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [HeldBack](https://heldback.thecompound.tech) - Check whether retainage on your Washington public-works contract is frozen because no approved Affidavit of Wages Paid appears in L&I's.
 
 
 ## Learning resources
