@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records an AI agent's run at the model-provider boundary from outside the process, then replays it offline so the same run happens again with no model called and no key needed. [#opensource](https://github.com/Continuum-AI-Corp/OrcaReplay)
 
 
 ## Code
