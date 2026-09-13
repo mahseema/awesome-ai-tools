@@ -387,6 +387,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - [Stable Horde](https://stablehorde.net/) - A crowdsourced distributed cluster of Stable Diffusion workers.
 - [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
+- [Prompt Gallery](https://prompts.cdqyfdbymn.me/) - Searchable prompt library for image and video generation: filter by type, category, and model, copy any prompt with one click.
 - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
 
 ## Video
