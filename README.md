@@ -1755,6 +1755,7 @@ Discover the power of AI in music with these tools designed for generating, comp
 - [Jukedeck](https://www.jukedeck.com) - AI for creating unique music tracks.
 - [Mubert](https://mubert.com) - Generative music streaming.
 - [Boomy](https://boomy.com) - Instant music creation with AI.
+- [BPM Finder](https://bpmfinder.io/) - Free online BPM finder that detects tempo, key, meter, and beat positions, then turns the analysis into an AI music generation brief.
 - [Ecrett Music](https://ecrettmusic.com) - AI music generator for videos.
 - [Humtap](https://www.humtap.com) - AI-driven music making.
 - [Sonic Pi](https://sonic-pi.net) - Live coding for music.
