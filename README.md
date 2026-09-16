@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [AI Tools Radar](https://aitoolsradar.com) - AI tools directory and editorial platform for discovering, comparing, and tracking AI products, with daily AI industry news and newsletter issues.
 
 
 ## Learning resources
