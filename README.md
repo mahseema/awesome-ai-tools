@@ -388,6 +388,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Stable Horde](https://stablehorde.net/) - A crowdsourced distributed cluster of Stable Diffusion workers.
 - [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
 - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
+- [Hinode](https://hinode.run/) - A cloud Linux workspace with single-GPU machines (L4, L40S, RTX PRO 6000) billed by the minute, where ComfyUI and other AI apps install in one click.
 
 ## Video
 
