@@ -494,7 +494,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Other
 
-- [Skales](https://skales.app) - Native desktop AI agent with approval system, desktop buddy, and multi-LLM support. Source-available. ([GitHub](https://github.com/skalesapp/skales))
+- [Skales](https://skales.app) - Native desktop AI agent with approval system, desktop buddy, and multi-LLM support. Proprietary licence, free for personal use. ([GitHub](https://github.com/skalesapp/skales))
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
