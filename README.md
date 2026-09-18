@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [Human Rounds](https://humanrounds.org) - Open-source, AI-native platform for the work around care: AI patient intake before the visit, appointments, referrals and care coordination. [#opensource](https://github.com/visualpharm/human-rounds)
 
 
 ## Learning resources
