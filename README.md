@@ -404,6 +404,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
 
 
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose, edit and generate videos from editable plan.json timelines.
 ### Animation
 
 ## Audio
