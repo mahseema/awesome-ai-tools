@@ -303,6 +303,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
 
+- [deferless](https://github.com/kyisaiah47/deferless) - Fail-closed gates for work an AI agent did on your behalf. No --force, no allowlist, no known-issues file.
 
 ## Image
 
