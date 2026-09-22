@@ -574,6 +574,11 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [NVIDIA Omniverse AI Animal Explorer Extension](https://docs.omniverse.nvidia.com/extensions/latest/ext_animal-explorer.html#installation) - AI Animal Explorer is an Omniverse extension that enables creators to quickly prototype unique 3D animal meshes.
 
 
+## Southeast Asia Resources
+
+- [AI Automation Tools for SEA Small Businesses (Make vs n8n, ManyChat vs Coze)](https://blog.akkhalin.tech/make-vs-n8n-which-ai-tool-wins-for-small-business-automation/) - Deep comparison of automation platforms for Shopee/Lazada sellers and LINE Official Account owners in Southeast Asia
+- [Beginner's Guide to AI Agents for SEA E-commerce](https://blog.akkhalin.tech/the-beginners-guide-to-ai-agents-for-e-commerce-sellers-in-southeast-asia/) - Practical guide for SEA sellers adopting AI agents for Shopee, Lazada, and Facebook Shop automation
+
 ## Related Awesome Lists
 
 - [Altern](https://altern.ai) - Find Best AI Tools
