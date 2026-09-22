@@ -523,6 +523,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Interviews Chat](https://www.interviews.chat/) - Your Personal Interview Prep & Copilot
 - [Context Data](https://contextdata.ai/) - Data Processing & ETL infrastructure for Generative AI applications
 - [ezJobs](https://www.getezjobs.com/) - Automated job search and applications
+- -[Keel](https://github.com/KeelDev-tech/keel)- Open-core job-application autopilot focused on honest automation with human-gated AI.
 - [Compass](https://www.getwhys.io/compass) - AI driven answers to SaaS research questions
 - [Adon AI](https://adon-web.awakast.com/en/recruiter/) - CV screening automation and blind CV generator, AI backed ATS
 - [Persuva](https://persuva.ai) - Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
