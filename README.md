@@ -446,6 +446,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ### Marketing AI Tools
+- [Social Roster](https://socialroster.dev) - Schedule TikTok, Instagram Reels, YouTube Shorts, and Facebook videos from one calendar — with bulk upload.
 
 *You can also find  more comprehensive list on *[Marketing List](https://github.com/mahseema/awesome-ai-tools/blob/main/marketing.md)*
 
