@@ -211,6 +211,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [SciSpace](https://scispace.com/) - AI Chat for scientific PDFs.
 - [NotebookLM](https://notebooklm.google.com/) - AI Chat on your own document, link and text resources.
 - [Mathos AI](https://www.mathgptpro.com/) - Best AI math solver, calculator & tutor.
+- [Nujan](https://nujan.app/) - A dual-pane paper reader that helps researchers understand complex papers side-by-side with AI. Free to use.
 
 ### Customer Support
 - [SiteGPT](https://sitegpt.ai/?ref=mahseema-awesome-ai-tools) - Make AI your expert customer support agent.
