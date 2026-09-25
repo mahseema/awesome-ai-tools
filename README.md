@@ -369,6 +369,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Magic Patterns](https://www.magicpatterns.com/) - AI-based UI builder with Figma export and React code generation.
 
 
+- [Raphael](https://raphael.app/) - Free AI image generator for text-to-image, editing, and creative workflows in the browser.
+
 ### Image libraries
 
 - [Lexica](https://lexica.art/) - Stable Diffusion search engine.

@@ -18,6 +18,8 @@ A curated list of AI tools for image processing, generation, editing, and enhanc
 - **[Artbreeder](https://www.artbreeder.com/)** - AI tool for creating and blending artworks, portraits, and landscapes through generative adversarial networks.
 - **[Runway ML](https://runwayml.com/)** - A creative toolkit that enables artists to generate images, videos, and models using AI.
 
+- **[Raphael](https://raphael.app/)** - Free AI image generator for text-to-image, editing, and creative workflows in the browser.
+
 ## Image Editing
 
 - **[DeepArt](https://deepart.io/)** - AI-driven tool that transforms photos into artworks by mimicking the style of famous artists.
