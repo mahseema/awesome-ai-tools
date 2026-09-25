@@ -192,6 +192,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
 
 
+- [Yodu](https://yodu.ai) - Managed AI employees for recurring business work, with shared memory, connected tools, scheduled tasks, and configurable human approvals. Paid subscription with personal onboarding.
+
 ### Meeting assistants
 
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
