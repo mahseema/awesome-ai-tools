@@ -454,6 +454,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[Clearbit](https://clearbit.com/)** - Lead enrichment and data intelligence platform.
 - **[Seventh Sense](https://www.theseventhsense.com/)** - AI tool for email send time optimization.
 - **[Smartly.io](https://www.smartly.io/)** - Automates social media ad creation and optimization.
+- **[ClothAds](https://clothads.com/)** - AI clothing ad photo generator for fashion e-commerce.
 - **[Adzooma](https://www.adzooma.com/)** - AI-powered PPC campaign management platform.
 - **[Phrasee](https://www.phrasee.co/)** - AI tool that generates optimized marketing copy.
 - **[Crimson Hexagon](https://www.crimsonhexagon.com/)** - AI-based social media sentiment analysis platform.
