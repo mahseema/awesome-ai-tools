@@ -238,6 +238,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
 - [Portia AI](https://www.portialabs.ai/) - Open source framework for building agents that pre-express their planned actions, share their progress and can be interrupted by a human. [#opensource](https://github.com/portiaAI/portia-sdk-python)
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue.
+- [PostTrainLLM](https://posttrainllm.com) - Build and measure specialist LLMs on a Mac: post-training evals, distillation and fine-tuning workflows. [#opensource](https://github.com/PostTrainLLM/posttrainllm)
+- [ChatGPT Connections](https://github.com/sass-maker/chatgpt-connections) - Hosted read-only MCP endpoints for ChatGPT and other MCP clients. [#opensource](https://github.com/sass-maker/chatgpt-connections)
+- [Free AI](https://ai-gateway.sassmaker.com) - Free AI gateway routing across providers on Cloudflare Workers. [#opensource](https://github.com/sass-maker/free-ai)
 - [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 - [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
 - [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource](https://github.com/langfuse/langfuse)
@@ -465,6 +468,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
 
+
+- [MentionPilot](https://mention.highsignal.app) - AI visibility monitoring: see what ChatGPT, Claude and Perplexity say about your brand across engines.
 
 ### Phone Calls
 - [AICaller.io](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
