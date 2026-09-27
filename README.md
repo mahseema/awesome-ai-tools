@@ -355,6 +355,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - [PlantTattoosAI](https://www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
+- [PawCinema](https://pawcinema.com/) - Create AI-assisted digital cat and dog portraits from original pet photos in 36 art directions.
 
 
 
