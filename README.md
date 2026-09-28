@@ -190,8 +190,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
-
-
+- [aiFetchly](https://www.aifetchly.com) - Open-source desktop AI agent for business automation: lead generation, knowledge library RAG, outreach, and scheduled workflows on Windows, macOS, and Linux.
+- 
+- 
 ### Meeting assistants
 
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
