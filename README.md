@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [NOS Workspace](https://nos-workspace.com) - Paste HTML from any AI tool, edit text like a doc, and share one link that opens without an account. Freemium.
 
 
 ## Learning resources
