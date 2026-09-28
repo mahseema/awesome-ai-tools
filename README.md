@@ -590,5 +590,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)
 - [Top AI Directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
 
+-[AgentHub](https://myagenthub.cn)- Chinese directory for discovering MCP servers and agent skills, with one-click install to Cursor, Claude Code, VS Code and Trae
+
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+ 
