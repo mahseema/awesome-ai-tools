@@ -471,6 +471,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Voice Agents](https://diallink.com/) — AI Voice Agents for business calls and routine tasks, powered by DialLink cloud phone system.
 - [Cald.ai](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
 - [Rosie](https://heyrosie.com/) - AI Phone Answering Service
+- [Lokutor](https://lokutor.com/) - Full voice-agent platform (STT + LLM + TTS) for inbound/outbound phone calls, built on a CPU-capable voice model that's GPU-hosted at scale in production.
 
 ### Speech
 - [Eleven Labs](https://beta.elevenlabs.io/) - AI voice generator.
@@ -484,6 +485,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
 - [CustomPod.io](https://custompod.io) - Generate daily news podcasts only on the topics you care about.
 - [EKHOS AI](https://ekhos.ai) - An AI speech-to-text software with powerful proofreading features. Transcribe most audio or video files with real-time recording and transcription.
+- [Lokutor](https://lokutor.com/) - REST + WebSocket text-to-speech API for voice agents; CPU-capable model (on-prem/edge deployable), GPU-hosted at scale in production. 10 built-in voices, 9 languages.
   
 ### Music
 
