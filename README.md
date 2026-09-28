@@ -192,6 +192,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
 
 
+- [Kortix](https://claudecoworkalternative.com) - The leading open-source alternative to Claude Cowork and ChatGPT Work: your agents, their skills, memory and every connector in one git repo you own. Any model, your keys; self-host or managed cloud. [website](https://kortix.com)
+
 ### Meeting assistants
 
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
