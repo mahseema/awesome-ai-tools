@@ -89,6 +89,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Writing assistants
 
+- [Yila AI](https://yila.ai) — Evidence-traceable research agent for literature review, PDF analysis, figures, and academic slides.
 *For a more complete list of AI writing assistants visit: [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)*
 
 - [Jasper](https://www.jasper.ai/) - Create content faster with artificial intelligence.
