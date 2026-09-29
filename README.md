@@ -491,6 +491,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Mubert](https://mubert.com/) - A royalty-free music ecosystem for content creators, brands and developers.
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research for generating high-fidelity music from text descriptions.
 - [Remusic](https://remusic.ai/en) - AI Music Generator and Music Learning Platform Online Free.
+- [MUSAI Song](https://musaisong.app/en) - personalized song gift from your idea or story: original lyrics you approve word by word, sung, with an illustrated plate and a numbered certificate. 564 styles, ES/EN.
 
 ## Other
 
