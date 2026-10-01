@@ -406,6 +406,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Animation
 
+- [Riggy](https://riggyapp.com/) - Rigs a layered PSD into a Spine 4.2 skeleton with animations from a text prompt.
+
 ## Audio
 
 ### AI Voice Cloning
