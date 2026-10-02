@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[LogNorm](https://lognorm.com/)** - Growth platform where AI agents and a team work one ranked backlog of SEO, GEO and content tasks over MCP.
 
 
 ### Phone Calls
