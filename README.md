@@ -392,6 +392,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Video
 
 - [RunwayML](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
+- [Soutine AI](https://soutine.ai/) - Image & video studio with free Nano Banana (Gemini) and Seedance prompt libraries that include real result previews; browse/copy free, generation uses credits.
+- [Soutine Kling 4](https://soutine.ai/models/kling-4) - Coming-soon page for announced Kling 4.0. The generator on that page currently runs Kling 3.0; Kling 4.0 generation is not available on Soutine yet.
 - [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
 - [Hour One](https://hourone.ai/) - Turn text into video, featuring virtual presenters, automatically.
