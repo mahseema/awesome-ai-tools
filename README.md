@@ -588,6 +588,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Workflow Automation Softwares](https://productivity.directory/category/workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)
+- [HuntAITools](https://huntaitools.online) - Human-curated AI directory with click-ranked leaderboards, DR scores, and LLM pricing data
 - [Top AI Directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
 
 
