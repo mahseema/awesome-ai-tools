@@ -64,6 +64,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 
 ## GEO (Generative Engine Optimization)
  **[GetBool AI](https://www.getbool.ai/)** - AI tool that helps marketers improve their brand visibility wihtin LLMs, by using high-quality content, high quality mentions and links, reviews, etc...
+- **[AI Crawler Access Checker](https://www.firmbeacon.co.uk/tools/ai-crawler-check?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_ai_tools)** - Free checker for comparing robots.txt permissions for ChatGPT search, GPTBot, Claude, Perplexity, Google and Bing crawlers.
 
 ## SEO & Search Optimization
 
