@@ -467,6 +467,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ### Phone Calls
+- [ConnectMeGuru](https://www.connectmeguru.com) - Global travel eSIM connectivity platform and remote Model Context Protocol (MCP) server for AI assistants, providing automated prepaid cellular plan discovery and instant QR provisioning across 190+ countries.
 - [AICaller.io](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
 - [AI Voice Agents](https://diallink.com/) — AI Voice Agents for business calls and routine tasks, powered by DialLink cloud phone system.
 - [Cald.ai](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
