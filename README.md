@@ -21,6 +21,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [🎯 AI Tools for Marketing](#marketing-ai-tools)
 - [📞 AI Phone Call Agents](#phone-calls)
 - [🎒 Other AI Tools](#other)
+- [GateOnAI](https://www.gateonai.com) - The AI Decision Platform for Business: search and compare thousands of AI tools, generate AI workflows and find prompts by profession. Free, no login required.
 - [👩‍🏫 Learning resources](#learning-resources)
 
 
