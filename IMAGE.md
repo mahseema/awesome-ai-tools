@@ -35,6 +35,7 @@ A curated list of AI tools for image processing, generation, editing, and enhanc
 
 - **[Topaz Labs Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)** - AI-powered image upscaling tool that increases image resolution without losing details.
 - **[VanceAI](https://vanceai.com/)** - AI-based tool for enhancing image quality, improving details, and reducing noise in images.
+- **[UpRes](https://upres.ai/)** - AI upscaler that turns photos and video into sharp results up to 8K, with a free tier and an API.
 
 ## Image Compression
 
