@@ -192,6 +192,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
 
 
+- [SIDRA OS](https://agent.sidra-ai.com/) - Execution layer that connects supported AI chats to local files, terminal, browser, desktop workflows, memory, and orchestration.
+
 ### Meeting assistants
 
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
