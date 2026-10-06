@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [AI Zhiku (AI智库)](https://ai-zhiku.com) - Free Chinese AI tools directory: 2,400+ tools organized by 30+ use cases with human-written one-line intros, daily AI news, and a plain-language AI encyclopedia. No registration required.
 
 
 ## Learning resources
