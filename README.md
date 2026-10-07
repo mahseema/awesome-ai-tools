@@ -545,7 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
-- [Comment.io](https://comment.io) - Agent-native document editor. @mention an agent — it reads the doc and responds via webhook, autonomously. Humans and agents reading, commenting, and editing docs together, with per-edit authorship tracking. [GitHub](https://github.com/comment-io/comment.io)
+- [Comment.io](https://comment.io) - Shared documents where people and agents work together, with human corrections keeping shared knowledge current. [MCP guide](https://comment.io/llms/mcp.md).
 
 
 ## Learning resources
