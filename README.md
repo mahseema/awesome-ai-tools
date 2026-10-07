@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [FalcoScan](https://falcoscan.com) - Directory and market tracker for 7,000+ AI tools across 29 markets, with an AI Graveyard of products that shut down or were acquired.
 
 
 ## Learning resources
