@@ -546,6 +546,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
 
+- [Rolko](https://www.rolko.xyz/) - AI-assisted Chinese and Japanese lookup and vocabulary review, with free basic lookup and paid new-word saving.
 
 ## Learning resources
 
