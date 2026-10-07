@@ -426,6 +426,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Audify AI](https://audify-ai.ahmedtokyo.com) - User-friendly platform for voice synthesis with customizable options and instructions, making it versatile for both developers and creatives.
 - [TTS WebUI](https://github.com/rsxdalv/tts-generation-webui) - Open Source generative AI App for voice and music, supporting 15+ TTS models.
 - [AInterview.space](https://ainterview.space) – Create AI-hosted podcast interviews. Choose a topic, and Joe (the AI host) will research, host the interview, and generate your episode as audio or video.
+- [EaseVoice](https://www.easevoice.com/) - Browser-based AI voice studio for text-to-speech, authorized voice cloning, voice design, solo narration and scripted dialogue.
 
 
 ### AI Music Generators
