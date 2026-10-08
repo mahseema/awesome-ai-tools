@@ -32,6 +32,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Murf AI](https://get.murf.ai/v8i9to5ad4oq) - Create voiceover with the most lifelike AI voices.
 - [SaneBox](https://try.sanebox.com/yzkpe5s68xk2) - an email management software as a service that integrates with IMAP and Exchange Web Services email accounts.
 - [MeetGeek](https://get.meetgeek.ai/zmrnb5xlyfs9) - an AI meeting assistant that automatically video records, transcribes, summarizes, and provides the key points from every meeting.
+- [Verlix](https://www.verlix.pro) - 24/7 AI receptionist for medical spas and appointment businesses.
 
 
 ## Text
