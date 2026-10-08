@@ -578,6 +578,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - [Altern](https://altern.ai) - Find Best AI Tools
 - [AI For Developers](https://aifordevelopers.org) - List of AI DevTools
+- [AgentGid](https://agentgid.com) - Live rankings and data for 270+ AI agents and 40,000+ MCP servers
 - [Best of AI](https://github.com/best-of-ai/best-of-ai) - Like Michelin Guide for AI
 - [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
 - [Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - Curated list of AI-powered developer tools.
