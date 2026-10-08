@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [LLM_in_Work](https://github.com/ZJU-OmniAI/LLM_in_Work) - MIT-licensed integrations that connect a signed-in Claude Code or Codex CLI to Word, PowerPoint, Excel, Overleaf and Chrome PDFs for selection-based editing, diff review and document Q&A.
 
 
 ### Meeting assistants
