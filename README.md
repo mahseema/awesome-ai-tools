@@ -82,6 +82,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Refinder AI](https://refinder.ai/) - AI-powered universal search and assistant for work
 - [Agentset.ai](https://agentset.ai/) - Open-source local Semantic Search + RAG for your data
 
+- [Arcmira: YouTube Transcript Search](https://arcmira.com) - Search indexed YouTube transcripts for quotes, speaker appearances and source timestamps.
+
 ### Local search engines
 
 - [privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.
