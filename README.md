@@ -220,7 +220,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Inline Help](https://inlinehelp.com) - Answer customer questions before they ask
 - [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
 - [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
-- [sofagent](https://github.com/KongFangXun/sofagent) - Open-source harness that audits AI coding agents' commits: 24 deterministic rules over git diffs, HMAC-chained tamper-evident history, MCP server plus a GitHub Action. [#opensource](https://github.com/KongFangXun/sofagent)
+- [sofagent](https://github.com/KongFangXun/sofagent) - Open-source harness that audits AI coding agents' commits: 28 deterministic rules over git diffs, HMAC-chained tamper-evident history, MCP server plus a GitHub Action. [#opensource](https://github.com/KongFangXun/sofagent)
 
 
 ### Other text generators
