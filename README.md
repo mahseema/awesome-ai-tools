@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Rynler Token Cost Calculator](https://github.com/Slymaster/rynler-token-cost-calculator) - Browser-only LLM API token-cost calculator: estimate bills from your own rates and token counts. No accounts, no analytics, no API calls.
 
 
 ## Code
