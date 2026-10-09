@@ -547,6 +547,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Melies](https://melies.co) - AI Filmmaking software
 
 
+- [Fomrix](https://fomrix.com/) - Generates GLB 3D starting assets from images or text using account credits, alongside free browser-based model viewers and geometry conversion tools; inspect and prepare generated meshes before printing or animation.
+
 ## Learning resources
 
 - [Learn Prompting](https://learnprompting.org/) - A free, open-source course on communicating with artificial intelligence.
