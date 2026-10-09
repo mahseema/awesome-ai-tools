@@ -358,6 +358,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 
+- [aigeneratornsfw.com](https://aigeneratornsfw.com/) - An 18+ studio for non-explicit AI image creation, reference editing and short videos, with 10 daily image credits for registered accounts and paid membership plus credits for video; model content restrictions apply.
+
 ### Graphic design
 
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
