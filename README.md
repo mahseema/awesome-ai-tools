@@ -358,6 +358,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 
+- [BabyVideo.ai](https://babyvideo.ai/) - Creates future-baby image previews from one or two parent photos for entertainment, not medical or genetic prediction; requires an account and credits, with limited check-in credits and paid packs.
+
 ### Graphic design
 
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
