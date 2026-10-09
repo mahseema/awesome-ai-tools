@@ -368,6 +368,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Seede.ai](https://seede.ai/) - Create a stunning poster in just 1 minute with Seede.
 - [Magic Patterns](https://www.magicpatterns.com/) - AI-based UI builder with Figma export and React code generation.
 
+- [SeamlessCanvas](https://seamlesscanvas.com/) - AI-assisted seamless texture and repeat-pattern creation, with image seam repair, tiled previews, and PNG export.
+
 
 ### Image libraries
 
