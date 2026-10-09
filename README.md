@@ -402,7 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
-- [SeedanceCheap](https://seedancecheap.com/) - Independent web studio for 30-second Seedance 2.5 videos from text and optional object, clothing-only or scenery references; one-time video packs.
+- [SeedanceCheap](https://seedancecheap.com/) - Independent web studio for 15-second Seedance 2.0 and 30-second Seedance 2.5 videos from text and optional object, clothing-only or scenery references; one-time credit packs.
 
 
 ### Animation
