@@ -358,6 +358,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 
+- [LivePair AI](https://livepairai.com) - AI image and video generation with 80+ models, private-mode generation, and agent-facing APIs (MCP, OpenAPI, x402).
+
 ### Graphic design
 
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
