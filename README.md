@@ -471,7 +471,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Voice Agents](https://diallink.com/) — AI Voice Agents for business calls and routine tasks, powered by DialLink cloud phone system.
 - [Cald.ai](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
 - [Rosie](https://heyrosie.com/) - AI Phone Answering Service
-- - [Moshimo](https://moshimocall.com/en) - AI phone call assistant for Japanese restaurant bookings, hotel questions, reservation changes, d local business enquiries, with call results and transcripts available on iOS and Android.
+- [Moshimo](https://moshimocall.com/en) - AI phone call assistant for Japanese restaurant bookings, hotel questions, reservation changes, and local business enquiries, with call results and transcripts available on iOS and Android.
 
 ### Speech
 - [Eleven Labs](https://beta.elevenlabs.io/) - AI voice generator.
