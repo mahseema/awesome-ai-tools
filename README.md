@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [Genjutsu Brief](https://genjutsubrief.site/) - Local text-only planning for Higgsfield Genjutsu Object Swap and Motion Transfer, separating changes, preservation and reference descriptions without uploading media or generating video.
 
 
 ### Meeting assistants
