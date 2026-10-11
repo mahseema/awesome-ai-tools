@@ -484,6 +484,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
 - [CustomPod.io](https://custompod.io) - Generate daily news podcasts only on the topics you care about.
 - [EKHOS AI](https://ekhos.ai) - An AI speech-to-text software with powerful proofreading features. Transcribe most audio or video files with real-time recording and transcription.
+- [QuietTake Noise Remover](https://noiseremover.site/) - Free browser-local RNNoise speech noise reduction with adjustable strength, before/after playback and WAV export; no account or audio upload, for files up to 50 MB and five minutes.
   
 ### Music
 
