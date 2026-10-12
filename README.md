@@ -367,7 +367,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Text2Infographic](https://text2infographic.com/) - AI infographic generator and editor.
 - [Seede.ai](https://seede.ai/) - Create a stunning poster in just 1 minute with Seede.
 - [Magic Patterns](https://www.magicpatterns.com/) - AI-based UI builder with Figma export and React code generation.
-
+- [Enhance](https://enhancelabs.ai) - Shared visual canvas for AI-assisted product design, editable screens, visual feedback and interactive prototypes with coding agents.
 
 ### Image libraries
 
