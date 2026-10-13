@@ -272,6 +272,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
 
 
+- [Agent Barn](https://agentbarn.dev) - Open-source (Apache-2.0) control plane for AI agents. Talk to agents in Slack, Teams, Telegram, Discord or email; agents work across Jira, GitHub, Confluence and more; every conversation, tool call, log and cost is recorded. Runs agent runtimes like Hermes and OpenClaw on your own Kubernetes cluster, deployed with Helm. [#opensource](https://github.com/aai-labs/agent-barn)
+
 ## Code
 
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
