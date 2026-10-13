@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [51发现导航 (51 Discovery Nav)](https://51cgw9.cc) - Chinese AI tools directory with 558+ tools, China-direct/free tags and daily availability checks.
 
 
 ## Learning resources
