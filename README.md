@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [InBrief](https://github.com/frankzch/ai-news-brief) - Open-source AI news aggregator tracking 370+ sources with LLM filtering and bilingual summaries; [Agent Skill](https://github.com/frankzch/ai-news-skill) for Claude Code, Codex, OpenClaw, and Antigravity.
 
 
 ## Learning resources
