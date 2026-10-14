@@ -367,6 +367,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Text2Infographic](https://text2infographic.com/) - AI infographic generator and editor.
 - [Seede.ai](https://seede.ai/) - Create a stunning poster in just 1 minute with Seede.
 - [Magic Patterns](https://www.magicpatterns.com/) - AI-based UI builder with Figma export and React code generation.
+- [Minglyph](https://minglyph.com/) - AI typography studio generating static PNG word-art concepts from a short word, its meaning, and a visual style.
 
 
 ### Image libraries
