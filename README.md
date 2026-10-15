@@ -1,4 +1,4 @@
-successfully downloaded text file (SHA: b6331631928aab64ac99cbe813efd43e77decb64)# Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of Artificial Intelligence Top Tools
 >
