@@ -403,6 +403,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
 
+- [Venom Car AI](https://venomcarai.cc) - Turn 1 car photo (+ optional emblem) into a ~15s Venom goo garage-build short. Independent fan tool.
+
 
 ### Animation
 
