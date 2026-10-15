@@ -220,6 +220,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Inline Help](https://inlinehelp.com) - Answer customer questions before they ask
 - [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
 - [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
+- [Anchor Co AI](https://anchorcoai.com/?utm_source=github-awesome-ai-tools&utm_medium=directory&utm_campaign=ai-directories-2026-10) - AI chatbot for small-business websites: trained on your site content, live in 60 seconds, answers customer questions 24/7 and captures leads.
 
 
 ### Other text generators
