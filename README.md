@@ -1,4 +1,4 @@
-# Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+successfully downloaded text file (SHA: b6331631928aab64ac99cbe813efd43e77decb64)# Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of Artificial Intelligence Top Tools
 >
@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [Terse](https://github.com/bloriner/terse) - An AI-native code language for AI coding agents: dense prefix IR at 0.60–1.00× Python tokens, with interpreter, Python transpiler, and MCP server.
 
 
 ## Code
