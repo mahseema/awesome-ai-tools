@@ -575,6 +575,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ## Related Awesome Lists
+- [Awesome AI Decision Matrix](https://github.com/TayeemHasanpro/awesome-ai-decision-matrix) - Curated, benchmark-backed decision matrix of top 50+ AI developer tools, frontier LLMs, and autonomous IDEs.
 
 - [Altern](https://altern.ai) - Find Best AI Tools
 - [AI For Developers](https://aifordevelopers.org) - List of AI DevTools
