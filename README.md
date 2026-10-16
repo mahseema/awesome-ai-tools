@@ -139,6 +139,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code](https://github.com/mckaywrigley/chatbot-ui).
 - [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
 - [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - One click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses.
+- [DevPause](https://chromewebstore.google.com/detail/midkjihlmjoicjlllefimoiibcanpfao?utm_source=github_awesome_ai_tools&utm_medium=referral&utm_campaign=launch) - Free Chrome extension that adds clean-copy, continue, and wide-screen buttons under ChatGPT, Claude, and Gemini answers; ad-supported.
 
 ### Productivity
 
