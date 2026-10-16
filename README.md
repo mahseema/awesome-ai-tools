@@ -402,6 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [legit2clip](https://www.legit2clip.com/) - Turns long videos, streams and podcasts into short vertical clips with word-by-word captions.
 
 
 ### Animation
@@ -443,6 +444,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Loudly](https://www.loudly.com) - [Review](https://theresanai.com/loudly) - Combines AI music generation with a social platform for collaboration.
 - [Soundful](https://www.soundful.com) - [Review](https://theresanai.com/soundful) - High-quality, royalty-free music for content creators.
 - [AI Music Generator](https://www.aisongmaker.io) - [Review](https://www.producthunt.com/products/ai-song-maker) - Effortlessly Create Songs with AI
+- [Synestia](https://synestia.bot/) - Makes songs, cover art and music videos by chat or in Discord, with a free library of 12,000+ AI songs for videos (credit required).
 
 
 ### Marketing AI Tools
