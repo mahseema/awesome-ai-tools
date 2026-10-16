@@ -321,6 +321,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Services
 
+- [GPT Image 2](https://gptimage2.asia/) - Generate and edit production-ready AI images for marketing, ecommerce, social media, and branded content.
 - [Craiyon](https://www.craiyon.com/) - Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
 - [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder is a new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
@@ -391,6 +392,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Video
 
+- [ChatGPT Millionaire AI](https://chatgptmillionaire.cc) - Turn one selfie (or pet photo) into a ~10–13s ChatGPT Millionaire “Get a job.” meme video. Independent fan tool.
+- [Hug In Heaven AI](https://huginheaven.cc) - Turn two photos into a ~12–15s Hug in Heaven stairway reunion memorial video. Independent memorial fan tool (18+).
 - [RunwayML](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
 - [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
