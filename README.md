@@ -392,6 +392,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Video
 
+- [ChatGPT Millionaire AI](https://chatgptmillionaire.cc) - Turn one selfie (or pet photo) into a ~10–13s ChatGPT Millionaire “Get a job.” meme video. Independent fan tool.
+- [Hug In Heaven AI](https://huginheaven.cc) - Turn two photos into a ~12–15s Hug in Heaven stairway reunion memorial video. Independent memorial fan tool (18+).
 - [RunwayML](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
 - [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
