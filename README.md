@@ -391,6 +391,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Video
 
+
+
 - [RunwayML](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
 - [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
@@ -403,6 +405,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
 
+
+- [Hotel Lobby AI](https://aihotellobby.dev) - Create orange-studio duet performance videos from two portrait photos, with performer positions, optional movement directions and MP4 download. Requires sign-in and prepaid credits.
 
 ### Animation
 
