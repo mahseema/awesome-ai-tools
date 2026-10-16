@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [Bibooks](https://bibooks.org/languages) - Free-to-read bilingual read-along audiobooks with AI translation and word-highlighted audio; paid tiers for extra features.
 
 
 ## Learning resources
