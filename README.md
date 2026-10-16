@@ -200,6 +200,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Loopin AI](https://www.loopinhq.com/) - Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar.
 - [Scribbl](https://www.scribbl.co) - AI Meeting Notes
 
+- [audien.to](https://audien.to/) - Converts recordings into speaker-aware transcripts, meeting minutes, and podcast show notes with source timestamps.
+
 ### Academia
 
 - [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
