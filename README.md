@@ -368,6 +368,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Seede.ai](https://seede.ai/) - Create a stunning poster in just 1 minute with Seede.
 - [Magic Patterns](https://www.magicpatterns.com/) - AI-based UI builder with Figma export and React code generation.
 
+- [Shirt Lab](https://shirtlab.lol/) - Design custom T-shirts with AI, refine artwork in an editable studio, preview it on a garment, and order your shirt.
 
 ### Image libraries
 
