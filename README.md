@@ -139,6 +139,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code](https://github.com/mckaywrigley/chatbot-ui).
 - [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
 - [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - One click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses.
+- [Qarta](https://chromewebstore.google.com/detail/qarta-prompt-library-ai-c/pbnjcimookgjappnnlfknfoepfhgepng) - Save prompts and insert them with "/" in ChatGPT, Claude, Gemini and more; keeps your chats in a searchable library with PDF and Word export.
 
 ### Productivity
 
