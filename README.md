@@ -406,6 +406,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Animation
 
+- [iArt](https://www.iart.ai/) - Creates motion graphics from prompts and visual assets, with plain-language editing and MP4 export.
+
 ## Audio
 
 ### AI Voice Cloning
