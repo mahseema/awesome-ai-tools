@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [ANiu — SXS Sports × Science](https://sxs-ai.com) - Football quant data agent — match data, odds movements and verified post-match reviews from SXS (Sports × Science). Data only, no picks.
 
 
 ## Learning resources
