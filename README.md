@@ -491,6 +491,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Mubert](https://mubert.com/) - A royalty-free music ecosystem for content creators, brands and developers.
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research for generating high-fidelity music from text descriptions.
 - [Remusic](https://remusic.ai/en) - AI Music Generator and Music Learning Platform Online Free.
+- [VocalSeparator](https://vocalseparator.com/) - Freemium vocal and stem separation with WAV export, loops, tempo and pitch controls for music practice.
 
 ## Other
 
