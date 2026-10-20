@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [Aurao](https://badnexus.github.io/Aurao/) - An open-source desktop assistant that wraps Claude Code, OpenAI Codex CLI, and Google Antigravity into a safe workspace with 1-click file approval cards.
 
 
 ### Meeting assistants
