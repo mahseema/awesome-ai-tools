@@ -169,6 +169,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [fabric](https://github.com/danielmiessler/fabric/) - Apply AI to everyday challenges in the comfort of your terminal. Help’s to get better results with tried and tested library of prompt pattern’s.
 - [Riffo](https://riffo.ai/) - An AI-powered file management tool for bulk renaming and automatic folder organization.
 - [SlidesWizard](https://slideswizard.io) - Create Presentations 10x faster. Generate PowerPoint and Google Slides presentations about any topic with AI
+- [Simple Sticky Notes](https://chromewebstore.google.com/detail/simple-sticky-notes/lkkkngnoflaeicokibjcmgjacmhlnghg) - Pin persistent notes to web pages and use a flexible AI assistant to understand what you read, develop ideas, and work with your notes.
 - [Transgate](https://transgate.ai/) - AI Speech to Text
 - [RabbitHoles AI](https://www.rabbitholes.ai/) - Chat with AI on an Infinite Canvas
 - [Rember](https://www.rember.com/) - A simple yet powerful spaced repetition system designed to help you remember more.
