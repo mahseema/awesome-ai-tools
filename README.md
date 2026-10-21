@@ -554,6 +554,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
+- [Personal AI Agent Buyer's Guide](https://agentstackwatch.com/guide/) - Free, plain-language guide to choosing a personal AI agent (ChatGPT, Claude, Gemini, Grok Bot, Manus and more), with sourced prices and a 1-minute quiz.
 
 ## Learn AI free
 ### Machine Learning
