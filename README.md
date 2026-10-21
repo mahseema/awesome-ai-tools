@@ -68,6 +68,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://altern.ai/product/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
 
+- [PhoenixAI NewWorld](https://phoenixai.app/newworld) - An AI workspace for conversational assistance, writing and planning, with a 30-day cardless trial and optional device contribution.
+
 
 ### Search engines
 
