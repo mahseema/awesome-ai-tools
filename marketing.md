@@ -35,6 +35,8 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[HubSpot AI](https://www.hubspot.com/)** - AI-driven CRM platform with marketing automation for nurturing leads.
 - **[Leadfeeder](https://www.leadfeeder.com/)** - AI-based tool for tracking website visitors and identifying sales leads.
 
+- **[Email List AI](https://emaillist.ai/)** - AI-assisted US B2B contact-list preparation with research, deduplication and email validation, sold as one-time files.
+
 ## Email Marketing
 
 - **[Seventh Sense](https://www.theseventhsense.com/)** - Uses AI to optimize email send times for improved engagement rates.
