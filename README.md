@@ -403,6 +403,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
 
+- [Tip Toe AI](https://tiptoeinginmyjordans.ai/) - Create a 12-second AI dance meme video from a dancer photo and an optional observer photo, with a fixed soundtrack; $9.90 per video, no subscription.
+
 
 ### Animation
 
