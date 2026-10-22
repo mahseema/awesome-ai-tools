@@ -402,6 +402,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [Corpse Bride AI](https://corpsebride.cc) - One photo to ~10s 9:16 ghost bride/groom cemetery dance video. From $8.88.
+- [White Chicks AI](https://whitechicks.cc) - 1–2 photos to ~10–12s 9:16 night convertible sing video (duo or pet). From $8.88.
 
 
 ### Animation
