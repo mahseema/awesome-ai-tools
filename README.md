@@ -367,6 +367,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Text2Infographic](https://text2infographic.com/) - AI infographic generator and editor.
 - [Seede.ai](https://seede.ai/) - Create a stunning poster in just 1 minute with Seede.
 - [Magic Patterns](https://www.magicpatterns.com/) - AI-based UI builder with Figma export and React code generation.
+- [Ideogram 4.5 Prompt Builder](https://ideogram45.qqbridge.workers.dev/) - Free prompt builder for Ideogram 4.5: assemble prompts with exact in-image text, brand colors and layout, plus precision edit instructions for multi-turn editing.
 
 
 ### Image libraries
