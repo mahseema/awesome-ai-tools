@@ -377,6 +377,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2.
 - [Phygital](https://app.phygital.plus/) - Built-in templates for generating or editing any pictures. Moreover, you can create your own design.
 - [Canva](https://www.canva.com/ai-image-generator/) - Generating AI Images.
+- [Alosem](https://alosem.com/) - AI image prompt library with AI art styles and real examples. Every image shows the prompt behind it, ready to copy for any AI art generator, plus AI photo tools that edit your own photos from a written description.
 
 ### Model libraries
 
