@@ -521,6 +521,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [VocalReplica](https://vocalreplica.com/) - AI-Powered Vocal and Instrumental Isolation for Your Favorite Tracks
 - [AI Wedding Toast](https://aiweddingtoast.com) - Generate a personalized wedding speech with AI
 - [Interviews Chat](https://www.interviews.chat/) - Your Personal Interview Prep & Copilot
+- [JobEmerge](https://www.jobemerge.work) - AI career copilot for job-fit analysis, resume translation, Markdown editing, and mock interviews.
 - [Context Data](https://contextdata.ai/) - Data Processing & ETL infrastructure for Generative AI applications
 - [ezJobs](https://www.getezjobs.com/) - Automated job search and applications
 - [Compass](https://www.getwhys.io/compass) - AI driven answers to SaaS research questions
