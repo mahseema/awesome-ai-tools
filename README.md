@@ -272,6 +272,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
 
 
+- [ContextQA](https://contextqa.com/) - Create and run application tests in natural language, then inspect failure evidence. [MCP setup](https://mcp.contextqa.com/docs) · [Self-service signup](https://ship.contextqa.com/).
+
 ## Code
 
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
@@ -592,3 +594,4 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
