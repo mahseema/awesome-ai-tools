@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [StorePilot](https://storepilot.undone-k.workers.dev) - StorePilot is an early-stage MVP workspace for ecommerce operators. The product research and AI planning modules currently run in demo mode while integrations are being built. Pro is $29/month via Stripe.
 
 
 ## Learning resources
