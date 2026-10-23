@@ -272,6 +272,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
 
 
+- [AwesomeDevKit](https://awesomedevkit.com/) - Free online developer tools, including an llms.txt validator, an AI crawler access checker and a JSON formatter.
+
 ## Code
 
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
