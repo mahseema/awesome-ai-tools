@@ -244,6 +244,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine-tune LLM, CV, and tabular models.
 - [Prediction Guard](https://www.predictionguard.com/) - Seamlessly integrate private, controlled, and compliant Large Language Models (LLM) functionality.
 - [Portkey](https://portkey.ai/) - Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.
+- [Doomsday Network](https://doomsday.network/) - Open-source Proof-of-Work Layer-1 blockchain (`DOOM`) and Base Mainnet ERC-20 (`wDOOM`) with remote/stdio MCP servers (`https://doomsday.network/mcp`) and cryptographic Proof-of-Escrow tools for autonomous AI agents. [#opensource](https://github.com/doomsday-network/doomsday)
 - [OpenAI Downtime Monitor](https://status.portkey.ai/) - Free tool that tracks API uptime and latencies for various OpenAI models and other LLM providers.
 - [ChatWithCloud](https://chatwithcloud.ai/) - CLI allowing you to interact with AWS Cloud using human language inside your Terminal.
 - [SinglebaseCloud](https://singlebase.cloud) - AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.
