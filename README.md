@@ -391,6 +391,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Video
 
+- [Window Peeper AI](https://windowpeeperai.pro/) - Turn one adult portrait into a 14-second 9:16 Window Peeper meme video (credits from ~$6.90; guides free).
 - [RunwayML](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
 - [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
