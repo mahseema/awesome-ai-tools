@@ -18,6 +18,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [🎶 Generative AI Audio](#audio)
   - [Voice Cloning](#ai-voice-cloning)
   - [Music Generation](#ai-music-generators)
+- [🧊 Generative AI 3D](#3d)
 - [🎯 AI Tools for Marketing](#marketing-ai-tools)
 - [📞 AI Phone Call Agents](#phone-calls)
 - [🎒 Other AI Tools](#other)
@@ -491,6 +492,14 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Mubert](https://mubert.com/) - A royalty-free music ecosystem for content creators, brands and developers.
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research for generating high-fidelity music from text descriptions.
 - [Remusic](https://remusic.ai/en) - AI Music Generator and Music Learning Platform Online Free.
+
+## 3D
+
+- [Meshy](https://www.meshy.ai/) - Turn text or an image into a 3D model with PBR textures, with auto-rigging for characters.
+- [Tripo](https://www.tripo3d.ai/) - Text and image to 3D with a free tier and an API.
+- [Hyper3D Rodin](https://hyper3d.ai/) - Text and image to 3D aimed at production-quality meshes.
+- [Sloyd](https://www.sloyd.ai/) - Parametric 3D asset generation for games, editable live in the browser.
+- [Sculptor](https://aisculptor.io/) - Text or a single photo to a 3D model with 4K geometry and PBR textures; exports GLB, STL and OBJ, and includes free in-browser 3D viewers and file converters that never upload your files.
 
 ## Other
 
