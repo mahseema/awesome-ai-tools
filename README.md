@@ -355,6 +355,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - [PlantTattoosAI](https://www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
+- [Bazaart](https://www.bazaart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome_ai_tools) - AI photo editor for online sellers with batch background removal and resizing for product photos.
 
 
 
