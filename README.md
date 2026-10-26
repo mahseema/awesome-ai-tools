@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [Kionese](https://kionese.com) - Describe a relationship situation, answer guided questions, get a free preview read with one clear next step. No sign-up to try. 18 languages. Freemium.
 
 
 ## Learning resources
