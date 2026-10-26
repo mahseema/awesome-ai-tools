@@ -96,6 +96,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Rytr](https://rytr.me/) - Rytr is an AI writing assistant that helps you create high-quality content.
 - [wordtune](https://www.wordtune.com/) - Personal writing assistant.
 - [HyperWrite](https://hyperwriteai.com/) - HyperWrite helps you write with confidence and get your work done faster from idea to final draft.
+- [Rewrite](https://samratduttaofficial.github.io/Rewrite/) - Free desktop app that makes AI drafts read as human, fixes grammar, and edits Word, LaTeX and PDF files.
 - [Nexus AI](https://mynexusai.com/) - Nexus AI is a generative cutting-edge AI Platform for writing, coding, voiceovers, research, image creation and beyond.
 - [Moonbeam](https://www.gomoonbeam.com/) - Better blogs in a fraction of the time.
 - [copy.ai](https://www.copy.ai/) - Write better marketing copy and content with AI.
