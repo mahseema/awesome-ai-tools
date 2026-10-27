@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- - [EasySociable](https://easysociable.com) - AI carousel maker that runs inside your coding agent; creates branded multi-page carousels for TikTok, Instagram, LinkedIn, Threads and Xiaohongshu.
 
 
 ### Phone Calls
