@@ -403,6 +403,29 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
 
+- [airapvideo](https://ai-rap-video.asia) - Vocals + photo → 9:16 lip-sync rap video. From $8.88.
+- [Alors on Danse AI](https://tryalorsondanse.video) - Two photos to ~15s white-studio duo dance. From $8.88.
+- [Bad Times AI](https://badtimesai.cc) - One photo to ~15s 9:16 quarrel / lip-sync dance. From $8.88.
+- [bbywowguy AI](https://bbywowguyai.cc) - One photo to ~10s 9:16 quince/concha meme video. From $8.88.
+- [Burning Bridges AI](https://burningbridgesvideoai.com) - 1–2 photos to party template clip (silver cup / where she at). From $8.88.
+- [Cat in the Hat AI](https://catinthehat.cc) - One photo to ~10s 9:16 doorbell Halloween prank. From $8.88.
+- [ChatGTT](https://chatgtt.cc) - One photo to ~10–13s 9:16 card-declined meme. From $8.88.
+- [Cheba Man AI](https://chebamanai.cc) - One full-body photo to ~15–17s red stage Tecktonik clip. From $8.88.
+- [Choosin Texas AI](https://choosintexas.run) - One photo to ~15s 9:16 emo rooftop cover. From $8.88.
+- [Chuttamalle Dance AI](https://trychuttamalle.app) - Authorized portrait to ~15s 9:16 generative dance clip. From $8.88.
+- [coralineai](https://coralineai.run) - One selfie to ~10s 9:16 button-eyes doll reveal. From $8.88.
+- [Devil Wears Prada AI](https://pradaai.cc) - One photo to ~15s 9:16 street glow-up video. From $8.88.
+- [Flying Roadster AI](https://flyingcarai.cc) - One selfie to ~10–12s night ramp jet/flip short. From $8.88.
+- [Hotel Lobby AI](https://tryhotellobby.app) - Two photos to ~15s hotel lobby booth duo. From $8.88.
+- [JeanPhilAI](https://jeanphilai.cc) - One photo to ~12–15s blond bob + moustache clip. From $8.88.
+- [Kiss Cam AI](https://coldplayaffairai.cc) - 1–2 photos to ~10s stadium kiss-cam clip. From $8.88.
+- [Raindance AI](https://raindanceai.click) - Two photos to ~15s pier/dock sequence. From $8.88.
+- [RemixMeme](https://remixmeme.com) - AI meme video generator from photos with dance, pet and funny templates for TikTok/Reels.
+- [Rumpelstiltskin Dance AI](https://rumpelstiltskindance.video) - 1–2 photos to barn tip-toe dance short. From $8.88.
+- [ShanShenBu AI](https://shanshenbuai.cc) - One photo to ~13–15s 9:16 flash-step dance. From $8.88.
+- [venommakeup AI](https://venommakeup.cc) - One photo to ~10s 9:16 Halloween half-face goo video. From $8.88.
+- [Victoria Secret AI](https://victoriasecretai.cc) - One photo to ~10s 9:16 angel-wing runway walk. From $8.88.
+- [wywmysweetie AI](https://wywmysweetie.run) - One photo to ~13s 9:16 jersey-club dance. From $8.88.
 
 ### Animation
 
