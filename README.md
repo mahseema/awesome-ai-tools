@@ -472,6 +472,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Cald.ai](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
 - [Rosie](https://heyrosie.com/) - AI Phone Answering Service
 
+- [NovaSynth](https://noveum.ai/en/novasynth) - Automated voice agent testing over phone or LiveKit with configurable AI callers, batch calls, recordings, transcripts, and regression evaluations.
+
 ### Speech
 - [Eleven Labs](https://beta.elevenlabs.io/) - AI voice generator.
 - [Resemble AI](https://www.resemble.ai/) - AI voice generator and voice cloning for text to speech.
