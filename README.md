@@ -406,6 +406,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Animation
 
+- [Animiotics](https://animiotics.com/) - Text-to-3D scientific animations of molecules and cells, built from real protein structures.
+
 ## Audio
 
 ### AI Voice Cloning
