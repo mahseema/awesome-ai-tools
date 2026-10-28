@@ -592,3 +592,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
+## AI developer tools
+
+- [TokenTracker](https://www.tokentracker.cc) - Local-first AI token usage and cost tracker for Claude Code, Codex, Cursor, Gemini, Copilot and more. Privacy-first (never reads prompts). CLI + native apps. ([GitHub](https://github.com/xiufengsun/TokenTracker))
