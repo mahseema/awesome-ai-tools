@@ -471,6 +471,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Voice Agents](https://diallink.com/) — AI Voice Agents for business calls and routine tasks, powered by DialLink cloud phone system.
 - [Cald.ai](https://cald.ai) - AI based calling agents for outbound and inbound phone calls.
 - [Rosie](https://heyrosie.com/) - AI Phone Answering Service
+- [SwiftCall](https://swiftcall.org/ai-receptionist) - AI phone answering and multipurpose agents for small businesses: answers and qualifies calls, books appointments, follows up leads.
 
 ### Speech
 - [Eleven Labs](https://beta.elevenlabs.io/) - AI voice generator.
