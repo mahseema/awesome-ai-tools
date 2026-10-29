@@ -358,6 +358,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 
+- [Photoshoot](https://photoshoot.app/?utm_source=github_awesome_ai_tools&utm_medium=backlink&utm_campaign=202609_w7_backlinks) - AI commercial photography studio for e-commerce. Turn a single product photo into studio-grade listing images, model try-on shots and ad creatives.
 ### Graphic design
 
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
