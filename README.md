@@ -592,3 +592,5 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
+- [BrightWire AI Tech Stack Advisor](https://www.brightwire.news/tech-stack) - Free interactive AI developer tool that recommends the ideal frontend, backend, database, hosting, and AI stack with architecture diagrams, plus [BrightWire News](https://www.brightwire.news) AI-curated positive journalism with neural audio narration.
