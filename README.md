@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [Melso](https://melso.ai/en) - Spanish tax service for freelancers with an AI agent for invoices and expenses and human filing of included returns after customer approval; AI can open S.L. incorporation cases via MCP, with owner approval and payment in Melso before professionals handle legal steps.
 
 
 ### Meeting assistants
