@@ -213,6 +213,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Mathos AI](https://www.mathgptpro.com/) - Best AI math solver, calculator & tutor.
 
 ### Customer Support
+- [OctaDezx](https://octadezx.com) - Autonomous AI customer care platform with zero resolution tax, real-time interruptible phone voice dispatch, and native [MCP Server](https://octadezx.com/ai-agent-mcp-server) integration.
 - [SiteGPT](https://sitegpt.ai/?ref=mahseema-awesome-ai-tools) - Make AI your expert customer support agent.
 - [GPTHelp.ai](https://gpthelp.ai/?ref=mahseema-awesome-ai-tools) - ChatGPT for your website / AI customer support chatbot.
 - [SiteSpeakAI](https://sitespeak.ai) - Automate your customer support with AI.
