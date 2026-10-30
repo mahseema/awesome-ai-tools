@@ -515,6 +515,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator
 - [Myriad](https://www.namepepper.com/free-tools/ai-content-prompt-tool) - Scale your content creation and get the best writing from ChatGPT, Copilot, and other AIs. Build and fine-tune prompts for any kind of content, from long-form to ads and email.
 - [GradGPT](https://www.gradgpt.com/) - AI tools to simplify college applications. Review applications, draft essays, find universities and requirements and more.
+- [prefrosh.ai](https://prefrosh.ai) - Free college admissions odds by round, campus maps, rankings by major and an AI mock admissions committee.
 - [Code to Flow](https://codetoflow.com) - Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
 - [AI-Flow](https://ai-flow.net/) - Connect multiple AI models easily.
 - [Architecture Helper](https://architecturehelper.com) - Analyze any building architecture, and generate your own custom styles, in seconds.
