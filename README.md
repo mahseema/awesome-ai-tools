@@ -231,6 +231,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Developer tools
 
+- [Agent Infra Guide LLM RAM/VRAM Calculator](https://agentinfraguide.com/tools/llm-vram-calculator) - Free model-memory planning estimates for quantization, context length and runtime headroom.
+
 - [Ollama](https://ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps.
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
