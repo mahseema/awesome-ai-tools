@@ -67,6 +67,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Gali Chat](https://www.galichat.com/) - *[reviews](#)* - Your 24/7 AI Support Assistant that helps you grow your business!
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://altern.ai/product/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
+- [AnyModelBot](https://anymodel.bot) - Open-source local-first app for running your own AI bots on any model (GPT, Claude, Gemini, DeepSeek and more through one Modelflare key), reachable from the desktop app, WeChat and Feishu.
 
 
 ### Search engines
