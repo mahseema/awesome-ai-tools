@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[SEOCheck-AI](https://seocheck-ai.com/free-seo-check)** - AI-driven website SEO audit, Core Web Vitals diagnostic tool, and search visibility scanner.
 
 
 ### Phone Calls
@@ -545,6 +546,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [ListAIHub](https://listaihub.com/) - Curated directory of artificial intelligence tools, autonomous agents, and developer API endpoints.
 
 
 ## Learning resources
