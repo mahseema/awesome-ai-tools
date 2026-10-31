@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [InvoiceKoi](https://www.invoicekoi.com/): Android invoicing for tradespeople with online AI voice drafts and receipt reading that require user review; offline drafting is free, and issuing new numbered documents requires a subscription.
 
 
 ### Meeting assistants
