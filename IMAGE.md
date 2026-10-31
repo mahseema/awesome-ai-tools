@@ -24,6 +24,7 @@ A curated list of AI tools for image processing, generation, editing, and enhanc
 - **[Let's Enhance](https://letsenhance.io/)** - AI-based tool to upscale images without losing quality, using neural networks for image enhancement.
 - **[Remove.bg](https://www.remove.bg/)** - AI tool for automatic background removal from images.
 - **[Flux.1 Kontext](https://flux1kontext.io/)** - The latest Flux AI tool for editing images through prompts
+- **[ClearPix](https://clearpix.org)** - Free in-browser AI watermark remover, object eraser and 4× upscaler that runs entirely locally (WebGPU, ONNX Runtime Web) with no uploads.
 
 ## Image Recognition
 
