@@ -156,6 +156,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Emilio](https://getemil.io?ref=mahseema-awesome-ai-tools) - Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time
 - [Pieces](https://pieces.app/) - AI-enabled productivity tool designed to supercharge developer efficiency,with an on-device copilot that helps capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of dev workflow
 - [Huntr AI Resume Builder](https://huntr.co/product/ai-resume-builder/?ref=mahseema-awesome-ai-tools) - Craft the perfect resume, with a little help from AI. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.
+- [Rezloom](https://rezloom.com) - Tailor a resume to a job description from your career materials—Chinese and English on the same facts, with controllable share links.
 - [Chat With PDF by Copilot.us](https://copilot.us/apps/chat-with-pdf) - An AI app that enables dialogue with PDF documents, supporting interactions with multiple files simultaneously through language models.
 - [Recall](https://www.getrecall.ai/) - Summarize Anything, Forget Nothing
 - [Talently AI](https://interview.talently.ai/?utm_source=mahseema-awesome-ai-tool&utm_medium=c_and_p&utm_campaign=tool-listing) - An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process. 
@@ -178,6 +179,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Smmry](https://smmry.com/) - Summarize Long Content Into Clear Insights
 - [Nudge AI](https://getnudgeai.com/) - Ambient AI Scribe for Healthcare
 - [Summara](https://summara.io/) - YouTube AI Summary and Transcript widget
+- [YouTube Summarizer](https://youtubesummarizer.org) - Free YouTube video summarizer: paste a link, get key points and overview in seconds.
 - [Mocha](https://getmocha.com) - AI app builder
 - [Marblism](https://marblism.com) - AI Employees for your business
 - [Spell](https://spellapp.com) - Spell is the AI alternative to Google Docs
@@ -227,6 +229,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
 - [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
 - [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=mahseema-awesome-ai-tools) - Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
+- [7emoji](https://7emoji.fun) - AI emoji translator that turns your text into up to 10 context-matched emoji suggestions to copy.
+- [IsWeber](https://isweber.com) - Agent content pipeline for creators: topic to outline, script, and titles.
+- [AI Story Writer](https://aistorywriter.org) - Free AI story writer for kids—short family-safe stories with illustrations and narration.
 
 
 ### Developer tools
@@ -395,6 +400,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
 - [Hour One](https://hourone.ai/) - Turn text into video, featuring virtual presenters, automatically.
+- [Html2MP4](https://html2mp4.com) - Turn HTML, website URLs, prompts, and templates into frame-accurate MP4 videos online.
 - [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
 - [ShortVideoGen](https://shortgen.video/) - Create short videos with audio using text prompts.
 - [Clipwing](https://clipwing.pro/) - A tool for cutting long videos into dozens of short clips.
@@ -500,6 +506,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
 - [Have I Been Trained?](https://haveibeentrained.com/) - Check if your image has been used to train popular AI art models.
 - [AI Dungeon](https://aidungeon.io/) - A text-based adventure-story game you direct (and star in) while the AI brings it to life.
+- [Lompu](https://lompu.com) - Build custom random pickers and flashcards from your own lists—save and share in seconds.
+- [Odluck](https://odluck.com) - Free online random generators for numbers, passwords, colors, cards, animals, and countries.
+- [PuzzlePave](https://puzzlepave.com) - Free packing / polyomino puzzle online: rotate blocks, pave an 8×8 board across 100 levels—no download or sign-up.
 - [Clickable](https://www.clickable.so/) - Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.
 - [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
