@@ -22,6 +22,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Copy.ai](https://www.copy.ai/)** - AI-powered copywriting tool for generating ad copy, product descriptions, and website content.
 - **[Writesonic](https://writesonic.com/)** - AI writing assistant for marketing content, blogs, and sales copy generation.
 - **[AI Story Book](https://aistorybook.app)** – Illustrated AI storybooks with tools for sharing on socials. Great for marketing through storytelling.
+- **[EverAlice AI](https://everalice.studio/)** - All-in-one AI studio for Etsy and digital-product sellers: turns one artwork or idea into listing copy and SEO tags for 25 marketplaces, studio mockups, print-ready files, listing videos, a launch marketing pack and a customer delivery ZIP, with bulk runs of up to 100 products.
 
 ## Personalization
 
