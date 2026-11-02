@@ -355,6 +355,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - [PlantTattoosAI](https://www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
+- [virtual ring try on](https://aijewelrymodel.app/virtual-ring-try-on) - AI Jewelry Model creates ring-on-hand previews from a hand photo and ring image; previews do not measure ring size.
 
 
 
@@ -592,3 +593,4 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
