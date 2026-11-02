@@ -442,6 +442,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Ecrett Music](https://www.ecrettmusic.com) - [Review](https://theresanai.com/ecrett-music) - Designed for video creators, offering royalty-free music.
 - [Loudly](https://www.loudly.com) - [Review](https://theresanai.com/loudly) - Combines AI music generation with a social platform for collaboration.
 - [Soundful](https://www.soundful.com) - [Review](https://theresanai.com/soundful) - High-quality, royalty-free music for content creators.
+- [SingMyLyrics](https://singmylyrics.com/) - Turns lyrics, memories, or a short idea into a personalized song with selectable styles and voices.
 - [AI Music Generator](https://www.aisongmaker.io) - [Review](https://www.producthunt.com/products/ai-song-maker) - Effortlessly Create Songs with AI
 
 
