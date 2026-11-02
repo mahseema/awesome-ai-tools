@@ -592,3 +592,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
+- [PlainCSV](https://plaincsv.com) - Deterministic PDF bank statement to CSV, Excel, and QuickBooks (.QBO) converter with balance math verification.
+- [MemoClerk](https://memoclerk.com) - Convert Apple Voice Memos (.m4a) and WhatsApp voice notes (.opus) into Executive Summaries and Action Items.
+- [SoapClerk](https://soapclerk.com) - Zero-PHI 10-second clinical shorthand expander for Medical SOAP Notes, Nursing SBAR, and Therapy DAP/BIRP notes.
+- [TermsClerk](https://termsclerk.com) - B2B contract, NDA, and lease red-flag auditor with copy-paste legal counter-redline clauses.
+- [DailySERP](https://dailyserp.com) - Autonomous 6-agent technical SEO, Generative Engine Optimization (GEO), and daily engineering article workforce.
