@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [xgoose](https://xgoose.org/) - Cross-platform browser AI assistant with site-specific skills. It natively reuses your existing browser sessions (no re-login needed) and supports both low-cost models and custom API providers.
 
 
 ### Meeting assistants
