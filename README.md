@@ -589,6 +589,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)
 - [Top AI Directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
-
+- [Tools Hub](https://hub.sweetai.work) - A directory of 10,000+ free online tools and AI tools with detailed guides, comparisons and alternatives.
 
 created by [Mahsima Dastan](https://github.com/mahseema)
