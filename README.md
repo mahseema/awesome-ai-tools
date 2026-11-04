@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [Attestlane](https://attestlane.to) - AI-drafted security policies for the team to review, plus a free SOC 2 readiness assessment, a 39-item evidence checklist and an auditor-ready package for 1-50 person B2B software teams.
 
 
 ## Learning resources
