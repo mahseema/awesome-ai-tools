@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [DocAsker](https://docasker.com) - AI-verified client document collection and onboarding portal that automatically validates uploaded PDFs and IDs for accounting, legal, visa, and mortgage firms.
 
 
 ## Learning resources
