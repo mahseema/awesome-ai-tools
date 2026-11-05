@@ -484,6 +484,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
 - [CustomPod.io](https://custompod.io) - Generate daily news podcasts only on the topics you care about.
 - [EKHOS AI](https://ekhos.ai) - An AI speech-to-text software with powerful proofreading features. Transcribe most audio or video files with real-time recording and transcription.
+- [TranscribeLink](https://transcribelink.com) - Transcribe audio and video files or links from YouTube, TikTok, Instagram and X into text, with speaker labels and SRT/DOCX export.
   
 ### Music
 
