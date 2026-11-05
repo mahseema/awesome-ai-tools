@@ -545,7 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
-- [Terminal Tax](https://terminal.tax/) - E-file your federal tax return from your AI assistant; you review and sign on one hosted page.
+- [Terminal Tax](https://terminal.tax/) - Let ChatGPT or Claude file your taxes directly with the IRS. Tax software: your AI agent sends the return, you review and sign it, we e-file. $19.99, charged only if the IRS accepts it.
 
 
 ## Learning resources
