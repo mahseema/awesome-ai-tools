@@ -110,6 +110,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [RapidTextAI](https://app.rapidtextai.com/) - Write Advance Articles using Multiple AI Models like GPT4, Gemini, Deepseek and grok.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
+- [Descriptra](https://descriptra.com) - AI product description generator and GEO/SEO catalog optimizer for e-commerce in 22 languages.
 - [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
 - [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
 - [Quick Creator](https://quickcreator.io) - SEO-Optimized Blog platform powered by AI.
