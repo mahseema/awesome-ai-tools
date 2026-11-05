@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [Joshu](https://joshu.me) - AI assistant with its own computer, phone number, email and memory. Text it, call it, or share its desktop; it schedules meetings, runs research reports, and keeps a durable knowledge base. Open source (AGPL).
 
 
 ### Meeting assistants
