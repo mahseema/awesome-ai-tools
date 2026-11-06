@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [NeverApply](https://neverapply.co/) - AI job-search agent with hosted MCP for matching jobs, tailoring resumes, and apply-with-approval
 
 
 ## Learning resources
