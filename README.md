@@ -402,7 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
-
+- [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage) - Self-hosted AI short-drama studio: script → storyboard → voice → edit with consistent characters across shots. AGPL-3.0.
 
 ### Animation
 
