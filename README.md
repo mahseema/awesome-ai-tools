@@ -302,6 +302,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [CoderPlan](https://coderplan.ai) - Pay-as-you-go LLM API gateway with OpenAI-compatible endpoint for Claude, GPT, Gemini, Grok and MiniMax. One key, transparent pricing, itemized per-request billing.
+- [Teapot Router](https://teapotrouter.com) - Team API gateway for GPT and Claude Code: shared token pool, per-request metering with model/tokens/cache-hits/cost, org-level key management, and a public price book with no login required.
 
 
 ## Image
