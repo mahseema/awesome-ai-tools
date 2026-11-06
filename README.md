@@ -504,6 +504,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
+- [DisconfirmAI](https://disconfirmai.com/en) - AI investment research and reading tool that helps you look for evidence that could prove an idea wrong before you build conviction.
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
 - [Petals](https://github.com/bigscience-workshop/petals) - BitTorrent style platform for running AI models in a distributed way.
 - [Shotstack Workflows](https://shotstack.io/product/workflows/) - No-code, automation workflow tool for building Generative AI media applications.
