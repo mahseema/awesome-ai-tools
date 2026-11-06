@@ -402,6 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [Menivor](https://menivor.com/) - Turns a link or a topic into a ready-to-post vertical reel: AI hook script, AI voiceover, and word-by-word captions in English or Turkish.
 
 
 ### Animation
