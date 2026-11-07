@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [Athena Reader](https://athena-reader.com/) - A free, offline-first EPUB & PDF reader for your own files: read aloud, take notes, ask AI with citations, sync across iPhone, iPad, Android, web and Windows.
 
 
 ## Learning resources
