@@ -302,6 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [assay](https://github.com/awss1i/assay) - A deterministic command-line QA tool that serves a local web page, drives its controls in Chromium through Playwright, and reports where the page contradicts itself, with a Python API, an HTML report, and a skill and plugin for AI coding agents.
 
 
 ## Image
