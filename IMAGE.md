@@ -17,6 +17,7 @@ A curated list of AI tools for image processing, generation, editing, and enhanc
 - **[DALL·E](https://openai.com/dall-e/)** - Generates realistic images from text descriptions using deep learning models.
 - **[Artbreeder](https://www.artbreeder.com/)** - AI tool for creating and blending artworks, portraits, and landscapes through generative adversarial networks.
 - **[Runway ML](https://runwayml.com/)** - A creative toolkit that enables artists to generate images, videos, and models using AI.
+- **[iGen3D](https://igen3d.com/)** - AI text-to-3D and image-to-3D model generator for 3D printing watertight STL and GLB assets.
 
 ## Image Editing
 
