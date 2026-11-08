@@ -50,6 +50,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 
 ## Advertising
 
+- **[AdVariq](https://advariq.com/)** - AI-powered ad creative and banner generator for solo founders, marketers, and startups. (Freemium: Free trial available, paid plans start at 29 USD/month)
 - **[Adzooma](https://www.adzooma.com/)** - Automates PPC campaign management across Google, Microsoft, and Facebook Ads platforms with AI insights.
 - **[Albert AI](https://albert.ai/)** - Fully autonomous AI-driven platform for managing cross-channel digital advertising campaigns.
 - **[AdEspresso](https://adespresso.com/)** - AI-based optimization tool for managing and scaling Facebook and Google ad campaigns.
