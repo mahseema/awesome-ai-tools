@@ -364,6 +364,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [Microsoft Designer](https://designer.microsoft.com/) - Stunning designs in a flash.
 - [SVGStud.io](https://svgstud.io/) - AI-based SVG Generation and Semantic Seach
+- [GPTSVG Studio](https://gptsvg.com/) - AI text-to-SVG and image-to-SVG generator for editable vector logos, UI icons, and stickers.
 - [Text2Infographic](https://text2infographic.com/) - AI infographic generator and editor.
 - [Seede.ai](https://seede.ai/) - Create a stunning poster in just 1 minute with Seede.
 - [Magic Patterns](https://www.magicpatterns.com/) - AI-based UI builder with Figma export and React code generation.
