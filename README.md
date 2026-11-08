@@ -449,6 +449,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 *You can also find  more comprehensive list on *[Marketing List](https://github.com/mahseema/awesome-ai-tools/blob/main/marketing.md)*
 
+- **[AdVariq](https://advariq.com/)** - AI-powered ad creative and banner generator for solo founders, marketers, and startups. (Freemium: Free trial available, paid plans start at 29 USD/month)
 - **[Jasper AI](https://www.jasper.ai/)** - AI-powered tool for generating marketing content like blogs, emails, and ad copy.
 - **[Mutiny](https://www.mutinyhq.com/)** - Personalization platform to improve website conversions using AI.
 - **[Clearbit](https://clearbit.com/)** - Lead enrichment and data intelligence platform.
