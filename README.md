@@ -394,6 +394,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [RunwayML](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
 - [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
+- [Vidmoat](https://www.vidmoat.com) - Hosted AI video editor: describe the edit in chat, review it on a real timeline, render MP4.
 - [Hour One](https://hourone.ai/) - Turn text into video, featuring virtual presenters, automatically.
 - [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
 - [ShortVideoGen](https://shortgen.video/) - Create short videos with audio using text prompts.
