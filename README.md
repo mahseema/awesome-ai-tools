@@ -369,6 +369,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Magic Patterns](https://www.magicpatterns.com/) - AI-based UI builder with Figma export and React code generation.
 
 
+- [Ranch Brand Maker](https://ranchbrandmaker.com/) - Create three AI cattle-brand concepts from a brief and optional reference, with transparent PNG downloads for $9.90 once.
+
 ### Image libraries
 
 - [Lexica](https://lexica.art/) - Stable Diffusion search engine.
