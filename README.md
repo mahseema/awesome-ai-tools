@@ -402,6 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [MiniMax H3](https://h3minimax.com/) - Run the MiniMax H3 video model in your browser: text or one image to a 4-15 second video in 768P or 2K, free credits with Google sign-up.
 
 
 ### Animation
