@@ -545,7 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
-
+- [GiftPilot](https://thegiftpilot.ai) - Free AI gift finder that turns a plain-language description of a person into real gift ideas from partner shops, with prices and reasons. No signup.
 
 ## Learning resources
 
