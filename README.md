@@ -213,6 +213,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Mathos AI](https://www.mathgptpro.com/) - Best AI math solver, calculator & tutor.
 
 ### Customer Support
+- [Kolivri](https://kolivri.com) - AI Voice Call Center & CRM platform with sub-second phone agents in 8 languages, persistent cross-call memory, and open-source [MCP server](https://github.com/kolivritech/kolivri-voice-mcp).
 - [SiteGPT](https://sitegpt.ai/?ref=mahseema-awesome-ai-tools) - Make AI your expert customer support agent.
 - [GPTHelp.ai](https://gpthelp.ai/?ref=mahseema-awesome-ai-tools) - ChatGPT for your website / AI customer support chatbot.
 - [SiteSpeakAI](https://sitespeak.ai) - Automate your customer support with AI.
