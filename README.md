@@ -592,3 +592,5 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
+- [AI & Proxy Pool Cost Calculator](https://ai-cost-calculator-snowy.vercel.app) - Free interactive calculator to estimate monthly expenses for AI agents, cloud GPU instances, and scraping proxy pools. ([GitHub](https://github.com/alekseev04051988-blip/ai-cost-calculator))
