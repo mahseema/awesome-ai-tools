@@ -402,6 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [ToHD](https://tohd.video/) - Free AI video upscaler that runs in your browser on your own GPU: 360p/480p clips to 720p or 1080p, no upload, no signup.
 
 
 ### Animation
