@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [KissMyPost](https://kissmypost.com/) - Reddit audience research with semantic subreddit search and an MCP server for AI assistants: find subreddits for a topic, best time to post, brand mentions.
 
 
 ## Learning resources
