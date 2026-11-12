@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [LogLens](https://github.com/YaBoom/loglens-zyt) - Open-source AI log analysis CLI that feeds raw production logs to an LLM (DeepSeek or any OpenAI-compatible API) to surface root causes and fix suggestions in seconds. Offers CLI, Web UI, and real-time monitoring mode. [#opensource](https://github.com/YaBoom/loglens-zyt)
 
 
 ## Code
