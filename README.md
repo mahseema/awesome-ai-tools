@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [Agent Security Index](https://agentsecurityindex.com/) - Independent, vendor-neutral directory of 102 AI agent security tools in six categories, each checked against vendor sources.
 
 
 ## Learning resources
