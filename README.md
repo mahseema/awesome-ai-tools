@@ -484,7 +484,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
 - [CustomPod.io](https://custompod.io) - Generate daily news podcasts only on the topics you care about.
 - [EKHOS AI](https://ekhos.ai) - An AI speech-to-text software with powerful proofreading features. Transcribe most audio or video files with real-time recording and transcription.
-- [Audo](https://audo.ai) - Clean up and transcribe audio and video with separate noise reduction and voice restoration tools, available in a browser and through an API or MCP.
+- [Audo](https://audo.ai) - Audio and video creation and editing toolkit: generate speech, clone or change voices, clean up audio, transcribe, and caption through browser tools, REST API, or MCP.
 
 ### Music
 
