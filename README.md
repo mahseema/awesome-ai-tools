@@ -443,6 +443,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Loudly](https://www.loudly.com) - [Review](https://theresanai.com/loudly) - Combines AI music generation with a social platform for collaboration.
 - [Soundful](https://www.soundful.com) - [Review](https://theresanai.com/soundful) - High-quality, royalty-free music for content creators.
 - [AI Music Generator](https://www.aisongmaker.io) - [Review](https://www.producthunt.com/products/ai-song-maker) - Effortlessly Create Songs with AI
+- [Tunenoodle](https://tunenoodle.com) - AI music generator plus free browser-based audio tools (audio to MIDI, MIDI editor, tap tempo, chord analyzer, and more).
 
 
 ### Marketing AI Tools
