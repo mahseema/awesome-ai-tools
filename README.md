@@ -355,7 +355,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - [PlantTattoosAI](https://www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
-
+- [TextScope](https://textscopes.com/) - Free, 100% client-side browser suite for word counting, Flesch readability, AI Markdown & zero-width Unicode cleaning (`U+200B`), LLM token counting, and 600px SEO title checking.
 
 
 ### Graphic design
