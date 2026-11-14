@@ -67,6 +67,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Gali Chat](https://www.galichat.com/) - *[reviews](#)* - Your 24/7 AI Support Assistant that helps you grow your business!
 - [DeepSeek-R1](https://www.deepseek.com) - *[reviews](https://altern.ai/product/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - [dmwithme](https://dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
+- [Sitey AI](https://app.sitey.pk/) - *[reviews](#)* - Free Urdu AI assistant (Android app and web) that answers in Urdu, Roman Urdu or English and reads answers aloud in a natural Urdu voice.
 
 
 ### Search engines
