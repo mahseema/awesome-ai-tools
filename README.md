@@ -491,6 +491,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Mubert](https://mubert.com/) - A royalty-free music ecosystem for content creators, brands and developers.
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research for generating high-fidelity music from text descriptions.
 - [Remusic](https://remusic.ai/en) - AI Music Generator and Music Learning Platform Online Free.
+- [No Stairs Please](https://nostairsplease.com/) - Every small stage in all 50 states, and who books it. Live-music venue directory with a remote MCP endpoint (https://nostairsplease.com/mcp) for AI tour routing.
 
 ## Other
 
