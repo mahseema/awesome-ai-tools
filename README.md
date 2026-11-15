@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [Savvo](https://www.savvo-ai.com) - Free AI assistant for buying used cars in the UAE: searches ~14 marketplaces at once, grades each advert's price, checks engine/spec truth, decodes the VIN, and runs a model-specific inspection. Buyer-side; no seller pays to rank.
 
 
 ## Learning resources
