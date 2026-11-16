@@ -1,4 +1,3 @@
-
 # Best AI Image Tools
 
 A curated list of AI tools for image processing, generation, editing, and enhancement. These tools leverage advanced AI techniques to optimize workflows, enhance creativity, and automate image-related tasks.
@@ -23,6 +22,7 @@ A curated list of AI tools for image processing, generation, editing, and enhanc
 - **[DeepArt](https://deepart.io/)** - AI-driven tool that transforms photos into artworks by mimicking the style of famous artists.
 - **[Let's Enhance](https://letsenhance.io/)** - AI-based tool to upscale images without losing quality, using neural networks for image enhancement.
 - **[Remove.bg](https://www.remove.bg/)** - AI tool for automatic background removal from images.
+- **[RemoveFree](https://removefree.app/)** - Free, zero-signup browser-local AI background remover (WebGPU/WASM) preserving full original pixel dimensions with no uploads.
 - **[Flux.1 Kontext](https://flux1kontext.io/)** - The latest Flux AI tool for editing images through prompts
 
 ## Image Recognition
