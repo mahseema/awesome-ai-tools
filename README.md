@@ -202,6 +202,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Academia
 
+- [HumanPen](https://humanpen.net/) - Document-level academic & research writing suite: Humanize (DOCX/PPTX/TXT), Translate (12 languages across PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT), Condense (DOCX), Citation Format Correction (12 styles), and scoped Research Projects (100 signup credits; credit-based pricing, no detector guarantees or ghostwriting).
 - [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
 - [genei](https://www.genei.io/) - Summarise academic articles in seconds and save 80% on your research times.
 - [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
