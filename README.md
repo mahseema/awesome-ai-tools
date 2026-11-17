@@ -592,3 +592,4 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+- [VEX](https://github.com/umairkhan2582/vex) - MIT-licensed browser workspace for prompt-driven code synthesis and application previews.
