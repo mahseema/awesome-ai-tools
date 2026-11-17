@@ -339,6 +339,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Avatar AI](https://avatarai.me/) - Create your own AI-generated avatars.
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
 - [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
+- [Liveify](https://videolivephoto.com/photo-to-live-photo) - Animate a still photo into a Live Photo with AI; sign-in and credits are required, and there is no verified way to import the web .livp download into iPhone Photos.
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
 - [Human Generator](https://generated.photos/human-generator) - AI generator or realistic looking photos of humans.
 - [VectorArt.ai](https://vectorart.ai) - Create vector images with AI.
