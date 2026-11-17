@@ -81,6 +81,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
 - [Refinder AI](https://refinder.ai/) - AI-powered universal search and assistant for work
 - [Agentset.ai](https://agentset.ai/) - Open-source local Semantic Search + RAG for your data
+- [AI-Vision](https://ai-vision.top) - Product discovery and Generative Engine Optimization (GEO) indexation platform for AI search engines with real-time llms.txt vector feeds and Schema.org markup.
 
 ### Local search engines
 
