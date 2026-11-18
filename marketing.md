@@ -34,6 +34,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Clearbit](https://clearbit.com/)** - Provides real-time data intelligence for lead generation and enrichment, helping businesses target customers better.
 - **[HubSpot AI](https://www.hubspot.com/)** - AI-driven CRM platform with marketing automation for nurturing leads.
 - **[Leadfeeder](https://www.leadfeeder.com/)** - AI-based tool for tracking website visitors and identifying sales leads.
+- **[Revenue Scout](https://revenuescout.ai/)** - Agentic Coworker for sales prospecting that finds leads across seven social platforms. Scout uses reply requests and related search results to explore better search phrases. You review and post social replies. One-time free credits and paid plans.
 
 ## Email Marketing
 
