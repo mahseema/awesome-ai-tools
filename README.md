@@ -402,6 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [AI Rap Video](https://useairapvideo.com/) - Turns a topic or one or two photos into a short lip-synced rap performance video, with lyrics written for the topic, an AI rap voice and an original beat.
 
 
 ### Animation
