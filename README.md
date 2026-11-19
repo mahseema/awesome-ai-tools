@@ -309,6 +309,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 *For a more complete list of AI Image tools visit: [Best Image AI Tools](https://github.com/mahseema/awesome-ai-tools/blob/main/IMAGE.md) or [Awesome AI Image](https://github.com/xaramore/awesome-ai-image)*
 
 
+- [bf16.ai](https://bf16.ai) - Uncensored LLM API gateway for coding and personal AI agents with 1M context, native OpenAI & Anthropic endpoints, and zero prompt retention.
 ### Models
 
 - [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.
