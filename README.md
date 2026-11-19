@@ -402,6 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [Burning Bridges AI Video](https://burningbridges-aivideo.com/) - Turn one photo (plus up to 5 friends in the crowd) into a 15s or 29s viral Drake party or office meme video with one-time credit packs.
 
 
 ### Animation
