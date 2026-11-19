@@ -192,6 +192,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
 - [Higher Self AI](https://bethe.one/meet-higher-self-ai) - A guided reflection coach for working through decisions and habits and choosing a practical next step.
 
+
 ### Meeting assistants
 
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
