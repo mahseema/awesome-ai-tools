@@ -406,6 +406,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Animation
 
+- [MakerGIF](https://makergif.com/) - AI GIF generator and 2D character sprite sheet studio with native 32-bit RGBA transparent backgrounds, plus free browser-local sprite sheet conversion and Discord emoji optimization.
+
 ## Audio
 
 ### AI Voice Cloning
