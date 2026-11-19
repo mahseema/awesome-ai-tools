@@ -402,6 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [InfiArk (无限舟)](https://aioyh.com/) - Multimodal AI workspace for film and short drama creation with visual storyboarding, Seedance 2.5 and Wan3.0 video generation.
 
 
 ### Animation
