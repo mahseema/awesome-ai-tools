@@ -191,6 +191,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
 
+- [Utterwove](https://utterwove.kriva.studio/) - Android voice typing with downloadable on-device speech recognition models, transcript review, and optional AI rewriting.
 
 ### Meeting assistants
 
@@ -592,3 +593,4 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
+
