@@ -355,8 +355,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - [PlantTattoosAI](https://www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
-
-
+- [PicGenix](https://razorlinestudios.co.uk/app.php?slug=picgenix) - Local Windows AI image generator running SDXL-Lightning and FLUX.2 Klein on your own NVIDIA GPU with Visual Memory reference images and no credits.
+- [AI ColourBack](https://razorlinestudios.co.uk/app.php?slug=colourback) - Offline Windows black-and-white photo colourisation app powered by the DDColor model with batch folder processing.
 
 ### Graphic design
 
@@ -443,7 +443,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Loudly](https://www.loudly.com) - [Review](https://theresanai.com/loudly) - Combines AI music generation with a social platform for collaboration.
 - [Soundful](https://www.soundful.com) - [Review](https://theresanai.com/soundful) - High-quality, royalty-free music for content creators.
 - [AI Music Generator](https://www.aisongmaker.io) - [Review](https://www.producthunt.com/products/ai-song-maker) - Effortlessly Create Songs with AI
-
+- [SongGenix](https://razorlinestudios.co.uk/app.php?slug=songgenix) - Offline Windows AI music studio that generates 30-second previews, full vocal songs, and instrumental tracks locally with WAV export.
 
 ### Marketing AI Tools
 
