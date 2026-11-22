@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [cour.top](https://cour.top) - AI API gateway providing GPT, Claude, Grok and DeepSeek models through one OpenAI-compatible API. GPT at 0.5x official pricing, DeepSeek 0.38x, Grok 0.28x; pay-as-you-go with 1:1 top-ups (pay ¥1, get $1 credit), balance never expires, and ¥5 free trial credit on signup.
 
 
 ## Code
