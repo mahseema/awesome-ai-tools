@@ -531,6 +531,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Napkin](https://www.napkin.ai/) - Napkin turns your text into visuals so sharing your ideas is quick and effective.
 - [Exam Samurai](https://www.examsamur.ai/) - AI Exam Generator
 - [AI Watermark Remover](https://aiwatermarkremover.io/) - Remove watermarks from images and videos.
+- [Chiri Brain](https://chiri.ai/platform) - Managed platform for company-specific AI applications and agents, with an organizational knowledge layer, integrations and permission controls.
 - [AISaver](https://aisaver.io) - Collection of AI Powered Video and Photo Tools
 - [Harbor](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
 - [LangMagic](https://easytolearn.io) - Learn languages from native content.
