@@ -274,6 +274,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Code
 
+- [Memoreal](https://memoreal.kolivri.com) - Persistent long-term memory and code navigation MCP server for 15 AI coding clients so coding agents stop forgetting project rules across sessions.
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 - [poorcoder](https://github.com/vgrichina/poorcoder) - Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok without disrupting your development process.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
