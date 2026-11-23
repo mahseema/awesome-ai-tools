@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [Aside](https://aside.sh) - Save links, photos, and notes into local or Arc Space collections and ask your connected AI agent to turn them into a brief with clickable source links.
 
 
 ### Meeting assistants
