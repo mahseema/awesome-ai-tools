@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [VibeShield](https://vibe-checker.appwrite.network) - Pre-launch security scanner for AI-built Next.js, Vite, and Supabase apps that detects exposed client-bundle secrets, source maps, and unauthenticated RLS endpoints. [#opensource](https://github.com/zColdWater/vibeshield-cli)
 
 
 ## Code
