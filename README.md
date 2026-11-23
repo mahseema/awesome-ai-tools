@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [AIHardwareDB](https://aihardwaredb.com/) - Independent specification and 24-month ownership cost database (hardware + subscriptions) for consumer AI wearables, with an interactive True Cost Calculator and open CC BY 4.0 dataset.
 
 
 ## Learning resources
