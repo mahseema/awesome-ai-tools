@@ -81,6 +81,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
 - [Refinder AI](https://refinder.ai/) - AI-powered universal search and assistant for work
 - [Agentset.ai](https://agentset.ai/) - Open-source local Semantic Search + RAG for your data
+- [ApeMind](https://apemind.ai/) - Enterprise RAG, knowledge base, and AI agent platform combining vector, full-text, and knowledge graph retrieval with MCP integration, agent evaluation, and private deployment.
 
 ### Local search engines
 
