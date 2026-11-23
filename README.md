@@ -484,6 +484,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
 - [CustomPod.io](https://custompod.io) - Generate daily news podcasts only on the topics you care about.
 - [EKHOS AI](https://ekhos.ai) - An AI speech-to-text software with powerful proofreading features. Transcribe most audio or video files with real-time recording and transcription.
+- [VoceText](https://vocetext.com/) - Browser-based AI audio and video transcription in 20 languages with local browser-side Opus audio extraction and watermark-free TXT, DOCX, SRT, VTT, and JSON exports.
   
 ### Music
 
