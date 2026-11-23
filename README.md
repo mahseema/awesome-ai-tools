@@ -449,6 +449,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 *You can also find  more comprehensive list on *[Marketing List](https://github.com/mahseema/awesome-ai-tools/blob/main/marketing.md)*
 
+- **[Distribewt](https://distribewt.com/)** - Creates, reviews, approves, and schedules TikTok and Instagram slideshows for iOS apps from real screenshots.
 - **[Jasper AI](https://www.jasper.ai/)** - AI-powered tool for generating marketing content like blogs, emails, and ad copy.
 - **[Mutiny](https://www.mutinyhq.com/)** - Personalization platform to improve website conversions using AI.
 - **[Clearbit](https://clearbit.com/)** - Lead enrichment and data intelligence platform.
