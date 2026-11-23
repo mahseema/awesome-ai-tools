@@ -81,6 +81,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
 - [Refinder AI](https://refinder.ai/) - AI-powered universal search and assistant for work
 - [Agentset.ai](https://agentset.ai/) - Open-source local Semantic Search + RAG for your data
+- [PastNoise](https://pastnoise.com/) - Search 207M+ timestamped spoken lines across 2,494+ podcast and lecture channels with deterministic sponsor-read removal.
 
 ### Local search engines
 
