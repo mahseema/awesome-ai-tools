@@ -124,6 +124,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ### ChatGPT extensions
+- [ChatSequel](https://vertexforth.com/en/prax9/chatsequel/) - Free Chrome and Edge extension for continuing ChatGPT responses after a configurable delay, with per-tab controls and context handoff.
 
 - [Gist AI](https://www.gistai.tech?utm_source=tool_directory&utm_medium=post&utm_campaign=launch) - ChatGPT-powered free Summarizer for Websites, YouTube and PDF.
 - [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - Augment your ChatGPT prompts with relevant results from the web.
