@@ -355,6 +355,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - [PlantTattoosAI](https://www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
+- [FreeUpscaler](https://freeupscaler.app) - Free AI image and video upscaler that runs entirely in your browser — 2x/4x for photos and up to 4K for video, no upload, no signup, no watermark.
 
 
 
