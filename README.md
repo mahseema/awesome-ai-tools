@@ -190,6 +190,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [Linguin](https://linguin.app) - AI translator for selected text and full pages on web, macOS, iOS and in the browser
+- [ToDowl](https://todowl.com) - Tasks, calendar, habits and notes in one workspace, with an AI assistant on the Pro plan
 
 
 ### Meeting assistants
@@ -464,6 +466,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - **[Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - **[Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- **[AskAiRank](https://askairank.com)** - Tracks how often ChatGPT, Claude, Perplexity, Gemini and other AI assistants mention your brand in their answers.
 
 
 ### Phone Calls
