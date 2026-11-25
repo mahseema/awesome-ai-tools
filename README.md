@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 - [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource](https://github.com/agenta-ai/agenta)
+- [AgentKey](https://agentkey.waiwiser.com) - AgentKey is one password vault for all your AI agents. Save a login once and every agent you use can sign in with it, each only to the sites you approve, without ever seeing the password. Approve once, revoke any time. Builders skip building the vault, approve screen, per-site permissions, revoke and audit log: add the SDK and your users' saved logins also work in their other agents.
 
 
 ## Code
