@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ReBillion.ai](https://tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - [Perch Reader](https://perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - [X-doc AI](https://x-doc.ai/) - The most accurate AI translator
+- [Cue Office](https://heycue.io/office) - All-in-one office suite combining Docs, Sheets, Slides, and PDF, with Microsoft Office compatibility and built-in AI tools.
 
 
 ### Meeting assistants
@@ -199,6 +200,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Sybill](https://www.sybill.ai/) - Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
 - [Loopin AI](https://www.loopinhq.com/) - Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar.
 - [Scribbl](https://www.scribbl.co) - AI Meeting Notes
+- [Cue](https://heycue.io) - Desktop AI assistant for voice typing, meeting transcription, and supported agent tasks using the context you provide.
 
 ### Academia
 
