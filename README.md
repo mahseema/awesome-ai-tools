@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [DLSS 5 Checker](https://www.dlss5.net/) - Open-source, evidence-based compatibility checker and 48-GPU dataset tracking NVIDIA DLSS 5 (3D-Guided Neural Rendering) and DLSS 4.5 hardware & game support.
 
 
 ## Learning resources
