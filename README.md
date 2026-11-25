@@ -545,7 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
-
+- [Hedgehog Relationships](https://hilingge.redboook.cn/en/) - A 3D family relationship board with movable animal figures and optional AI-guided reflection on the arrangement.
 
 ## Learning resources
 
