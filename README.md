@@ -404,6 +404,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
 
 
+- [Romantic Video AI](https://romantic-video.com/) - Turn one or two photos into realistic AI hug, kiss, wedding, and dance video clips on the web or via Telegram.
+
 ### Animation
 
 ## Audio
