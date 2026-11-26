@@ -173,6 +173,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [RabbitHoles AI](https://www.rabbitholes.ai/) - Chat with AI on an Infinite Canvas
 - [Rember](https://www.rember.com/) - A simple yet powerful spaced repetition system designed to help you remember more.
 - [Qurate](https://qurate.appcradle.net/) - AI Quote Companion, which can help in finding relavant quotes according to the context.
+- [Nym](https://usenym.com/) - A personal AI assistant you text, call, or chat with that finishes everyday errands (canceling subscriptions, chasing refunds, meal planning, shopping with approval) and builds private personal apps.
 - [FirmOS](https://www.firmos.ai/) - AI-Powered Automation for Accounting Firms
 - [Whisper API](https://whisper-api.com) - Whisper API is a Transcription API Powered By OpenAI Whisper model. Get 5 free transcriptions daily (no duration limits) with robust control over the model's parameters like size, temperature, beam size and more.
 - [Smmry](https://smmry.com/) - Summarize Long Content Into Clear Insights
