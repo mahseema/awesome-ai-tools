@@ -36,6 +36,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Text
 
+- [LibreAIDeck](https://libreaideck.com) - Filter 60+ offline and open-source AI tools by exact GPU VRAM and system RAM requirements.
+
 ### Models
 
 > *More complete list of AI Models: [Awesome AI Models](https://github.com/dariubs/awesome-ai-models)*
