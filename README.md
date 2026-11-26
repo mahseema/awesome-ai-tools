@@ -589,6 +589,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)
 - [Top AI Directories](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
+- [Ultimate AI Models & API Directory](https://github.com/Ajitjha3095/Ultimate-AI-Models-API-Directory) - Structured directory cataloging 608+ global AI models, LLMs, coding agents, and open-source runners across 32 categories with pricing tiers.
+
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
