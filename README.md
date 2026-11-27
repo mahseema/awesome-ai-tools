@@ -89,6 +89,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Writing assistants
 
+- [StyleFuse](https://stylefuse.top/) - 5-stage multi-agent academic writing & style fusion studio with streaming rewrites, live Canvas red/green diff, inline editing, and DOCX export.
 *For a more complete list of AI writing assistants visit: [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)*
 
 - [Jasper](https://www.jasper.ai/) - Create content faster with artificial intelligence.
