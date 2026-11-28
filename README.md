@@ -360,6 +360,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Graphic design
 
+- [AI Renovation](https://airenovation.io) - Instant AI home remodeling, exterior redesign, and MLS-safe virtual staging from a single photo (Web & iOS, Freemium).
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [Microsoft Designer](https://designer.microsoft.com/) - Stunning designs in a flash.
