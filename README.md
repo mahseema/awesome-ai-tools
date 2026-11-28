@@ -231,6 +231,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Developer tools
 
+- [AGNT](https://agnt.gg/) - Free local-first desktop AI agent OS for Windows, macOS and Linux with persistent agents, visual workflows, MCP support, approval gates and local Ollama models. [#source](https://github.com/agnt-gg/agnt)
 - [Ollama](https://ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps.
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
